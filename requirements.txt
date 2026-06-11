@@ -1,0 +1,6 @@
+pandas
+numpy
+faker
+tqdm
+scikit-learn
+matplotlib

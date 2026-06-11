@@ -1,0 +1,1001 @@
+Customer_ID,First_Name,Last_Name,Email,Phone,Age,Gender,Annual_Income,Address_Line_1,City,State,ZIP_Code,Country,Registration_Date,Account_Status,Subscription_Member,Marketing_Consent,Acquisition_Channel,Satisfaction_Score_1_10,Loyalty_Points_Balance
+CUST-001000,Samantha,Anderson,samantha26@gmail.com,892-958-9935,56,Female,78571,1524 Washington St,Seattle,WA,98101,USA,2025-01-24,Active,No,Yes,Referral,6,258
+CUST-001001,Patricia,Lopez,patricialopez@hotmail.com,865-918-9928,41,Male,26995,6973 Pine Dr,Fresno,CA,93701,USA,2023-01-24,Inactive,No,No,Organic Search,1,15
+CUST-001002,Emma,Scott,emma.scott@outlook.com,484-359-4527,53,Male,79245,5614 Oak St,New Orleans,LA,70101,USA,2021-12-02,Active,No,Yes,TV/Print,6,13
+CUST-001003,Timothy,Gonzalez,timothy_gonzalez@protonmail.com,327-587-2291,41,Female,110073,9144 Cedar Rd,Colorado Springs,CO,80901,USA,2024-12-15,Active,No,Yes,Affiliate,5,17
+CUST-001004,Helen,Campbell,helencampbell@gmail.com,281-438-2654,22,Male,98776,6327 Cedar Dr,Tulsa,OK,74101,USA,2026-01-18,Active,Yes,Yes,Paid Social,5,338
+CUST-001005,Samantha,Campbell,samantha_campbell@outlook.com,863-273-3803,39,Female,56171,8851 Pine Ave,Nashville,TN,37201,USA,2025-04-06,Active,No,Yes,Referral,7,126
+CUST-001006,Cynthia,Carter,cynthia277@aol.com,434-232-6168,23,Male,103912,6672 Cedar St,Minneapolis,MN,55401,USA,2023-04-26,Active,No,Yes,Affiliate,8,2137
+CUST-001007,Margaret,Reed,margaret898@yahoo.com,669-346-5339,34,Male,170349,2387 Pine Rd,Boston,MA,02101,USA,2025-03-31,Active,No,No,Direct,6,69
+CUST-001008,Brenda,Morgan,brenda270@yahoo.com,721-705-2489,64,Male,53438,871 Oak Ave,Long Beach,CA,90801,USA,2024-01-14,Active,Yes,Yes,Paid Social,8,19
+CUST-001009,Benjamin,Lee,benjamin812@gmail.com,679-741-5119,18,Female,35438,9164 Main Rd,Louisville,KY,40201,USA,2023-02-04,Active,Yes,No,Direct,5,18
+CUST-001010,Raymond,Anderson,raymonda@gmail.com,361-664-1053,55,Female,64318,4415 Maple Ln,New Orleans,LA,70101,USA,2024-12-10,Active,No,Yes,Organic Search,9,5868
+CUST-001011,Susan,Watson,susan306@company.com,752-997-9689,58,Female,193428,109 Elm Dr,Fresno,CA,93701,USA,2023-01-09,Inactive,Yes,Yes,Organic Search,2,14
+CUST-001012,John,Anderson,john_anderson@gmail.com,280-287-8962,33,Male,149254,1233 Maple Ave,Washington,DC,20001,USA,2025-02-04,Inactive,No,No,In-Store,3,32
+CUST-001013,Gregory,Stewart,gregorys@gmail.com,416-752-4295,61,Female,51924,5207 Washington Rd,Austin,TX,78701,USA,2024-12-14,Active,Yes,No,Organic Search,9,203
+CUST-001014,Katherine,Mitchell,katherinem@gmail.com,221-802-4770,75,Female,128373,9741 Pine St,Baltimore,MD,21201,USA,2025-10-05,Active,Yes,No,Paid Social,6,208
+CUST-001015,Elizabeth,Price,elizabeth.price@gmail.com,726-443-5562,46,Female,89381,8053 Pine Ln,Charlotte,NC,28201,USA,2026-01-22,Active,No,Yes,Paid Social,5,493
+CUST-001016,Thomas,Castillo,thomasc@yahoo.com,394-296-2588,54,Female,41340,7162 Elm Dr,Atlanta,GA,30301,USA,2023-10-15,Active,Yes,Yes,Referral,6,195
+CUST-001017,Edward,Reyes,edward885@gmail.com,547-311-5073,41,Female,149198,3239 Pine Ln,Houston,TX,77001,USA,2022-08-30,Active,No,No,Paid Social,5,57
+CUST-001018,Laura,Moore,lauramoore@outlook.com,653-763-2604,19,Female,96522,928 Main St,Seattle,WA,98101,USA,2023-11-05,Active,No,Yes,Affiliate,6,387
+CUST-001019,Dennis,Walker,dwalker@aol.com,368-588-1035,53,Female,99147,6496 Cedar Dr,Tucson,AZ,85701,USA,2023-09-28,Active,No,Yes,Direct,6,149
+CUST-001020,Andrew,Diaz,andrew714@gmail.com,422-259-9883,36,Female,44349,1098 Elm St,Cleveland,OH,44101,USA,2023-04-28,Active,Yes,No,Affiliate,8,66
+CUST-001021,Michael,Howard,michaelh@yahoo.com,390-270-2113,44,Female,75196,3953 Washington St,Sacramento,CA,95801,USA,2025-07-22,Active,Yes,Yes,Email Campaign,7,3311
+CUST-001022,Larry,Young,larryy@hotmail.com,778-735-6183,45,Female,57478,4372 Pine Rd,Chicago,IL,60601,USA,2022-12-19,Active,No,Yes,Referral,5,398
+CUST-001023,Catherine,Green,catherine_green@icloud.com,274-209-8508,35,Male,82162,9324 Oak St,Portland,OR,97201,USA,2025-09-14,Active,No,Yes,Email Campaign,7,466
+CUST-001024,Jonathan,Ramirez,jonathan_ramirez@gmail.com,491-361-8179,35,Female,78958,9000 Cedar Ln,Dallas,TX,75201,USA,2024-06-25,Active,No,No,Direct,5,20
+CUST-001025,Katherine,Ortiz,katherine9@gmail.com,470-318-2753,63,Female,70301,9164 Maple Blvd,Kansas City,MO,64101,USA,2024-10-04,Active,No,Yes,In-Store,5,29
+CUST-001026,Andrew,Cox,andrew216@yahoo.com,252-294-7939,24,Female,65732,4633 Main St,El Paso,TX,79901,USA,2025-04-19,Active,No,Yes,Organic Search,7,288
+CUST-001027,Kevin,Foster,kevin134@outlook.com,774-209-2832,24,Female,123435,1332 Maple Ln,Indianapolis,IN,46201,USA,2025-07-14,Active,Yes,Yes,TV/Print,8,41
+CUST-001028,Robert,Mitchell,robertm@yahoo.com,240-566-4441,24,Male,198011,4188 Oak Blvd,San Jose,CA,95101,USA,2024-01-11,Active,No,Yes,Affiliate,6,28
+CUST-001029,Maria,Bailey,mbailey@gmail.com,366-381-7755,24,Female,173904,506 Maple Rd,Raleigh,NC,27601,USA,2022-03-28,Active,No,No,Organic Search,8,3926
+CUST-001030,Kevin,Evans,kevin822@aol.com,310-591-1634,51,Female,112817,7811 Pine Ave,Tampa,FL,33601,USA,2021-11-22,Active,No,Yes,Organic Search,6,12
+CUST-001031,Ryan,Hall,ryanhall@gmail.com,271-991-5573,44,Female,111904,5853 Washington Rd,Charlotte,NC,28201,USA,2026-04-22,Active,No,Yes,Organic Search,6,204
+CUST-001032,Jonathan,Nelson,jonathan.nelson@outlook.com,239-311-8119,22,Female,60496,5763 Elm Dr,San Diego,CA,92101,USA,2021-07-09,Active,Yes,Yes,Paid Social,9,1195
+CUST-001033,Nicole,Rogers,nrogers@hotmail.com,201-732-9821,35,Male,23535,3328 Elm Dr,Atlanta,GA,30301,USA,2025-05-16,Inactive,Yes,Yes,Email Campaign,3,11
+CUST-001034,William,Bennett,william_bennett@outlook.com,719-516-7691,56,Female,37942,5444 Washington Rd,Raleigh,NC,27601,USA,2024-09-05,Inactive,No,Yes,Email Campaign,1,0
+CUST-001035,Donna,Peterson,donnapeterson@gmail.com,830-782-5930,41,Female,36496,6753 Main Blvd,Las Vegas,NV,89101,USA,2022-09-17,Inactive,No,Yes,Paid Social,6,64
+CUST-001036,Andrew,Clark,andrewc@yahoo.com,891-418-9375,38,Male,48572,7852 Maple Rd,Colorado Springs,CO,80901,USA,2022-10-08,Active,Yes,Yes,Organic Search,7,144
+CUST-001037,David,Torres,david528@outlook.com,440-888-6085,55,Male,106296,3780 Pine Ave,Miami,FL,33101,USA,2022-12-19,Active,Yes,Yes,Referral,9,5314
+CUST-001038,Patricia,Garcia,pgarcia@outlook.com,789-399-7291,42,Female,49604,8199 Washington Ave,Raleigh,NC,27601,USA,2021-09-03,Active,No,Yes,Direct,5,5
+CUST-001039,Charles,Wood,charles.wood@gmail.com,380-912-9486,43,Female,129325,7711 Main Ln,New Orleans,LA,70101,USA,2021-08-12,Active,No,Yes,Email Campaign,5,354
+CUST-001040,Ashley,Thomas,ashleythomas@hotmail.com,827-936-9270,32,Female,54702,7091 Lake Ave,Milwaukee,WI,53201,USA,2022-09-11,Active,Yes,No,Paid Social,9,7589
+CUST-001041,Janet,Stewart,janet_stewart@gmail.com,696-841-4919,50,Female,144003,4599 Lake St,New Orleans,LA,70101,USA,2025-01-19,Active,No,Yes,Organic Search,7,7
+CUST-001042,Catherine,Torres,catherine_torres@company.com,592-910-3503,42,Male,78591,3605 Oak Dr,El Paso,TX,79901,USA,2024-08-24,Active,No,Yes,Organic Search,7,5158
+CUST-001043,Edward,Nelson,enelson@gmail.com,988-798-1320,57,Female,68429,9532 Washington Dr,Las Vegas,NV,89101,USA,2026-02-02,Inactive,No,Yes,Paid Social,4,37
+CUST-001044,James,Rivera,jrivera@company.com,699-424-5471,20,Female,243054,7240 Lake St,Las Vegas,NV,89101,USA,2023-06-03,Active,No,No,TV/Print,9,158
+CUST-001045,Deborah,Baker,deborah685@yahoo.com,837-746-1441,51,Female,28400,6555 Main St,Portland,OR,97201,USA,2022-05-18,Active,Yes,Yes,Referral,6,23
+CUST-001046,Samuel,Diaz,sdiaz@hotmail.com,665-534-6529,47,Female,48466,6311 Cedar Dr,Jacksonville,FL,32201,USA,2026-02-27,Active,Yes,Yes,In-Store,7,346
+CUST-001047,Steven,Hernandez,steven.hernandez@gmail.com,429-865-2124,41,Male,147803,759 Main Ave,Tampa,FL,33601,USA,2023-06-01,Active,No,Yes,Email Campaign,5,50
+CUST-001048,Betty,Williams,bettywilliams@yahoo.com,423-676-5198,25,Male,88568,6143 Maple Ln,San Francisco,CA,94101,USA,2025-09-24,Active,No,Yes,Referral,8,14
+CUST-001049,Nicole,Myers,nicole.myers@gmail.com,792-226-6111,35,Non-binary,90030,9533 Washington Dr,Wichita,KS,67201,USA,2021-11-05,Active,No,Yes,Organic Search,6,454
+CUST-001050,Catherine,Sanchez,catherines@gmail.com,900-814-2983,18,Female,85178,9372 Main Blvd,Minneapolis,MN,55401,USA,2021-10-12,Inactive,No,Yes,Referral,2,3
+CUST-001051,Jonathan,Diaz,jonathan_diaz@outlook.com,701-308-8102,37,Male,59304,6034 Lake Rd,Phoenix,AZ,85001,USA,2023-08-08,Active,No,Yes,Email Campaign,7,37
+CUST-001052,Karen,Parker,karen181@hotmail.com,993-695-8616,47,Female,159411,7236 Cedar Blvd,Sacramento,CA,95801,USA,2022-10-16,Inactive,Yes,Yes,Paid Social,3,2
+CUST-001053,Ashley,Lopez,alopez@gmail.com,588-544-1470,52,Male,75445,8198 Elm Ave,San Francisco,CA,94101,USA,2022-03-26,Active,No,No,Paid Social,6,135
+CUST-001054,Gary,Ramirez,gary_ramirez@yahoo.com,395-287-4954,54,Male,90029,6758 Lake Ln,El Paso,TX,79901,USA,2024-11-14,Active,No,Yes,Referral,7,8
+CUST-001055,Ruth,Walker,rwalker@gmail.com,295-501-4630,28,Female,107641,6725 Pine Blvd,Virginia Beach,VA,23451,USA,2022-06-13,Inactive,No,Yes,Referral,4,10
+CUST-001056,Gregory,Howard,ghoward@yahoo.com,763-538-6764,39,Female,83321,7534 Cedar Blvd,Kansas City,MO,64101,USA,2023-06-18,Active,No,No,Referral,9,1401
+CUST-001057,Steven,Robinson,steven124@yahoo.com,389-396-4545,55,Female,87954,8033 Cedar Rd,Fort Worth,TX,76101,USA,2024-09-01,Active,Yes,No,Referral,5,339
+CUST-001058,Emma,Ross,emmar@outlook.com,383-509-1231,50,Male,36834,8851 Maple Blvd,Denver,CO,80201,USA,2025-11-16,Active,No,Yes,Referral,8,1971
+CUST-001059,Jennifer,Miller,jennifer_miller@company.com,787-491-8690,56,Female,62854,7943 Lake Blvd,Minneapolis,MN,55401,USA,2025-09-24,Active,No,Yes,Affiliate,8,382
+CUST-001060,Lisa,Miller,lmiller@yahoo.com,790-844-1878,58,Female,35011,2585 Maple Ln,San Diego,CA,92101,USA,2021-10-30,Active,No,No,Paid Social,5,99
+CUST-001061,Joshua,Hernandez,joshua.hernandez@hotmail.com,431-994-9561,43,Male,39450,6332 Lake Dr,Kansas City,MO,64101,USA,2022-02-25,Active,Yes,Yes,Paid Social,8,160
+CUST-001062,Joshua,Ramos,joshua_ramos@outlook.com,301-981-4404,28,Male,20089,3557 Cedar Rd,Atlanta,GA,30301,USA,2022-12-16,Active,Yes,Yes,Referral,3,34
+CUST-001063,David,Lee,davidlee@outlook.com,905-808-8699,32,Male,282507,4871 Main Ave,Kansas City,MO,64101,USA,2026-01-07,Active,No,Yes,Email Campaign,6,360
+CUST-001064,Andrew,Price,andrew290@gmail.com,803-877-4241,25,Male,29153,7065 Oak Ln,Milwaukee,WI,53201,USA,2026-01-15,Active,No,Yes,Referral,6,448
+CUST-001065,Mark,Chavez,mark_chavez@hotmail.com,809-966-5728,50,Female,122033,7295 Oak Dr,San Jose,CA,95101,USA,2026-01-14,Active,Yes,Yes,Organic Search,5,14
+CUST-001066,Frank,Hill,fhill@outlook.com,240-642-6280,38,Female,92526,9991 Cedar St,Seattle,WA,98101,USA,2023-08-20,Active,Yes,No,Paid Social,10,3462
+CUST-001067,Barbara,Robinson,barbara985@gmail.com,475-790-1659,18,Male,68940,2970 Lake Ln,Atlanta,GA,30301,USA,2023-02-23,Active,No,Yes,Paid Social,3,86
+CUST-001068,Katherine,Cruz,katherine_cruz@outlook.com,293-681-6700,28,Male,128600,6790 Elm Blvd,Jacksonville,FL,32201,USA,2023-02-27,Active,Yes,Yes,Referral,10,7274
+CUST-001069,Christine,Wilson,christinewilson@gmail.com,978-763-1601,67,Male,83564,7551 Oak Blvd,El Paso,TX,79901,USA,2024-02-17,Inactive,No,Yes,In-Store,4,23
+CUST-001070,Steven,Adams,sadams@yahoo.com,673-623-1888,45,Male,165791,3173 Elm Ln,Fresno,CA,93701,USA,2021-10-24,Active,No,No,Referral,5,9
+CUST-001071,Dennis,Murphy,dmurphy@hotmail.com,494-648-8941,38,Male,93033,2089 Main Rd,New Orleans,LA,70101,USA,2026-02-24,Active,No,Yes,Affiliate,6,203
+CUST-001072,Nicole,Walker,nicolewalker@icloud.com,430-316-8560,24,Female,48255,2024 Maple Dr,Washington,DC,20001,USA,2023-05-08,Active,Yes,No,Paid Social,7,6026
+CUST-001073,Catherine,Nguyen,catherine522@outlook.com,667-764-3369,45,Male,45742,6384 Pine Ln,Seattle,WA,98101,USA,2024-02-10,Active,Yes,Yes,Affiliate,6,68
+CUST-001074,Angela,Myers,angelamyers@gmail.com,473-202-5634,59,Female,193694,4991 Lake Ave,Phoenix,AZ,85001,USA,2024-11-21,Active,Yes,Yes,Email Campaign,8,27
+CUST-001075,Laura,Morgan,laura_morgan@yahoo.com,393-914-4912,30,Male,195530,9468 Washington Ave,El Paso,TX,79901,USA,2023-05-06,Active,No,Yes,In-Store,9,16
+CUST-001076,Maria,Evans,maria_evans@gmail.com,867-355-9115,46,Female,53077,706 Maple Ln,Tampa,FL,33601,USA,2023-10-15,Active,Yes,Yes,Organic Search,8,6
+CUST-001077,Emma,Nelson,emma.nelson@aol.com,619-870-3529,33,Male,39781,1325 Lake Blvd,Baltimore,MD,21201,USA,2025-11-17,Active,No,Yes,Email Campaign,10,7651
+CUST-001078,Carol,Richardson,crichardson@gmail.com,589-524-8994,33,Female,111393,8964 Main Ln,Virginia Beach,VA,23451,USA,2025-12-27,Active,No,Yes,Email Campaign,7,210
+CUST-001079,William,Walker,william647@gmail.com,978-848-2646,59,Prefer not to say,35391,7369 Maple Rd,Denver,CO,80201,USA,2025-03-01,Active,No,Yes,Direct,7,1598
+CUST-001080,Joshua,Brown,joshua_brown@yahoo.com,349-450-9702,43,Female,48604,6851 Maple Ave,Cleveland,OH,44101,USA,2026-02-15,Active,No,Yes,Email Campaign,5,88
+CUST-001081,Daniel,Hernandez,dhernandez@gmail.com,346-437-8555,64,Male,60835,4261 Lake Blvd,Raleigh,NC,27601,USA,2022-08-10,Active,No,No,TV/Print,6,18
+CUST-001082,Christine,Johnson,cjohnson@gmail.com,553-801-5901,26,Prefer not to say,60485,7051 Cedar Dr,Denver,CO,80201,USA,2022-08-22,Active,No,Yes,Affiliate,9,96
+CUST-001083,Joshua,Sanchez,jsanchez@yahoo.com,502-916-5837,31,Female,83717,459 Washington Blvd,San Antonio,TX,78201,USA,2025-02-09,Active,Yes,No,Direct,10,3100
+CUST-001084,Mary,Reed,mary886@outlook.com,708-493-4770,30,Male,32901,5872 Pine Rd,Wichita,KS,67201,USA,2022-04-06,Active,No,Yes,Paid Social,5,484
+CUST-001085,Matthew,Richardson,matthew257@yahoo.com,861-240-6061,72,Female,37090,7322 Main Ln,New Orleans,LA,70101,USA,2022-05-25,Active,No,Yes,In-Store,6,462
+CUST-001086,George,Sanders,george.sanders@aol.com,752-574-9697,43,Male,68917,8321 Cedar Ave,Denver,CO,80201,USA,2024-08-09,Active,No,No,Direct,8,24
+CUST-001087,Steven,Morris,steven_morris@hotmail.com,277-344-4696,34,Male,63461,6611 Elm St,Tampa,FL,33601,USA,2021-07-23,Active,Yes,Yes,Paid Social,7,54
+CUST-001088,Ronald,Johnson,ronaldj@protonmail.com,468-798-7242,57,Male,97228,6186 Oak Rd,San Diego,CA,92101,USA,2023-11-21,Inactive,No,Yes,Referral,5,75
+CUST-001089,Sandra,Stewart,sandras@hotmail.com,675-917-5951,42,Male,33286,6789 Oak Ave,Kansas City,MO,64101,USA,2024-08-07,Active,Yes,Yes,Organic Search,6,28
+CUST-001090,Jennifer,Jones,jjones@gmail.com,597-664-7078,49,Male,75538,8950 Washington Ln,San Diego,CA,92101,USA,2025-11-22,Active,Yes,Yes,Paid Social,8,2283
+CUST-001091,Janet,Sanders,jsanders@gmail.com,233-906-7070,25,Female,104815,3659 Lake Dr,Virginia Beach,VA,23451,USA,2025-11-19,Active,No,Yes,Organic Search,8,6
+CUST-001092,Donald,Campbell,donald102@hotmail.com,394-325-8450,32,Prefer not to say,70432,1601 Pine Rd,Detroit,MI,48201,USA,2023-05-21,Active,Yes,Yes,In-Store,7,11
+CUST-001093,Samantha,Kim,samantha.kim@gmail.com,778-410-2124,33,Female,60993,9180 Pine Ln,Houston,TX,77001,USA,2022-01-10,Active,Yes,Yes,In-Store,7,19
+CUST-001094,Margaret,Robinson,margaretrobinson@hotmail.com,333-753-5106,20,Female,126432,2958 Oak Rd,Cleveland,OH,44101,USA,2023-02-05,Active,No,Yes,Organic Search,5,20
+CUST-001095,Patricia,Taylor,patricia_taylor@aol.com,378-471-1858,22,Male,63904,2176 Washington Ln,Cleveland,OH,44101,USA,2022-01-07,Active,No,No,Direct,6,36
+CUST-001096,Joseph,Myers,jmyers@hotmail.com,662-715-4629,41,Female,65868,810 Cedar Dr,Baltimore,MD,21201,USA,2022-01-28,Active,Yes,Yes,Direct,7,8
+CUST-001097,Samuel,Brown,sbrown@gmail.com,275-282-6277,21,Male,81635,2530 Oak Ave,Portland,OR,97201,USA,2024-01-18,Active,Yes,No,Direct,5,508
+CUST-001098,Emily,Richardson,emilyr@protonmail.com,743-501-8433,28,Female,71785,8382 Washington St,Kansas City,MO,64101,USA,2022-06-12,Active,No,No,Organic Search,9,3353
+CUST-001099,Rachel,Anderson,rachel874@yahoo.com,623-547-8430,35,Female,43007,6632 Washington Rd,Virginia Beach,VA,23451,USA,2021-07-08,Active,No,Yes,Paid Social,8,1744
+CUST-001100,Richard,Green,richard_green@yahoo.com,685-268-2494,45,Female,82806,1498 Oak Dr,Omaha,NE,68101,USA,2025-01-03,Active,No,Yes,Referral,9,5252
+CUST-001101,Richard,Myers,richard_myers@yahoo.com,775-537-3002,51,Male,54570,6830 Elm Rd,Dallas,TX,75201,USA,2023-04-27,Active,No,Yes,Referral,5,52
+CUST-001102,Dennis,Diaz,dennis889@outlook.com,791-719-4485,45,Female,118148,2635 Lake Ave,Houston,TX,77001,USA,2024-10-28,Active,Yes,Yes,Organic Search,9,230
+CUST-001103,Susan,Hall,susanh@hotmail.com,774-985-1430,70,Male,79373,4481 Main Ave,Detroit,MI,48201,USA,2025-10-17,Active,Yes,Yes,Organic Search,7,43
+CUST-001104,Paul,Hughes,paul_hughes@gmail.com,779-873-7566,30,Male,159418,1240 Maple Rd,El Paso,TX,79901,USA,2024-06-21,Active,No,Yes,Organic Search,3,113
+CUST-001105,Samantha,Brown,samantha94@gmail.com,361-578-6105,45,Female,47824,5414 Oak St,Sacramento,CA,95801,USA,2025-03-26,Active,Yes,Yes,Organic Search,8,329
+CUST-001106,Karen,Lee,karenl@protonmail.com,634-697-8242,55,Female,46440,6885 Cedar Ave,Houston,TX,77001,USA,2022-08-29,Active,No,Yes,Organic Search,5,509
+CUST-001107,Dennis,Rogers,dennis_rogers@outlook.com,698-739-6053,50,Female,152478,844 Pine Dr,Louisville,KY,40201,USA,2025-10-25,Active,Yes,No,Direct,7,23
+CUST-001108,Scott,Davis,scottdavis@gmail.com,535-322-1126,42,Female,85918,8249 Washington Ave,Washington,DC,20001,USA,2025-04-03,Active,No,No,Referral,6,639
+CUST-001109,Thomas,Carter,thomas546@gmail.com,243-646-1307,49,Male,64458,7632 Oak Blvd,Charlotte,NC,28201,USA,2023-08-20,Active,No,Yes,Paid Social,9,5237
+CUST-001110,Pamela,Diaz,pdiaz@outlook.com,221-532-3815,38,Female,61939,7638 Elm St,Tulsa,OK,74101,USA,2022-11-06,Active,No,Yes,Direct,8,331
+CUST-001111,Sharon,Wilson,swilson@aol.com,963-547-4630,53,Male,44882,5556 Maple St,Long Beach,CA,90801,USA,2024-03-11,Active,No,Yes,Direct,9,534
+CUST-001112,Angela,Brooks,angelab@outlook.com,351-441-2684,44,Prefer not to say,33587,2499 Cedar Ave,Fresno,CA,93701,USA,2025-05-08,Inactive,No,Yes,Organic Search,3,17
+CUST-001113,Daniel,Cox,daniel157@gmail.com,978-793-8354,53,Male,103439,9348 Elm Rd,Phoenix,AZ,85001,USA,2025-06-12,Active,No,Yes,Email Campaign,6,34
+CUST-001114,Kenneth,Martin,kenneth.martin@outlook.com,257-560-9312,18,Female,76654,1315 Cedar Dr,Albuquerque,NM,87101,USA,2023-12-17,Active,No,No,Referral,7,13
+CUST-001115,Laura,Jones,laura_jones@hotmail.com,593-673-1672,40,Male,35081,7468 Pine Blvd,Denver,CO,80201,USA,2026-01-03,Active,No,No,Organic Search,3,90
+CUST-001116,Nicole,Stewart,nicolestewart@yahoo.com,931-286-9266,33,Female,104104,2927 Main Ave,Houston,TX,77001,USA,2023-11-30,Inactive,No,Yes,Paid Social,3,23
+CUST-001117,Patrick,Cruz,patrickc@hotmail.com,596-618-6543,40,Female,73777,9895 Main Rd,Sacramento,CA,95801,USA,2023-01-08,Active,Yes,Yes,Organic Search,6,341
+CUST-001118,Samuel,Nelson,samuel_nelson@protonmail.com,872-817-3463,21,Male,37654,5561 Oak Ln,San Antonio,TX,78201,USA,2023-04-24,Active,No,No,Paid Social,6,98
+CUST-001119,Gregory,Jackson,gregory_jackson@yahoo.com,286-517-7171,50,Female,89610,5481 Maple Rd,Washington,DC,20001,USA,2022-10-05,Active,No,Yes,Referral,8,34
+CUST-001120,Rachel,Patel,rachelp@gmail.com,571-516-3953,20,Female,155990,3609 Elm Dr,Philadelphia,PA,19101,USA,2022-10-25,Active,No,Yes,Referral,6,14
+CUST-001121,Matthew,Lewis,matthewlewis@gmail.com,956-739-1618,63,Female,243690,5617 Maple Ln,Phoenix,AZ,85001,USA,2024-10-12,Active,No,No,Paid Social,3,57
+CUST-001122,Timothy,Martin,timothymartin@hotmail.com,938-648-1715,30,Male,72982,6831 Elm Rd,Minneapolis,MN,55401,USA,2022-02-11,Active,Yes,No,Referral,9,382
+CUST-001123,Raymond,Walker,rwalker@hotmail.com,516-680-4178,18,Male,118250,6126 Lake Dr,Raleigh,NC,27601,USA,2024-11-03,Active,Yes,Yes,Organic Search,10,2803
+CUST-001124,Jerry,Torres,jtorres@gmail.com,819-341-5096,63,Prefer not to say,106775,954 Lake Blvd,Fresno,CA,93701,USA,2023-06-25,Active,No,Yes,Paid Social,8,505
+CUST-001125,Stephen,Wilson,stephenw@outlook.com,660-725-3414,37,Male,85562,7267 Oak Ave,San Diego,CA,92101,USA,2024-11-03,Active,No,Yes,Email Campaign,5,187
+CUST-001126,Laura,Hall,laura.hall@outlook.com,595-283-7142,35,Male,37355,3778 Main Blvd,Las Vegas,NV,89101,USA,2026-02-20,Active,Yes,No,Paid Social,6,91
+CUST-001127,Richard,Alvarez,richard_alvarez@yahoo.com,912-342-8685,46,Male,66932,7449 Main St,Cleveland,OH,44101,USA,2025-08-14,Active,No,No,Organic Search,4,81
+CUST-001128,John,Allen,johnallen@hotmail.com,443-508-2996,25,Male,15000,882 Pine Dr,Kansas City,MO,64101,USA,2022-05-12,Active,Yes,Yes,Email Campaign,10,2849
+CUST-001129,Samantha,Richardson,samantha.richardson@yahoo.com,847-727-4963,54,Male,116642,2452 Cedar Dr,San Diego,CA,92101,USA,2021-09-30,Active,No,Yes,Direct,8,78
+CUST-001130,James,Ward,jamesward@outlook.com,736-569-2108,40,Male,64718,8718 Main Dr,Atlanta,GA,30301,USA,2024-02-07,Active,Yes,No,Organic Search,6,548
+CUST-001131,Jacob,Garcia,jgarcia@gmail.com,553-446-2698,37,Female,187374,9633 Elm Ave,Detroit,MI,48201,USA,2025-01-06,Active,Yes,Yes,Organic Search,5,489
+CUST-001132,Jennifer,Rivera,jennifer_rivera@gmail.com,846-386-3209,18,Male,124296,1133 Lake St,Virginia Beach,VA,23451,USA,2025-06-16,Active,No,Yes,Referral,10,5045
+CUST-001133,Donna,Sanchez,donnasanchez@protonmail.com,684-459-1599,51,Male,77501,3231 Cedar Blvd,Chicago,IL,60601,USA,2024-09-01,Active,No,Yes,Direct,7,441
+CUST-001134,Maria,Miller,maria887@company.com,609-961-8204,53,Male,34455,6434 Elm Ave,El Paso,TX,79901,USA,2024-11-27,Inactive,No,Yes,In-Store,1,9
+CUST-001135,Amy,Ruiz,amy_ruiz@outlook.com,640-816-3956,30,Male,60526,9037 Cedar Blvd,Sacramento,CA,95801,USA,2024-12-10,Active,Yes,Yes,Affiliate,5,553
+CUST-001136,Susan,Hernandez,susan336@outlook.com,370-906-8272,27,Female,75887,5859 Lake St,Denver,CO,80201,USA,2024-09-20,Active,No,Yes,Referral,8,35
+CUST-001137,Carolyn,Rivera,crivera@yahoo.com,615-572-9406,40,Female,44470,2721 Main Ave,Seattle,WA,98101,USA,2022-11-08,Active,Yes,No,Affiliate,5,7
+CUST-001138,Nicole,Gray,ngray@outlook.com,575-570-7272,18,Female,39901,9393 Main Ln,Chicago,IL,60601,USA,2025-09-24,Active,No,Yes,Email Campaign,5,344
+CUST-001139,Karen,Gray,karen_gray@hotmail.com,575-607-6150,32,Female,70591,4666 Pine St,Detroit,MI,48201,USA,2023-12-13,Inactive,Yes,Yes,Organic Search,1,5
+CUST-001140,Patricia,Patel,ppatel@gmail.com,920-656-4515,43,Male,193843,4778 Lake Ave,Sacramento,CA,95801,USA,2024-04-08,Inactive,No,No,Affiliate,5,3
+CUST-001141,Jessica,Moore,jessica.moore@gmail.com,527-883-6692,46,Female,71743,1163 Cedar Blvd,Baltimore,MD,21201,USA,2025-06-21,Active,Yes,Yes,Email Campaign,8,116
+CUST-001142,Christopher,Alvarez,christopher727@icloud.com,405-342-4878,39,Male,350000,8194 Main Blvd,Miami,FL,33101,USA,2025-06-18,Active,No,No,Paid Social,7,9
+CUST-001143,Stephen,Kelly,skelly@hotmail.com,516-607-8842,18,Female,82486,8712 Washington Dr,Kansas City,MO,64101,USA,2025-09-17,Active,No,Yes,Direct,9,101
+CUST-001144,Pamela,Martinez,pamela_martinez@yahoo.com,552-331-3981,42,Male,121986,2214 Washington Ln,Virginia Beach,VA,23451,USA,2026-01-09,Active,No,No,Paid Social,8,305
+CUST-001145,Linda,Thomas,lindathomas@aol.com,430-554-9501,38,Prefer not to say,97738,4753 Oak Blvd,Washington,DC,20001,USA,2025-07-07,Active,Yes,Yes,Organic Search,8,3189
+CUST-001146,Betty,Brooks,bettyb@aol.com,714-856-3762,28,Male,94292,9796 Maple Ave,Seattle,WA,98101,USA,2025-09-26,Active,No,Yes,Affiliate,7,57
+CUST-001147,Gregory,Richardson,gregoryr@hotmail.com,283-246-5336,49,Male,73385,3553 Washington Ln,El Paso,TX,79901,USA,2021-09-18,Active,No,Yes,Referral,5,71
+CUST-001148,Samantha,Brown,samantha510@gmail.com,615-504-8430,39,Male,132116,1295 Main Ave,Mesa,AZ,85201,USA,2024-10-24,Active,Yes,Yes,Email Campaign,9,3740
+CUST-001149,Jeffrey,Turner,jturner@outlook.com,526-951-6658,30,Female,104596,6632 Maple Blvd,Columbus,OH,43201,USA,2024-07-13,Active,No,Yes,Referral,9,256
+CUST-001150,Angela,Bailey,angela_bailey@gmail.com,344-299-1829,60,Male,68129,4854 Washington Ln,San Francisco,CA,94101,USA,2023-10-28,Active,No,No,Paid Social,3,27
+CUST-001151,Rebecca,Young,rebeccayoung@gmail.com,710-727-8648,53,Male,101522,8271 Cedar Dr,Boston,MA,02101,USA,2023-03-14,Active,Yes,Yes,Paid Social,7,621
+CUST-001152,John,Lopez,jlopez@yahoo.com,249-251-5609,52,Female,155474,8208 Lake Blvd,Fresno,CA,93701,USA,2023-11-16,Active,No,No,Email Campaign,8,7968
+CUST-001153,Jonathan,Johnson,jonathan.johnson@protonmail.com,574-246-7563,29,Female,88842,938 Pine Blvd,Louisville,KY,40201,USA,2025-09-08,Active,Yes,Yes,Organic Search,7,23
+CUST-001154,Stephen,Torres,storres@gmail.com,896-825-2946,36,Female,100163,2208 Oak Dr,Fresno,CA,93701,USA,2023-11-30,Inactive,Yes,Yes,Referral,5,6
+CUST-001155,Melissa,Baker,melissa_baker@yahoo.com,712-241-1742,27,Male,48696,737 Maple Rd,New Orleans,LA,70101,USA,2025-08-18,Active,Yes,Yes,TV/Print,6,289
+CUST-001156,Kevin,Stewart,kstewart@aol.com,526-366-7438,52,Female,109149,5002 Elm Ln,San Jose,CA,95101,USA,2023-01-15,Active,Yes,No,Referral,9,25
+CUST-001157,Angela,Morgan,angela502@outlook.com,539-889-2795,40,Male,40752,6924 Cedar Rd,Atlanta,GA,30301,USA,2024-10-04,Active,No,Yes,Paid Social,8,4
+CUST-001158,Frank,Watson,frankw@protonmail.com,252-797-8871,39,Male,41542,2893 Washington Ave,Albuquerque,NM,87101,USA,2024-12-13,Active,No,No,Paid Social,9,191
+CUST-001159,Debra,Young,debray@aol.com,628-355-7765,49,Female,62584,3440 Washington Ln,Minneapolis,MN,55401,USA,2025-10-27,Active,No,Yes,In-Store,6,22
+CUST-001160,Maria,Ward,mward@outlook.com,412-774-6325,54,Male,53313,7937 Washington Blvd,Tampa,FL,33601,USA,2022-05-12,Active,No,Yes,Referral,5,574
+CUST-001161,Daniel,Collins,danielc@yahoo.com,897-858-5331,38,Male,59302,8032 Pine Ave,El Paso,TX,79901,USA,2023-05-18,Active,No,Yes,Email Campaign,7,34
+CUST-001162,Emily,Bailey,emilybailey@gmail.com,921-700-6194,56,Male,43548,7961 Elm Ln,Washington,DC,20001,USA,2022-02-11,Active,No,No,Referral,7,20
+CUST-001163,Raymond,Scott,raymond.scott@outlook.com,553-991-3399,40,Female,66085,4858 Main Blvd,Atlanta,GA,30301,USA,2022-08-24,Active,Yes,Yes,In-Store,8,33
+CUST-001164,Catherine,Hernandez,chernandez@aol.com,477-775-5450,31,Female,74730,2349 Oak Ln,Virginia Beach,VA,23451,USA,2024-12-31,Active,No,Yes,Organic Search,10,3774
+CUST-001165,Jack,Ramos,jackramos@icloud.com,302-623-6411,55,Female,98780,7839 Oak Rd,Houston,TX,77001,USA,2022-09-07,Active,No,Yes,Paid Social,4,79
+CUST-001166,Jerry,Moore,jerrym@yahoo.com,974-494-6262,49,Female,166740,4776 Main St,Austin,TX,78701,USA,2024-02-27,Active,No,Yes,Referral,8,349
+CUST-001167,Katherine,Kelly,katherinek@outlook.com,627-380-1595,27,Female,116975,6604 Lake Ave,Tampa,FL,33601,USA,2022-05-21,Active,Yes,Yes,Email Campaign,5,230
+CUST-001168,Janet,Nguyen,janet.nguyen@outlook.com,491-665-9901,43,Female,101812,8690 Lake Ave,New York,NY,10001,USA,2024-10-06,Active,No,Yes,Organic Search,7,2395
+CUST-001169,Nicholas,Reyes,nicholasreyes@gmail.com,463-935-4050,35,Male,19445,330 Elm Blvd,San Diego,CA,92101,USA,2024-08-01,Active,Yes,Yes,In-Store,6,10
+CUST-001170,Larry,Gray,larrygray@gmail.com,535-288-7567,22,Female,69573,1662 Maple Ave,Jacksonville,FL,32201,USA,2023-01-05,Active,Yes,Yes,Email Campaign,8,10
+CUST-001171,Kathleen,Adams,kathleenadams@gmail.com,473-537-5947,57,Female,51713,9643 Main Blvd,New York,NY,10001,USA,2024-12-22,Active,No,Yes,TV/Print,10,5715
+CUST-001172,Katherine,Campbell,katherinecampbell@yahoo.com,615-902-9233,44,Male,46574,5195 Oak Rd,Houston,TX,77001,USA,2022-09-11,Active,Yes,Yes,Affiliate,5,38
+CUST-001173,Donna,Mitchell,donnamitchell@yahoo.com,820-582-7813,36,Male,49427,9098 Lake Ln,Charlotte,NC,28201,USA,2025-09-09,Active,No,Yes,TV/Print,8,165
+CUST-001174,Christine,Ramirez,christineramirez@outlook.com,920-570-2279,19,Female,125119,9343 Oak St,Oakland,CA,94601,USA,2022-03-17,Active,No,No,Organic Search,5,53
+CUST-001175,Stephen,Cook,stephenc@outlook.com,652-319-4365,44,Female,50571,9654 Lake St,Mesa,AZ,85201,USA,2025-08-07,Active,Yes,Yes,Email Campaign,6,194
+CUST-001176,Angela,Edwards,angela.edwards@yahoo.com,259-772-8575,39,Female,40444,5149 Main Dr,Milwaukee,WI,53201,USA,2025-09-12,Active,Yes,Yes,Paid Social,9,11
+CUST-001177,Steven,Smith,stevensmith@icloud.com,265-754-1987,59,Male,146423,1230 Lake St,Long Beach,CA,90801,USA,2026-01-11,Active,No,Yes,Referral,5,540
+CUST-001178,Andrew,Evans,andrewevans@icloud.com,659-586-7154,55,Female,86879,1414 Maple Rd,Wichita,KS,67201,USA,2022-11-04,Inactive,Yes,No,Organic Search,4,22
+CUST-001179,Brian,Thomas,briant@yahoo.com,203-974-1372,18,Female,49645,4988 Lake Rd,Portland,OR,97201,USA,2023-06-22,Active,No,Yes,Organic Search,8,3675
+CUST-001180,Raymond,Cooper,raymondc@outlook.com,358-482-4088,59,Female,43490,1948 Main Rd,Oklahoma City,OK,73101,USA,2021-10-27,Active,No,Yes,Paid Social,6,435
+CUST-001181,Rebecca,Ward,rebecca.ward@outlook.com,657-812-1797,28,Female,37920,4109 Main Dr,San Francisco,CA,94101,USA,2025-04-13,Active,No,No,Affiliate,7,4362
+CUST-001182,Jeffrey,Robinson,jeffreyrobinson@aol.com,439-949-6224,40,Male,118953,9561 Elm Ave,New Orleans,LA,70101,USA,2021-08-06,Inactive,No,Yes,Referral,1,17
+CUST-001183,Joshua,Jackson,joshuaj@outlook.com,805-952-3869,28,Male,177942,7099 Lake St,Charlotte,NC,28201,USA,2024-02-14,Active,Yes,No,Paid Social,5,35
+CUST-001184,Brian,Chavez,bchavez@gmail.com,352-507-7167,42,Female,66382,3112 Lake Ave,Cleveland,OH,44101,USA,2023-07-01,Active,Yes,Yes,Paid Social,7,276
+CUST-001185,Mark,Hill,mark879@gmail.com,622-626-9683,55,Male,192788,2296 Washington Ave,San Jose,CA,95101,USA,2021-12-02,Active,Yes,No,Email Campaign,8,9
+CUST-001186,Steven,Clark,steven339@outlook.com,395-252-5398,41,Male,36753,6279 Main St,Philadelphia,PA,19101,USA,2023-12-01,Active,No,Yes,Organic Search,5,18
+CUST-001187,Matthew,Ross,matthew602@gmail.com,510-215-4470,26,Male,58859,3213 Oak Rd,Omaha,NE,68101,USA,2023-04-22,Active,No,Yes,Paid Social,6,27
+CUST-001188,Dennis,Morris,dennismorris@icloud.com,765-529-5637,51,Female,59856,6336 Lake Ln,Minneapolis,MN,55401,USA,2023-01-19,Active,No,No,Paid Social,6,58
+CUST-001189,Katherine,Rivera,katherine_rivera@protonmail.com,680-979-6246,20,Male,29978,3428 Elm Blvd,Detroit,MI,48201,USA,2023-07-25,Active,No,Yes,Email Campaign,8,146
+CUST-001190,Edward,Garcia,edwardgarcia@yahoo.com,793-937-7841,50,Male,98765,4936 Maple Ave,Tampa,FL,33601,USA,2025-08-15,Active,Yes,Yes,Organic Search,7,1423
+CUST-001191,Kevin,Robinson,kevinr@gmail.com,940-857-9037,24,Non-binary,43520,7650 Maple Rd,San Francisco,CA,94101,USA,2023-08-22,Active,Yes,Yes,Organic Search,5,79
+CUST-001192,Amanda,Perez,amanda144@yahoo.com,857-260-9584,39,Male,296706,654 Oak Rd,Mesa,AZ,85201,USA,2023-09-13,Inactive,No,Yes,Email Campaign,4,53
+CUST-001193,Michael,Ross,mross@outlook.com,209-423-9285,35,Male,34013,7571 Elm St,Dallas,TX,75201,USA,2021-09-18,Active,No,Yes,Organic Search,6,23
+CUST-001194,Helen,Brooks,helenb@protonmail.com,764-621-1194,45,Female,96820,374 Cedar Ln,Albuquerque,NM,87101,USA,2022-09-28,Active,No,Yes,Direct,8,277
+CUST-001195,Andrew,Williams,andrew515@gmail.com,736-352-4948,32,Female,123488,3244 Cedar Blvd,Oakland,CA,94601,USA,2024-01-10,Active,No,Yes,Email Campaign,6,143
+CUST-001196,Paul,Gomez,paul_gomez@company.com,431-507-2320,57,Female,70909,619 Oak Dr,Portland,OR,97201,USA,2023-11-12,Active,No,Yes,Organic Search,9,19
+CUST-001197,Timothy,Carter,tcarter@hotmail.com,711-644-6427,45,Female,17122,9370 Oak Ln,Houston,TX,77001,USA,2022-11-13,Active,No,No,Paid Social,3,106
+CUST-001198,Jennifer,Robinson,jennifer217@hotmail.com,900-487-9897,47,Female,179001,9332 Main Ave,Atlanta,GA,30301,USA,2023-10-10,Active,Yes,No,Paid Social,5,99
+CUST-001199,Kenneth,Williams,kennethwilliams@hotmail.com,366-777-4939,40,Female,133537,9384 Washington Rd,Long Beach,CA,90801,USA,2025-08-18,Active,No,No,Organic Search,8,9
+CUST-001200,Anna,Nelson,anna394@yahoo.com,254-300-8161,57,Female,129122,3903 Oak Blvd,Dallas,TX,75201,USA,2022-01-03,Active,Yes,Yes,Paid Social,5,7
+CUST-001201,Nicole,Foster,nicolef@hotmail.com,661-702-4737,29,Female,48514,5929 Washington Dr,Portland,OR,97201,USA,2022-02-06,Active,Yes,No,Referral,9,6384
+CUST-001202,Lisa,Mendoza,lisa600@hotmail.com,930-275-2344,52,Female,99678,4490 Maple Dr,Oklahoma City,OK,73101,USA,2025-12-16,Active,Yes,No,Direct,9,377
+CUST-001203,Catherine,Brooks,catherine158@outlook.com,515-655-6896,50,Female,95778,4519 Oak Ave,Oklahoma City,OK,73101,USA,2024-08-30,Active,No,Yes,Paid Social,5,88
+CUST-001204,Barbara,White,bwhite@yahoo.com,562-767-2524,39,Male,52624,9880 Elm Dr,Kansas City,MO,64101,USA,2023-04-30,Active,No,No,Organic Search,8,52
+CUST-001205,Mary,Nguyen,mnguyen@protonmail.com,901-589-3777,18,Male,83114,2374 Cedar Blvd,Wichita,KS,67201,USA,2025-12-18,Active,No,No,Referral,8,2662
+CUST-001206,Paul,Murphy,paul.murphy@gmail.com,278-569-5123,39,Male,47774,4140 Lake Ln,Austin,TX,78701,USA,2024-01-01,Active,Yes,Yes,Direct,9,5995
+CUST-001207,Brandon,Sanchez,brandon.sanchez@icloud.com,835-589-6399,53,Male,65101,7312 Elm Dr,Dallas,TX,75201,USA,2024-09-24,Active,No,Yes,Referral,5,16
+CUST-001208,Katherine,Kim,katherine_kim@protonmail.com,607-526-5775,18,Female,150522,8144 Pine Blvd,Boston,MA,02101,USA,2023-01-21,Active,Yes,No,Email Campaign,8,7670
+CUST-001209,Timothy,Scott,tscott@yahoo.com,384-898-1440,67,Male,153793,7663 Pine Dr,Detroit,MI,48201,USA,2025-10-19,Active,No,Yes,Referral,9,102
+CUST-001210,Donna,Ruiz,druiz@hotmail.com,458-874-3525,45,Female,166346,7032 Washington St,Oakland,CA,94601,USA,2023-08-22,Active,Yes,No,Paid Social,6,57
+CUST-001211,Laura,Kim,laurak@yahoo.com,628-756-1602,32,Female,57206,5990 Oak St,Portland,OR,97201,USA,2023-06-11,Active,Yes,Yes,Paid Social,9,3
+CUST-001212,Jerry,Young,jerry674@gmail.com,893-862-7547,33,Male,73808,5532 Washington St,Nashville,TN,37201,USA,2025-07-04,Active,No,Yes,Affiliate,9,15
+CUST-001213,Mary,Gonzalez,marygonzalez@gmail.com,789-426-8303,53,Male,43465,6229 Washington Dr,Fresno,CA,93701,USA,2022-04-02,Active,Yes,Yes,Paid Social,9,139
+CUST-001214,Jerry,Gray,jerry603@hotmail.com,307-502-7815,56,Female,49107,1506 Oak Rd,Fresno,CA,93701,USA,2025-08-05,Active,No,No,Paid Social,7,14
+CUST-001215,Charles,Hall,charles_hall@protonmail.com,687-299-8178,45,Female,51551,7512 Elm St,Milwaukee,WI,53201,USA,2022-01-15,Active,No,Yes,Referral,6,209
+CUST-001216,Joshua,Garcia,joshua830@gmail.com,368-958-4996,49,Female,44808,8554 Maple Ln,San Diego,CA,92101,USA,2026-04-24,Active,No,No,In-Store,7,61
+CUST-001217,Christopher,Nelson,cnelson@outlook.com,855-873-8080,33,Female,60497,6581 Main Rd,Milwaukee,WI,53201,USA,2025-02-20,Active,No,Yes,Paid Social,8,27
+CUST-001218,Brandon,Sanchez,brandons@protonmail.com,485-970-2025,18,Male,73875,9559 Oak Ln,Louisville,KY,40201,USA,2024-04-04,Active,Yes,Yes,Paid Social,5,20
+CUST-001219,Lisa,Campbell,lisacampbell@gmail.com,740-854-6134,35,Female,174814,9880 Washington Ln,Milwaukee,WI,53201,USA,2025-10-19,Inactive,Yes,Yes,Email Campaign,5,52
+CUST-001220,Ronald,Ramos,ronald_ramos@aol.com,922-504-2388,51,Female,38441,2294 Elm St,Nashville,TN,37201,USA,2021-09-12,Active,Yes,Yes,Referral,8,6
+CUST-001221,Donald,Flores,donaldflores@hotmail.com,810-341-7286,57,Male,32169,7031 Maple Dr,Detroit,MI,48201,USA,2022-07-20,Active,No,Yes,Affiliate,6,50
+CUST-001222,Samantha,Morgan,samantha711@gmail.com,391-522-8389,34,Male,66325,978 Elm St,Jacksonville,FL,32201,USA,2023-04-30,Active,No,Yes,Affiliate,8,3831
+CUST-001223,Gary,Moore,gmoore@gmail.com,625-927-8272,20,Male,37038,8106 Maple St,Kansas City,MO,64101,USA,2023-08-09,Active,Yes,Yes,Email Campaign,8,193
+CUST-001224,Larry,Brown,larrybrown@yahoo.com,372-999-8492,75,Male,117097,9367 Lake Ln,Denver,CO,80201,USA,2026-04-04,Active,No,No,Email Campaign,7,268
+CUST-001225,Angela,Anderson,angela.anderson@outlook.com,755-974-1681,56,Female,47378,7331 Pine Dr,Seattle,WA,98101,USA,2022-02-03,Active,No,No,Organic Search,9,209
+CUST-001226,Susan,Patel,susan850@gmail.com,660-469-6711,51,Male,104306,1525 Lake St,New Orleans,LA,70101,USA,2025-01-19,Inactive,Yes,Yes,Paid Social,3,14
+CUST-001227,Maria,Walker,maria215@hotmail.com,847-638-3719,18,Male,85250,2381 Pine Ave,Long Beach,CA,90801,USA,2022-07-29,Active,Yes,Yes,Referral,7,408
+CUST-001228,Linda,Reed,lindar@protonmail.com,499-496-5380,44,Female,84657,8528 Oak Ave,Seattle,WA,98101,USA,2023-02-03,Active,No,Yes,Organic Search,4,57
+CUST-001229,Dennis,Evans,dennis.evans@gmail.com,455-349-6277,40,Female,27284,4155 Washington Dr,Seattle,WA,98101,USA,2021-07-30,Active,No,Yes,In-Store,6,22
+CUST-001230,Charles,Kelly,charles_kelly@icloud.com,987-295-7600,49,Male,75431,8547 Cedar Rd,Miami,FL,33101,USA,2024-02-12,Active,No,Yes,Organic Search,8,25
+CUST-001231,Melissa,Collins,mcollins@gmail.com,295-948-8511,59,Female,102192,5969 Oak Ln,Boston,MA,02101,USA,2023-03-06,Active,Yes,No,Referral,5,21
+CUST-001232,Ronald,Ramirez,rramirez@yahoo.com,545-760-3139,25,Male,121678,9375 Lake Blvd,Columbus,OH,43201,USA,2023-08-31,Active,No,Yes,Email Campaign,7,47
+CUST-001233,Debra,Ross,debra.ross@aol.com,651-667-1011,37,Male,80101,7109 Pine Rd,San Antonio,TX,78201,USA,2022-12-05,Active,Yes,Yes,Paid Social,8,36
+CUST-001234,Thomas,Wood,thomaswood@gmail.com,880-864-3711,42,Male,103854,948 Washington Rd,Seattle,WA,98101,USA,2025-11-30,Active,No,Yes,Organic Search,7,380
+CUST-001235,Michelle,Castillo,michellecastillo@gmail.com,418-688-2276,39,Female,166659,2274 Pine Ln,Louisville,KY,40201,USA,2022-10-06,Active,No,Yes,Organic Search,5,9
+CUST-001236,Debra,Cruz,debra.cruz@yahoo.com,910-335-8826,48,Male,91368,1260 Pine Dr,Minneapolis,MN,55401,USA,2024-07-06,Active,No,Yes,In-Store,5,471
+CUST-001237,Barbara,Sanders,barbara.sanders@company.com,591-992-3181,19,Male,96500,2440 Oak Ln,San Antonio,TX,78201,USA,2024-09-06,Active,No,Yes,Referral,9,8550
+CUST-001238,Larry,Johnson,larry625@company.com,966-355-7745,49,Female,51601,7348 Pine St,Austin,TX,78701,USA,2023-12-21,Active,No,No,Email Campaign,7,40
+CUST-001239,Richard,Moore,richard.moore@protonmail.com,522-343-5059,33,Male,98000,4637 Oak Ave,Long Beach,CA,90801,USA,2022-05-06,Active,No,Yes,Referral,8,646
+CUST-001240,Stephen,Kim,stephen615@outlook.com,508-410-9482,45,Female,35529,8448 Pine Rd,Colorado Springs,CO,80901,USA,2024-11-03,Inactive,No,Yes,Organic Search,1,13
+CUST-001241,Ronald,Nguyen,ronald.nguyen@yahoo.com,446-711-2163,24,Male,105104,8755 Main Blvd,Cleveland,OH,44101,USA,2021-12-27,Inactive,No,Yes,Organic Search,2,15
+CUST-001242,Kenneth,Taylor,kennetht@yahoo.com,217-801-2106,41,Female,54614,325 Cedar Ave,Las Vegas,NV,89101,USA,2024-05-22,Active,Yes,Yes,TV/Print,4,79
+CUST-001243,Jennifer,Davis,jdavis@company.com,918-611-2350,23,Female,27946,8891 Maple Blvd,Fresno,CA,93701,USA,2024-10-31,Active,No,No,Email Campaign,9,241
+CUST-001244,David,Flores,davidf@yahoo.com,800-849-2083,32,Female,117521,5181 Washington Rd,Columbus,OH,43201,USA,2021-11-28,Active,No,Yes,Organic Search,8,1582
+CUST-001245,Donald,Davis,donald.davis@gmail.com,516-882-3877,20,Male,74573,2056 Main Rd,Louisville,KY,40201,USA,2025-10-15,Inactive,Yes,Yes,Affiliate,4,10
+CUST-001246,Sarah,Hughes,sarahhughes@gmail.com,465-370-7092,43,Male,103844,2179 Cedar Rd,Tucson,AZ,85701,USA,2024-06-29,Active,No,Yes,Direct,9,198
+CUST-001247,Jessica,Foster,jessica.foster@gmail.com,469-929-2262,52,Female,61430,8228 Lake Ln,El Paso,TX,79901,USA,2021-11-30,Inactive,No,Yes,Direct,4,27
+CUST-001248,George,Davis,georged@yahoo.com,787-890-2889,21,Female,72601,3842 Main St,Austin,TX,78701,USA,2024-05-17,Inactive,Yes,Yes,Affiliate,2,16
+CUST-001249,Mary,Young,myoung@gmail.com,766-931-7870,42,Male,111947,3778 Elm Ave,Detroit,MI,48201,USA,2024-04-16,Inactive,No,Yes,Referral,4,77
+CUST-001250,Rebecca,Castillo,rebecca_castillo@hotmail.com,253-383-4656,28,Female,94239,8550 Main Dr,Phoenix,AZ,85001,USA,2023-03-27,Active,No,Yes,Paid Social,7,116
+CUST-001251,William,Reyes,william_reyes@gmail.com,667-208-7044,46,Male,54593,3387 Cedar Ln,Wichita,KS,67201,USA,2021-09-13,Active,No,Yes,Organic Search,7,466
+CUST-001252,Joshua,Patel,joshuapatel@protonmail.com,950-759-5016,31,Male,39580,2566 Main Dr,Milwaukee,WI,53201,USA,2024-05-16,Active,Yes,Yes,In-Store,6,46
+CUST-001253,Patricia,Robinson,patricia_robinson@gmail.com,977-873-7164,59,Female,119650,5138 Oak Ave,Miami,FL,33101,USA,2021-09-24,Active,No,Yes,Paid Social,5,159
+CUST-001254,Shirley,Walker,swalker@outlook.com,732-622-7102,35,Male,96494,7611 Oak Ln,Houston,TX,77001,USA,2025-08-22,Active,No,No,In-Store,7,201
+CUST-001255,Richard,Cook,richard137@hotmail.com,442-498-5276,62,Female,26054,5261 Washington Rd,Portland,OR,97201,USA,2026-01-07,Active,Yes,Yes,Referral,5,58
+CUST-001256,Jack,Adams,jadams@gmail.com,998-988-2785,47,Female,169559,2646 Oak Ave,Seattle,WA,98101,USA,2025-02-16,Inactive,Yes,Yes,Referral,1,17
+CUST-001257,Laura,Reyes,lreyes@gmail.com,662-515-8591,55,Male,118423,4441 Oak St,San Diego,CA,92101,USA,2023-06-08,Active,No,Yes,Paid Social,7,27
+CUST-001258,Christopher,Mendoza,christopher312@icloud.com,351-293-5066,49,Female,124566,5928 Washington Ln,Minneapolis,MN,55401,USA,2023-01-21,Active,No,No,Referral,5,38
+CUST-001259,Michael,Gray,michael_gray@outlook.com,966-763-5093,36,Female,109749,1651 Lake St,Jacksonville,FL,32201,USA,2026-04-07,Active,Yes,Yes,Paid Social,10,3548
+CUST-001260,Sarah,Thomas,sarah.thomas@protonmail.com,581-902-2376,48,Female,116700,9640 Cedar St,Wichita,KS,67201,USA,2025-03-11,Active,No,No,Email Campaign,6,22
+CUST-001261,John,Rodriguez,john203@yahoo.com,325-243-8552,48,Female,53059,929 Maple Ln,Baltimore,MD,21201,USA,2021-11-25,Inactive,No,Yes,Affiliate,2,6
+CUST-001262,Sharon,Castillo,scastillo@gmail.com,391-481-5585,20,Female,59028,7407 Maple St,Los Angeles,CA,90001,USA,2024-04-17,Active,No,Yes,In-Store,10,5276
+CUST-001263,Brandon,Richardson,brandonrichardson@gmail.com,690-262-2437,67,Female,74903,4683 Washington Ave,Virginia Beach,VA,23451,USA,2024-10-13,Active,Yes,No,Email Campaign,8,14
+CUST-001264,Rebecca,Sanchez,rebeccas@yahoo.com,567-691-9921,35,Male,43579,8040 Elm Ln,San Francisco,CA,94101,USA,2022-11-26,Inactive,No,No,Paid Social,3,38
+CUST-001265,Nicholas,Adams,nicholas_adams@outlook.com,997-487-1959,58,Female,85540,7828 Elm Ln,Jacksonville,FL,32201,USA,2026-04-17,Active,Yes,Yes,Organic Search,7,16
+CUST-001266,Sandra,Lee,sandralee@yahoo.com,257-982-4594,27,Male,37756,9532 Washington Blvd,Omaha,NE,68101,USA,2025-02-01,Active,No,Yes,Direct,7,16
+CUST-001267,Daniel,Thompson,danielt@yahoo.com,920-917-6761,34,Female,26254,9400 Maple Ln,Boston,MA,02101,USA,2021-12-01,Active,Yes,Yes,Paid Social,7,5
+CUST-001268,Matthew,Murphy,matthew_murphy@icloud.com,816-424-1326,61,Female,145506,8725 Lake St,Jacksonville,FL,32201,USA,2023-09-09,Active,Yes,Yes,Direct,5,210
+CUST-001269,Kevin,Ward,kevinward@gmail.com,260-222-3420,28,Male,41180,9711 Maple St,El Paso,TX,79901,USA,2022-06-02,Active,No,Yes,Email Campaign,6,266
+CUST-001270,Shirley,Campbell,shirley.campbell@gmail.com,509-530-3235,63,Female,50614,2680 Washington Rd,Detroit,MI,48201,USA,2022-06-28,Active,Yes,Yes,Paid Social,6,63
+CUST-001271,Gary,Wood,garywood@gmail.com,379-587-6026,18,Male,67722,4925 Maple Ave,Tulsa,OK,74101,USA,2023-04-16,Active,No,Yes,Organic Search,5,129
+CUST-001272,Carolyn,Smith,carolyn972@gmail.com,826-426-2705,40,Male,81749,8229 Maple Blvd,Atlanta,GA,30301,USA,2024-03-30,Active,No,Yes,Paid Social,3,26
+CUST-001273,Janet,Martinez,janet_martinez@gmail.com,854-946-6500,58,Female,134350,7417 Main Blvd,Boston,MA,02101,USA,2025-07-01,Active,Yes,Yes,Affiliate,3,87
+CUST-001274,Anthony,Young,anthony.young@icloud.com,595-648-7875,38,Female,86342,2825 Washington Dr,Nashville,TN,37201,USA,2024-12-31,Active,No,Yes,Paid Social,5,31
+CUST-001275,Timothy,Hall,thall@gmail.com,866-976-4695,20,Male,99563,2764 Lake St,San Antonio,TX,78201,USA,2021-10-16,Active,No,Yes,Affiliate,8,10
+CUST-001276,Robert,Nguyen,robert_nguyen@gmail.com,364-949-2228,29,Female,67200,9062 Oak Blvd,Indianapolis,IN,46201,USA,2025-11-07,Active,No,Yes,Paid Social,5,9
+CUST-001277,Scott,Ward,sward@yahoo.com,821-644-3573,66,Female,167522,977 Oak Blvd,Tulsa,OK,74101,USA,2026-04-07,Active,Yes,Yes,Organic Search,8,56
+CUST-001278,Anthony,Harris,anthony420@gmail.com,504-443-2571,47,Male,102823,913 Washington Ln,Kansas City,MO,64101,USA,2022-05-23,Active,Yes,Yes,Paid Social,9,22
+CUST-001279,Stephen,Morales,stephen.morales@gmail.com,840-814-8869,41,Female,47597,3371 Oak St,Detroit,MI,48201,USA,2026-06-02,Active,No,Yes,Organic Search,8,25
+CUST-001280,Anthony,Perez,anthony_perez@protonmail.com,682-700-5341,47,Female,95943,1593 Washington Ave,Philadelphia,PA,19101,USA,2023-10-14,Inactive,No,Yes,Referral,3,121
+CUST-001281,Melissa,Carter,melissacarter@hotmail.com,431-475-2009,44,Male,204262,2576 Oak St,Baltimore,MD,21201,USA,2026-03-10,Active,No,No,Email Campaign,7,119
+CUST-001282,Christine,Hall,christineh@yahoo.com,596-735-7858,30,Female,31932,8873 Lake Ln,Las Vegas,NV,89101,USA,2022-03-13,Active,No,No,Email Campaign,9,270
+CUST-001283,Donald,Stewart,donald.stewart@outlook.com,785-893-3415,53,Male,39719,2070 Lake Ave,Portland,OR,97201,USA,2021-08-26,Active,No,Yes,TV/Print,7,1468
+CUST-001284,Nancy,Ramirez,nancyramirez@gmail.com,645-406-3422,34,Male,122486,9849 Cedar Blvd,Dallas,TX,75201,USA,2026-03-14,Active,Yes,Yes,Email Campaign,8,41
+CUST-001285,Carolyn,Rodriguez,crodriguez@gmail.com,669-212-9561,53,Male,72408,6974 Oak Dr,Kansas City,MO,64101,USA,2024-03-18,Active,No,Yes,Referral,9,4014
+CUST-001286,Karen,Jackson,karenj@gmail.com,998-303-5687,38,Male,61829,8875 Elm Dr,Long Beach,CA,90801,USA,2022-03-09,Active,Yes,Yes,Affiliate,5,48
+CUST-001287,Kimberly,Roberts,kroberts@hotmail.com,612-347-7581,32,Male,89142,735 Washington Blvd,Atlanta,GA,30301,USA,2023-01-09,Active,Yes,Yes,Email Campaign,8,51
+CUST-001288,Frank,Walker,frank51@yahoo.com,518-487-9054,23,Female,33074,1709 Pine Ave,Albuquerque,NM,87101,USA,2024-12-06,Active,No,Yes,TV/Print,7,482
+CUST-001289,Joshua,Myers,joshua_myers@protonmail.com,392-652-4463,25,Female,32272,6771 Lake Ln,Seattle,WA,98101,USA,2022-05-09,Active,No,No,Organic Search,8,22
+CUST-001290,Melissa,Davis,melissadavis@yahoo.com,782-229-3846,44,Male,350000,3258 Pine St,Phoenix,AZ,85001,USA,2024-09-10,Active,No,Yes,Affiliate,10,8286
+CUST-001291,Ashley,Jones,ashley.jones@aol.com,717-606-3029,36,Female,189955,600 Pine Blvd,Detroit,MI,48201,USA,2022-06-27,Active,Yes,Yes,Organic Search,8,4519
+CUST-001292,Gary,Kim,garykim@outlook.com,966-905-2480,36,Male,61263,4770 Main Dr,Albuquerque,NM,87101,USA,2023-02-24,Active,No,Yes,Email Campaign,5,80
+CUST-001293,Michael,Lee,michaell@gmail.com,411-475-7709,32,Male,34368,8509 Main Rd,Wichita,KS,67201,USA,2025-03-28,Active,Yes,Yes,Referral,6,484
+CUST-001294,Mary,Stewart,marystewart@gmail.com,512-929-5511,39,Male,51238,7043 Washington Blvd,Virginia Beach,VA,23451,USA,2025-06-20,Active,Yes,No,Referral,7,5250
+CUST-001295,Ryan,Allen,rallen@outlook.com,723-878-7131,19,Female,23671,9298 Cedar Blvd,Washington,DC,20001,USA,2022-08-23,Active,No,Yes,Organic Search,8,46
+CUST-001296,Debra,Wilson,debra.wilson@yahoo.com,871-928-5895,56,Female,63275,3186 Maple Ln,El Paso,TX,79901,USA,2024-11-20,Active,No,Yes,Referral,7,9
+CUST-001297,Ruth,Walker,ruth.walker@gmail.com,226-871-9148,29,Female,57247,4943 Cedar Dr,Colorado Springs,CO,80901,USA,2024-03-04,Active,Yes,Yes,Affiliate,7,218
+CUST-001298,Stephanie,Roberts,stephanie.roberts@gmail.com,427-902-9759,18,Male,85454,7894 Elm Ln,Long Beach,CA,90801,USA,2022-06-20,Active,No,Yes,Email Campaign,6,43
+CUST-001299,Joshua,Perez,joshua861@outlook.com,958-464-3999,62,Male,133001,5599 Oak Ave,Kansas City,MO,64101,USA,2025-06-04,Active,Yes,Yes,Email Campaign,9,2661
+CUST-001300,Amanda,Lewis,amanda_lewis@hotmail.com,501-674-2929,47,Female,89590,7809 Main Rd,Las Vegas,NV,89101,USA,2022-01-07,Active,Yes,No,Email Campaign,9,6608
+CUST-001301,Justin,Howard,justinh@gmail.com,590-742-5888,30,Male,70395,6868 Main Ave,Phoenix,AZ,85001,USA,2023-10-16,Active,No,No,Organic Search,6,6
+CUST-001302,Sarah,Sanchez,ssanchez@gmail.com,384-997-2324,38,Female,128594,8088 Elm Rd,Atlanta,GA,30301,USA,2023-11-15,Active,No,Yes,Referral,6,49
+CUST-001303,Daniel,Green,daniel.green@gmail.com,790-982-3595,58,Male,54440,8121 Oak Ave,New York,NY,10001,USA,2023-11-27,Active,No,Yes,Paid Social,7,31
+CUST-001304,Brandon,Parker,bparker@gmail.com,746-404-7112,24,Male,30256,330 Elm Ln,Portland,OR,97201,USA,2024-01-13,Active,No,Yes,Direct,8,13
+CUST-001305,Matthew,Williams,matthew.williams@outlook.com,519-332-2682,51,Female,36952,6384 Cedar Ave,Miami,FL,33101,USA,2022-04-29,Inactive,Yes,No,Direct,2,15
+CUST-001306,William,Garcia,william_garcia@yahoo.com,337-550-9031,61,Female,93787,5985 Pine Ave,Milwaukee,WI,53201,USA,2022-05-11,Active,No,Yes,Organic Search,7,44
+CUST-001307,Stephanie,Williams,stephaniewilliams@outlook.com,716-373-3017,61,Male,111161,6106 Main Dr,Arlington,TX,76001,USA,2025-09-14,Active,Yes,No,Direct,6,106
+CUST-001308,Samantha,Allen,samanthaa@icloud.com,310-869-1323,49,Female,173690,890 Oak Dr,Raleigh,NC,27601,USA,2026-03-02,Active,No,Yes,Referral,9,9
+CUST-001309,Jeffrey,Carter,jeffreyc@gmail.com,845-209-5933,67,Male,64162,6995 Oak Rd,Indianapolis,IN,46201,USA,2023-10-12,Active,Yes,Yes,Organic Search,6,194
+CUST-001310,Eric,Wright,ericw@gmail.com,723-936-2928,53,Female,66566,4731 Oak St,Minneapolis,MN,55401,USA,2025-09-02,Active,Yes,Yes,Referral,8,360
+CUST-001311,Amy,Sanchez,amysanchez@yahoo.com,502-364-1645,49,Female,135719,9080 Lake Ave,Wichita,KS,67201,USA,2024-12-18,Active,Yes,Yes,Paid Social,8,1845
+CUST-001312,Frank,Morris,frankmorris@icloud.com,885-705-3443,22,Male,141922,1575 Oak Rd,New York,NY,10001,USA,2026-05-14,Active,Yes,Yes,Organic Search,7,6924
+CUST-001313,Raymond,Gonzalez,raymond_gonzalez@outlook.com,470-675-1820,53,Female,34908,1735 Maple St,Virginia Beach,VA,23451,USA,2025-02-21,Inactive,No,No,Organic Search,4,7
+CUST-001314,Donna,Campbell,donna821@gmail.com,209-341-3793,28,Male,172964,5484 Elm Dr,Boston,MA,02101,USA,2024-01-19,Active,Yes,Yes,Affiliate,3,33
+CUST-001315,Helen,Wright,helen900@gmail.com,609-667-5453,34,Female,76126,6419 Lake Dr,Philadelphia,PA,19101,USA,2024-05-07,Active,Yes,No,Affiliate,7,13
+CUST-001316,Katherine,Perez,katherineperez@gmail.com,306-626-8908,46,Male,88405,9421 Lake Ave,Minneapolis,MN,55401,USA,2022-05-14,Active,No,Yes,Organic Search,5,337
+CUST-001317,Brandon,Carter,brandon_carter@company.com,315-621-8220,58,Female,44947,853 Oak Blvd,Raleigh,NC,27601,USA,2026-04-11,Active,No,No,Organic Search,6,121
+CUST-001318,Katherine,Green,katherine13@gmail.com,885-546-9504,27,Male,63167,8670 Oak Dr,Oakland,CA,94601,USA,2023-07-01,Active,No,No,Email Campaign,9,113
+CUST-001319,Gregory,Sanders,gsanders@gmail.com,827-255-1190,25,Male,110760,2671 Lake Dr,Nashville,TN,37201,USA,2022-09-19,Active,No,Yes,Direct,8,307
+CUST-001320,Nancy,Martinez,nmartinez@gmail.com,719-428-7203,47,Female,140728,6707 Pine St,Boston,MA,02101,USA,2025-02-01,Active,No,No,Email Campaign,7,27
+CUST-001321,Ryan,Cruz,ryanc@outlook.com,709-963-1291,66,Male,54432,1781 Washington Dr,Baltimore,MD,21201,USA,2025-12-11,Active,Yes,Yes,TV/Print,8,20
+CUST-001322,Robert,Bailey,robert.bailey@icloud.com,511-720-4389,47,Male,20743,7574 Elm Blvd,Philadelphia,PA,19101,USA,2021-12-31,Active,No,No,Referral,9,15
+CUST-001323,Michael,Lewis,mlewis@hotmail.com,872-572-8414,51,Male,190693,1968 Oak Rd,El Paso,TX,79901,USA,2023-04-19,Active,No,Yes,Referral,9,248
+CUST-001324,Mark,Smith,mark_smith@yahoo.com,918-308-1750,69,Female,73292,2789 Lake Ave,Miami,FL,33101,USA,2021-12-14,Inactive,No,Yes,Organic Search,3,6
+CUST-001325,Catherine,Myers,cmyers@outlook.com,602-420-8488,25,Female,91500,3222 Elm St,San Antonio,TX,78201,USA,2025-01-05,Active,No,Yes,Affiliate,9,4
+CUST-001326,Dennis,Turner,dennis48@gmail.com,668-874-9260,63,Female,122074,2305 Lake St,Oakland,CA,94601,USA,2023-02-20,Active,No,No,Email Campaign,5,47
+CUST-001327,Shirley,Patel,shirleyp@yahoo.com,908-792-3845,26,Female,60625,2203 Oak Dr,Louisville,KY,40201,USA,2021-09-26,Active,Yes,No,Email Campaign,8,10
+CUST-001328,Gregory,Kim,gregory_kim@outlook.com,909-980-5067,35,Male,66802,4582 Washington Blvd,Fresno,CA,93701,USA,2021-06-30,Active,No,Yes,Referral,8,455
+CUST-001329,Donna,Edwards,donnaedwards@aol.com,724-506-9975,46,Male,118126,5243 Pine Ave,Dallas,TX,75201,USA,2024-02-15,Active,No,No,Organic Search,9,104
+CUST-001330,Anthony,Richardson,anthony_richardson@hotmail.com,382-715-9888,54,Prefer not to say,50063,5381 Oak Blvd,Oakland,CA,94601,USA,2024-07-02,Active,Yes,No,Referral,6,706
+CUST-001331,Brenda,Morris,brendam@protonmail.com,492-632-1209,58,Male,68045,8664 Oak St,Omaha,NE,68101,USA,2022-06-16,Active,Yes,Yes,In-Store,8,20
+CUST-001332,Timothy,Jackson,timothy55@hotmail.com,493-899-5105,39,Male,46725,2499 Main Rd,Houston,TX,77001,USA,2025-04-26,Active,Yes,Yes,Email Campaign,9,4713
+CUST-001333,Donna,Clark,donnac@gmail.com,957-775-4675,18,Female,55398,9295 Washington Ave,Chicago,IL,60601,USA,2024-06-05,Active,Yes,Yes,Organic Search,10,4754
+CUST-001334,Angela,Hughes,angela295@gmail.com,520-765-1881,31,Female,33601,312 Cedar Ave,Omaha,NE,68101,USA,2026-03-05,Active,Yes,Yes,Direct,10,6721
+CUST-001335,Helen,Jimenez,hjimenez@gmail.com,956-817-4218,54,Male,58212,3270 Cedar Dr,Charlotte,NC,28201,USA,2022-11-20,Active,Yes,Yes,Paid Social,9,5807
+CUST-001336,Daniel,Mendoza,danielmendoza@outlook.com,485-769-5329,36,Female,87611,2231 Maple Ln,Jacksonville,FL,32201,USA,2022-04-26,Active,Yes,Yes,Paid Social,3,49
+CUST-001337,Steven,Smith,ssmith@yahoo.com,811-252-5934,40,Male,44363,8137 Elm St,Tulsa,OK,74101,USA,2025-07-27,Active,No,Yes,Paid Social,5,21
+CUST-001338,Patrick,Green,patrickgreen@yahoo.com,625-756-9798,49,Female,195769,6709 Oak Blvd,Jacksonville,FL,32201,USA,2023-07-09,Active,No,No,Paid Social,5,30
+CUST-001339,Mark,Ramirez,mark_ramirez@yahoo.com,833-743-8780,38,Male,121430,9296 Main St,El Paso,TX,79901,USA,2024-06-01,Active,No,Yes,Email Campaign,9,4021
+CUST-001340,Christine,Hall,christinehall@yahoo.com,528-590-2857,36,Female,136147,6422 Cedar Ln,Virginia Beach,VA,23451,USA,2022-12-31,Active,No,Yes,Email Campaign,6,26
+CUST-001341,Raymond,Torres,raymondt@hotmail.com,867-397-6248,38,Female,61089,8519 Oak St,Wichita,KS,67201,USA,2024-05-03,Active,Yes,Yes,Email Campaign,8,38
+CUST-001342,Nancy,Foster,nancyf@yahoo.com,992-418-7950,24,Female,108709,1802 Pine Ln,New York,NY,10001,USA,2022-12-04,Active,No,Yes,Organic Search,5,345
+CUST-001343,Rachel,Patel,rpatel@outlook.com,224-670-6434,33,Male,44251,720 Oak St,Virginia Beach,VA,23451,USA,2021-11-10,Active,Yes,No,Paid Social,5,269
+CUST-001344,Michael,Thompson,michael_thompson@icloud.com,617-597-8391,42,Male,95516,6726 Washington Blvd,Kansas City,MO,64101,USA,2026-01-16,Active,No,No,Paid Social,9,175
+CUST-001345,John,Roberts,john.roberts@gmail.com,246-917-2189,58,Female,82163,5960 Oak Blvd,Mesa,AZ,85201,USA,2026-05-28,Active,Yes,Yes,Organic Search,5,41
+CUST-001346,Debra,Hill,debra.hill@gmail.com,231-685-3561,36,Male,101048,8840 Pine Ave,Denver,CO,80201,USA,2022-02-23,Active,Yes,No,Direct,8,37
+CUST-001347,Janet,Gomez,janetg@outlook.com,863-582-1182,33,Male,96281,9168 Maple St,Denver,CO,80201,USA,2022-11-19,Active,No,Yes,Email Campaign,8,9448
+CUST-001348,Jennifer,Smith,jennifers@icloud.com,415-966-6633,32,Female,47111,3569 Washington Rd,Portland,OR,97201,USA,2023-06-05,Active,No,Yes,Direct,9,174
+CUST-001349,Angela,Jackson,angelajackson@gmail.com,887-780-1891,18,Female,54185,9092 Lake Rd,Charlotte,NC,28201,USA,2022-12-24,Active,No,No,Paid Social,7,68
+CUST-001350,Stephen,Martinez,stephen298@hotmail.com,698-538-6851,33,Female,37571,2200 Pine St,Phoenix,AZ,85001,USA,2025-01-12,Active,No,No,Email Campaign,5,63
+CUST-001351,Andrew,Richardson,andrewrichardson@yahoo.com,513-910-3496,18,Female,205832,9366 Elm Blvd,Boston,MA,02101,USA,2023-09-18,Active,Yes,Yes,Organic Search,6,102
+CUST-001352,Jason,Perez,jason_perez@gmail.com,646-483-6889,34,Female,89116,2300 Elm Dr,San Francisco,CA,94101,USA,2022-01-12,Active,Yes,Yes,Paid Social,6,24
+CUST-001353,Cynthia,Edwards,cynthia_edwards@hotmail.com,283-487-3293,62,Male,50565,8924 Pine Blvd,Tucson,AZ,85701,USA,2023-05-07,Active,No,Yes,Referral,5,391
+CUST-001354,Carolyn,Watson,carolyn79@outlook.com,614-987-4485,39,Male,109228,700 Cedar Ln,Phoenix,AZ,85001,USA,2026-05-02,Active,Yes,No,Email Campaign,7,9475
+CUST-001355,Anna,Stewart,annastewart@hotmail.com,950-497-3193,32,Male,35496,7713 Oak Dr,Detroit,MI,48201,USA,2024-03-28,Active,No,Yes,TV/Print,6,38
+CUST-001356,George,Cook,george11@gmail.com,656-363-3935,64,Male,132094,9379 Maple Rd,San Francisco,CA,94101,USA,2021-09-07,Active,No,No,Affiliate,8,7056
+CUST-001357,Carolyn,Morris,carolyn_morris@hotmail.com,578-439-1701,28,Non-binary,40595,3487 Elm Dr,Chicago,IL,60601,USA,2025-03-18,Active,Yes,Yes,Referral,8,47
+CUST-001358,Jacob,Collins,jacob.collins@outlook.com,848-480-5314,33,Male,63721,9580 Maple Dr,Chicago,IL,60601,USA,2022-10-20,Inactive,Yes,Yes,Affiliate,3,5
+CUST-001359,Katherine,Carter,katherinec@icloud.com,428-728-7649,35,Female,36577,5881 Elm Dr,Virginia Beach,VA,23451,USA,2021-10-02,Active,Yes,Yes,Organic Search,5,29
+CUST-001360,Kathleen,Cox,kathleenc@outlook.com,858-487-4465,43,Male,15000,2561 Maple Ave,Dallas,TX,75201,USA,2023-12-22,Active,No,Yes,Direct,6,524
+CUST-001361,George,Cox,george.cox@hotmail.com,316-693-8844,54,Female,80821,7948 Pine Ln,Omaha,NE,68101,USA,2025-02-23,Active,No,Yes,Organic Search,8,12
+CUST-001362,Christopher,Chavez,cchavez@gmail.com,364-337-9399,28,Male,208650,742 Maple St,Los Angeles,CA,90001,USA,2025-01-26,Active,No,No,TV/Print,5,8
+CUST-001363,Nancy,King,nancyking@gmail.com,877-490-2404,26,Male,127310,3648 Lake Ln,Sacramento,CA,95801,USA,2024-03-01,Active,Yes,Yes,Paid Social,5,31
+CUST-001364,Jacob,Morris,jacobmorris@hotmail.com,838-875-9369,46,Female,51937,4433 Maple Rd,Las Vegas,NV,89101,USA,2023-01-26,Inactive,Yes,Yes,Paid Social,2,23
+CUST-001365,Debra,Baker,dbaker@outlook.com,335-311-1271,25,Male,63385,3415 Washington Ave,Colorado Springs,CO,80901,USA,2023-02-16,Active,No,No,Paid Social,5,175
+CUST-001366,Nicole,Gonzalez,ngonzalez@hotmail.com,715-970-2925,49,Female,82444,1626 Lake Rd,Raleigh,NC,27601,USA,2023-01-28,Inactive,No,Yes,Affiliate,1,16
+CUST-001367,Thomas,Cox,thomas.cox@yahoo.com,244-914-9680,48,Male,99093,7128 Pine Dr,Wichita,KS,67201,USA,2022-08-20,Active,No,Yes,In-Store,6,139
+CUST-001368,Jerry,Carter,jerryc@gmail.com,460-688-4809,44,Female,48646,1473 Cedar Ln,Tampa,FL,33601,USA,2022-03-03,Active,Yes,Yes,Email Campaign,9,582
+CUST-001369,Anna,Evans,annaevans@gmail.com,732-207-7144,45,Male,34715,3465 Elm Dr,New York,NY,10001,USA,2022-06-18,Active,No,No,In-Store,7,2160
+CUST-001370,George,Wilson,gwilson@gmail.com,633-778-6990,41,Male,95835,4614 Washington Ave,Virginia Beach,VA,23451,USA,2023-02-27,Active,Yes,Yes,Referral,9,6070
+CUST-001371,Edward,Peterson,edwardp@yahoo.com,459-514-6641,49,Male,32817,6622 Maple Rd,Albuquerque,NM,87101,USA,2025-06-08,Active,No,Yes,Affiliate,9,1550
+CUST-001372,Jessica,Myers,jmyers@hotmail.com,610-546-1852,18,Male,60044,2733 Washington Rd,Cleveland,OH,44101,USA,2022-07-08,Active,No,Yes,Organic Search,8,6093
+CUST-001373,James,Lopez,jameslopez@gmail.com,427-579-2311,20,Female,15000,718 Washington Dr,Albuquerque,NM,87101,USA,2023-01-27,Active,Yes,Yes,Direct,8,11
+CUST-001374,Brandon,Wood,brandon_wood@hotmail.com,855-706-8192,30,Male,19114,275 Pine Rd,Tulsa,OK,74101,USA,2023-02-02,Active,No,Yes,TV/Print,7,3041
+CUST-001375,Eric,Torres,eric.torres@outlook.com,829-373-1590,34,Male,74657,5993 Pine Rd,Cleveland,OH,44101,USA,2023-01-29,Active,No,Yes,Referral,9,295
+CUST-001376,James,Lee,james_lee@protonmail.com,800-405-9482,66,Male,98661,351 Oak St,Wichita,KS,67201,USA,2024-03-13,Active,Yes,Yes,TV/Print,5,68
+CUST-001377,Stephen,Torres,stephent@outlook.com,431-820-4187,38,Female,50102,7550 Washington Ln,Long Beach,CA,90801,USA,2024-06-27,Active,No,No,Direct,9,4788
+CUST-001378,James,King,jking@outlook.com,319-725-5222,22,Male,47778,8913 Cedar Rd,Fresno,CA,93701,USA,2025-11-03,Active,No,Yes,Referral,3,34
+CUST-001379,Jeffrey,Carter,jcarter@gmail.com,897-671-1448,25,Male,57675,7996 Oak Blvd,Wichita,KS,67201,USA,2025-01-27,Active,No,Yes,Paid Social,7,89
+CUST-001380,William,Carter,williamcarter@gmail.com,561-728-9776,44,Male,134711,259 Cedar Ave,Oakland,CA,94601,USA,2022-07-04,Active,No,Yes,In-Store,8,4044
+CUST-001381,Andrew,Lopez,andrew409@gmail.com,687-521-6792,45,Female,110816,3680 Cedar Ave,Tampa,FL,33601,USA,2021-11-01,Active,No,No,Email Campaign,7,14
+CUST-001382,Janet,Mendoza,janetmendoza@outlook.com,471-411-4755,64,Female,54091,3422 Pine Ln,Tucson,AZ,85701,USA,2022-04-22,Active,Yes,No,Email Campaign,6,18
+CUST-001383,Amanda,Martin,amanda.martin@hotmail.com,243-693-7081,18,Female,37409,5267 Lake Ln,San Diego,CA,92101,USA,2025-12-31,Active,No,Yes,Email Campaign,6,112
+CUST-001384,Emily,Morales,emilym@gmail.com,255-738-7933,18,Male,115361,7936 Main Ln,Seattle,WA,98101,USA,2024-03-17,Active,Yes,Yes,In-Store,6,19
+CUST-001385,Brian,Gomez,brian882@protonmail.com,730-671-6171,63,Male,48276,237 Main Rd,Wichita,KS,67201,USA,2025-06-17,Active,No,No,Paid Social,6,26
+CUST-001386,Anthony,Carter,anthony.carter@hotmail.com,761-469-4885,43,Female,59764,4513 Lake Ln,Boston,MA,02101,USA,2024-05-30,Active,No,Yes,TV/Print,9,346
+CUST-001387,Carol,Campbell,ccampbell@gmail.com,573-610-5581,23,Male,103097,7484 Maple Ln,Louisville,KY,40201,USA,2025-04-04,Active,No,Yes,Organic Search,8,269
+CUST-001388,Thomas,Kelly,thomaskelly@gmail.com,642-590-4212,62,Female,54962,2489 Maple Dr,San Antonio,TX,78201,USA,2022-05-25,Active,Yes,Yes,Organic Search,7,23
+CUST-001389,Mary,Thompson,mthompson@gmail.com,456-775-1781,56,Male,197450,6627 Oak Rd,Dallas,TX,75201,USA,2021-09-04,Active,Yes,No,In-Store,5,67
+CUST-001390,Christopher,Davis,christopher_davis@gmail.com,466-569-6903,48,Female,58993,9280 Cedar Blvd,Albuquerque,NM,87101,USA,2021-09-25,Inactive,No,Yes,Organic Search,1,5
+CUST-001391,John,Evans,john_evans@outlook.com,864-751-3859,36,Female,69639,4763 Elm Blvd,Oakland,CA,94601,USA,2023-01-16,Active,Yes,No,Paid Social,6,137
+CUST-001392,Alexander,Rogers,alexander500@gmail.com,674-846-3373,18,Non-binary,179326,2845 Elm Dr,Baltimore,MD,21201,USA,2021-06-14,Active,No,Yes,Referral,5,182
+CUST-001393,Benjamin,Ward,bward@gmail.com,524-868-5773,38,Female,116779,4482 Washington Blvd,Phoenix,AZ,85001,USA,2025-12-29,Active,Yes,Yes,Affiliate,6,5
+CUST-001394,Jeffrey,Jimenez,jeffrey_jimenez@hotmail.com,371-388-1378,32,Female,47700,2148 Pine Rd,Tampa,FL,33601,USA,2023-02-23,Active,No,Yes,Email Campaign,9,376
+CUST-001395,Steven,Myers,steven718@gmail.com,265-684-9985,51,Male,45934,981 Main Dr,Philadelphia,PA,19101,USA,2025-04-04,Inactive,No,Yes,Paid Social,2,19
+CUST-001396,Shirley,Ross,shirley.ross@yahoo.com,516-434-5053,24,Female,78092,4755 Lake Rd,Indianapolis,IN,46201,USA,2022-12-22,Inactive,No,Yes,Organic Search,4,56
+CUST-001397,Thomas,Taylor,thomastaylor@gmail.com,687-678-9856,25,Female,25563,4563 Lake Ave,Los Angeles,CA,90001,USA,2026-03-30,Active,Yes,Yes,Paid Social,7,280
+CUST-001398,Rachel,Cooper,rachelc@outlook.com,854-746-6073,49,Male,36949,5788 Lake Ln,Colorado Springs,CO,80901,USA,2023-11-17,Active,No,No,Paid Social,9,5
+CUST-001399,Sandra,Lopez,sandra_lopez@gmail.com,200-735-3233,21,Female,54130,5734 Cedar Dr,Detroit,MI,48201,USA,2024-02-16,Active,No,Yes,Affiliate,7,6
+CUST-001400,Jonathan,Johnson,jjohnson@yahoo.com,499-811-4788,48,Male,48169,218 Elm Ave,New Orleans,LA,70101,USA,2023-10-06,Active,No,Yes,Organic Search,9,1592
+CUST-001401,Edward,Bailey,ebailey@company.com,469-281-7917,54,Female,219207,4024 Cedar Blvd,San Francisco,CA,94101,USA,2025-07-10,Active,No,Yes,Paid Social,6,63
+CUST-001402,Katherine,Myers,katherine_myers@yahoo.com,313-852-8460,51,Female,23626,7518 Cedar Rd,Las Vegas,NV,89101,USA,2025-05-20,Active,Yes,No,Referral,5,34
+CUST-001403,Helen,Morales,helen_morales@hotmail.com,390-304-5622,62,Male,87313,4510 Maple Rd,Los Angeles,CA,90001,USA,2025-08-02,Inactive,Yes,No,In-Store,3,26
+CUST-001404,Jeffrey,Sanders,jeffreysanders@gmail.com,630-519-9165,51,Male,47356,6184 Lake Rd,Philadelphia,PA,19101,USA,2025-08-05,Active,No,Yes,Organic Search,5,205
+CUST-001405,Robert,Nelson,robertnelson@protonmail.com,385-396-5097,54,Male,95868,6351 Main St,Houston,TX,77001,USA,2024-12-11,Active,No,Yes,Referral,6,34
+CUST-001406,Jerry,Alvarez,jalvarez@outlook.com,403-671-2539,18,Female,53387,8638 Pine Dr,Wichita,KS,67201,USA,2023-12-15,Active,Yes,Yes,Organic Search,6,459
+CUST-001407,Deborah,Mendoza,deborah_mendoza@outlook.com,733-325-5150,30,Male,111966,7984 Cedar Ave,Boston,MA,02101,USA,2025-07-20,Active,Yes,Yes,Affiliate,7,8556
+CUST-001408,George,Miller,george885@gmail.com,215-371-5523,30,Male,154781,9679 Oak Dr,Columbus,OH,43201,USA,2025-10-21,Inactive,Yes,Yes,Organic Search,4,49
+CUST-001409,Ashley,Johnson,ashley.johnson@gmail.com,580-989-2466,27,Female,230233,4175 Maple Dr,Long Beach,CA,90801,USA,2022-01-17,Active,Yes,Yes,Referral,10,5110
+CUST-001410,Barbara,Mendoza,barbara_mendoza@protonmail.com,357-918-9787,64,Female,235787,1859 Maple Dr,New Orleans,LA,70101,USA,2022-12-07,Active,Yes,Yes,Referral,5,494
+CUST-001411,Sandra,Green,sandra572@gmail.com,905-586-6868,39,Male,116209,2307 Cedar St,New Orleans,LA,70101,USA,2024-06-28,Inactive,No,Yes,Email Campaign,4,16
+CUST-001412,Gary,Price,garyp@outlook.com,756-556-6303,43,Female,80134,7774 Cedar Ln,Denver,CO,80201,USA,2023-05-25,Inactive,No,No,Paid Social,4,22
+CUST-001413,Stephen,Lee,stephenl@gmail.com,575-664-1011,29,Female,47699,8389 Washington Rd,San Jose,CA,95101,USA,2023-12-02,Active,No,Yes,Organic Search,7,7
+CUST-001414,Lisa,Williams,lisa_williams@outlook.com,874-751-7348,58,Female,34635,3210 Lake Ln,Wichita,KS,67201,USA,2022-12-17,Active,Yes,Yes,Organic Search,6,51
+CUST-001415,Karen,Ward,karen_ward@hotmail.com,874-268-1717,45,Male,107784,2226 Maple St,Las Vegas,NV,89101,USA,2022-11-05,Active,No,Yes,Direct,7,246
+CUST-001416,Betty,Wilson,bettywilson@gmail.com,873-701-9615,23,Male,46410,9771 Cedar St,San Antonio,TX,78201,USA,2026-04-05,Active,No,No,In-Store,9,313
+CUST-001417,George,Lewis,george621@outlook.com,679-854-1994,29,Female,74460,6013 Washington Blvd,Phoenix,AZ,85001,USA,2026-05-14,Active,No,Yes,Paid Social,6,421
+CUST-001418,Patrick,Davis,patrickd@gmail.com,279-421-9511,38,Male,50440,1691 Oak Rd,Seattle,WA,98101,USA,2023-06-22,Active,Yes,No,Paid Social,5,12
+CUST-001419,Sandra,Morgan,sandramorgan@yahoo.com,771-967-7802,59,Male,89573,1828 Elm Rd,Fort Worth,TX,76101,USA,2023-06-28,Active,Yes,Yes,Referral,6,8
+CUST-001420,Ryan,Hughes,rhughes@outlook.com,545-873-3591,30,Female,57557,8847 Lake Blvd,San Antonio,TX,78201,USA,2025-07-03,Active,Yes,Yes,Referral,6,13
+CUST-001421,Kenneth,Peterson,kenneth_peterson@outlook.com,823-446-9939,49,Female,90852,3604 Washington Ln,Las Vegas,NV,89101,USA,2022-02-25,Active,No,Yes,Organic Search,8,26
+CUST-001422,Janet,Allen,jallen@gmail.com,810-216-9480,35,Female,25774,2313 Cedar St,Baltimore,MD,21201,USA,2024-03-18,Active,No,Yes,Organic Search,7,6555
+CUST-001423,Joshua,Lewis,joshua_lewis@protonmail.com,769-784-3534,41,Female,40563,1644 Main Dr,Los Angeles,CA,90001,USA,2022-02-10,Active,No,Yes,Organic Search,7,31
+CUST-001424,Amanda,Martin,amanda_martin@gmail.com,294-784-7550,58,Male,286943,9423 Pine Rd,Detroit,MI,48201,USA,2021-06-14,Active,No,No,Organic Search,8,3961
+CUST-001425,Elizabeth,Castillo,ecastillo@yahoo.com,238-948-7251,26,Male,120674,1385 Main Blvd,Jacksonville,FL,32201,USA,2023-09-14,Active,No,No,Direct,5,54
+CUST-001426,Brian,Parker,brian.parker@outlook.com,996-847-7266,30,Female,165991,986 Cedar Ln,Wichita,KS,67201,USA,2025-03-02,Active,No,Yes,Referral,9,370
+CUST-001427,Jennifer,Green,jenniferg@outlook.com,949-602-8300,51,Male,63220,9850 Oak Ave,San Jose,CA,95101,USA,2024-08-09,Active,Yes,No,Referral,4,17
+CUST-001428,Sharon,Nguyen,snguyen@gmail.com,963-250-9980,28,Female,194284,6640 Cedar St,San Jose,CA,95101,USA,2025-09-12,Active,No,Yes,TV/Print,7,346
+CUST-001429,Stephanie,Cook,stephanie445@gmail.com,699-604-4212,45,Non-binary,40648,9294 Pine Ave,Dallas,TX,75201,USA,2022-03-02,Active,No,Yes,Paid Social,8,4386
+CUST-001430,Elizabeth,Wright,ewright@yahoo.com,633-574-6706,48,Prefer not to say,40626,3220 Elm Blvd,Boston,MA,02101,USA,2022-08-07,Active,No,Yes,Paid Social,7,5689
+CUST-001431,Scott,Wood,scott_wood@gmail.com,838-349-8216,39,Male,130088,835 Pine Ave,Austin,TX,78701,USA,2024-06-23,Active,No,Yes,Referral,9,19
+CUST-001432,Debra,Mitchell,debra160@gmail.com,351-494-1225,47,Male,79113,5724 Oak Blvd,Philadelphia,PA,19101,USA,2025-10-22,Active,No,Yes,Email Campaign,5,38
+CUST-001433,Laura,Stewart,laura_stewart@yahoo.com,968-464-9991,30,Male,58867,8013 Maple Rd,Columbus,OH,43201,USA,2022-04-16,Active,Yes,Yes,Organic Search,8,2877
+CUST-001434,Rachel,Bennett,rbennett@gmail.com,490-405-5444,72,Female,149392,969 Lake Rd,Long Beach,CA,90801,USA,2022-09-20,Active,No,Yes,Direct,7,6746
+CUST-001435,Mary,Rodriguez,mary398@yahoo.com,499-864-7332,43,Female,45477,3887 Washington Ln,Seattle,WA,98101,USA,2022-09-21,Active,No,Yes,Organic Search,7,5
+CUST-001436,Patrick,Gonzalez,patrick_gonzalez@gmail.com,668-774-1352,69,Male,31837,751 Pine Ln,Tucson,AZ,85701,USA,2021-07-30,Active,No,No,Email Campaign,7,4066
+CUST-001437,Michelle,Nelson,mnelson@hotmail.com,563-840-5953,41,Female,44410,3969 Cedar St,Tampa,FL,33601,USA,2025-07-23,Inactive,No,Yes,TV/Print,3,82
+CUST-001438,Benjamin,Allen,ballen@gmail.com,602-872-3248,49,Male,44886,1538 Washington Ln,Los Angeles,CA,90001,USA,2023-04-30,Active,No,Yes,Email Campaign,7,7
+CUST-001439,Alexander,Ward,alexander894@icloud.com,636-519-6395,38,Female,249725,7459 Maple Ave,Oakland,CA,94601,USA,2025-03-01,Active,No,Yes,In-Store,10,9020
+CUST-001440,Katherine,Moore,katherinem@gmail.com,905-922-9582,33,Male,121366,2315 Washington Ave,Oakland,CA,94601,USA,2021-12-14,Active,No,Yes,Paid Social,8,3554
+CUST-001441,Katherine,Reed,katherinereed@gmail.com,321-388-6203,53,Male,82841,2484 Main Blvd,Boston,MA,02101,USA,2026-01-22,Inactive,Yes,Yes,Organic Search,5,28
+CUST-001442,Edward,Evans,eevans@hotmail.com,309-334-4026,46,Male,150996,529 Cedar Ln,Tampa,FL,33601,USA,2021-10-31,Active,No,Yes,Affiliate,7,582
+CUST-001443,Larry,Ward,larryw@outlook.com,998-688-3196,48,Male,164018,8330 Lake Rd,Charlotte,NC,28201,USA,2025-02-22,Active,No,Yes,Referral,5,274
+CUST-001444,Katherine,Mitchell,kmitchell@gmail.com,233-618-1245,57,Male,233559,4521 Washington Ave,Tucson,AZ,85701,USA,2023-10-13,Active,No,No,Email Campaign,4,34
+CUST-001445,Janet,Bennett,janetbennett@gmail.com,904-532-8496,33,Male,84203,4143 Washington Dr,Phoenix,AZ,85001,USA,2025-06-12,Inactive,Yes,Yes,Organic Search,4,13
+CUST-001446,Maria,Garcia,maria623@yahoo.com,785-808-9784,40,Female,52241,8705 Main Ln,Oklahoma City,OK,73101,USA,2022-05-27,Inactive,No,Yes,Affiliate,3,9
+CUST-001447,Susan,Edwards,susan.edwards@gmail.com,240-771-7347,31,Male,73546,8556 Main Ave,San Francisco,CA,94101,USA,2023-07-13,Active,No,Yes,Affiliate,9,3
+CUST-001448,Donna,Cruz,donna_cruz@outlook.com,501-827-1893,44,Female,32792,8570 Maple Dr,Wichita,KS,67201,USA,2021-10-19,Active,Yes,No,Affiliate,7,207
+CUST-001449,Samuel,Edwards,samuel93@gmail.com,759-338-7440,19,Male,78571,6875 Elm Dr,Fresno,CA,93701,USA,2025-10-21,Active,No,Yes,TV/Print,8,5305
+CUST-001450,Patricia,Thompson,patriciat@gmail.com,908-864-3686,55,Male,20673,2124 Oak St,Tulsa,OK,74101,USA,2025-04-22,Active,Yes,Yes,Referral,8,8
+CUST-001451,Patrick,Edwards,patrick_edwards@yahoo.com,826-363-7204,18,Male,60230,9116 Washington St,Philadelphia,PA,19101,USA,2023-07-03,Active,Yes,Yes,Organic Search,8,46
+CUST-001452,Jerry,Perez,jerry_perez@protonmail.com,383-987-1840,63,Male,108983,6974 Cedar Blvd,Atlanta,GA,30301,USA,2021-07-21,Active,No,Yes,Organic Search,6,327
+CUST-001453,Carolyn,Foster,cfoster@gmail.com,407-203-5146,50,Female,136504,300 Lake Dr,Denver,CO,80201,USA,2022-12-05,Active,No,Yes,Paid Social,4,146
+CUST-001454,Amy,Cooper,amy.cooper@gmail.com,875-687-8434,49,Female,59339,6819 Lake St,Colorado Springs,CO,80901,USA,2021-06-28,Active,Yes,Yes,Paid Social,10,4678
+CUST-001455,Scott,Kim,scottkim@protonmail.com,256-868-6718,49,Male,53095,701 Maple St,Kansas City,MO,64101,USA,2024-11-17,Active,No,Yes,Email Campaign,6,22
+CUST-001456,Christine,Kelly,christinek@hotmail.com,382-365-5659,46,Male,86612,9847 Maple Dr,Washington,DC,20001,USA,2024-07-31,Active,No,Yes,Paid Social,7,5383
+CUST-001457,Janet,Howard,janet.howard@yahoo.com,269-976-8001,49,Prefer not to say,16383,9118 Oak Blvd,Philadelphia,PA,19101,USA,2022-02-17,Active,Yes,Yes,Paid Social,7,44
+CUST-001458,Jacob,Moore,jacob125@gmail.com,414-826-1953,61,Female,36270,1890 Oak Dr,Seattle,WA,98101,USA,2024-08-04,Active,No,Yes,Email Campaign,10,5392
+CUST-001459,Raymond,Ruiz,raymond620@outlook.com,838-562-3125,40,Female,34772,9318 Lake Ln,Denver,CO,80201,USA,2024-01-17,Active,No,Yes,Direct,9,4993
+CUST-001460,Carolyn,Watson,cwatson@gmail.com,201-321-1392,58,Female,50288,7716 Oak Rd,Jacksonville,FL,32201,USA,2021-06-26,Active,Yes,Yes,Email Campaign,8,1354
+CUST-001461,Anthony,Ward,award@hotmail.com,417-211-4296,51,Female,176296,4714 Cedar St,Chicago,IL,60601,USA,2024-07-26,Active,Yes,Yes,Paid Social,7,44
+CUST-001462,Michelle,Hill,michelleh@outlook.com,549-605-1477,18,Male,78569,2977 Pine Blvd,Boston,MA,02101,USA,2022-02-20,Active,No,Yes,Direct,5,13
+CUST-001463,Carol,Gray,cgray@gmail.com,671-749-6490,50,Male,78735,7677 Washington Rd,Chicago,IL,60601,USA,2022-10-26,Active,No,Yes,Referral,6,30
+CUST-001464,Linda,Gutierrez,lindag@outlook.com,413-791-6434,50,Female,16211,5893 Oak Ave,Arlington,TX,76001,USA,2022-08-21,Inactive,Yes,Yes,Affiliate,3,22
+CUST-001465,Emily,Brown,ebrown@outlook.com,391-809-2914,45,Female,125795,5150 Elm Rd,Miami,FL,33101,USA,2023-06-11,Active,No,Yes,TV/Print,6,133
+CUST-001466,Robert,Wright,robert.wright@outlook.com,421-737-5953,33,Male,45523,2967 Oak Blvd,Tucson,AZ,85701,USA,2021-07-09,Active,Yes,Yes,Email Campaign,6,180
+CUST-001467,Robert,Jimenez,robert.jimenez@outlook.com,357-394-6572,68,Male,35110,8021 Cedar Blvd,Baltimore,MD,21201,USA,2023-08-08,Active,Yes,Yes,Organic Search,3,18
+CUST-001468,Charles,Foster,charles.foster@gmail.com,670-596-9558,59,Male,57656,1997 Main Blvd,Sacramento,CA,95801,USA,2022-08-24,Active,No,Yes,Direct,6,367
+CUST-001469,Jennifer,Mendoza,jenniferm@icloud.com,733-984-6119,40,Female,133205,468 Cedar Rd,Philadelphia,PA,19101,USA,2024-07-27,Inactive,No,Yes,TV/Print,4,17
+CUST-001470,Anthony,Adams,anthonyadams@company.com,320-479-3446,28,Female,133823,2680 Cedar St,Denver,CO,80201,USA,2024-11-20,Active,Yes,Yes,Affiliate,9,6992
+CUST-001471,Mary,Richardson,maryr@gmail.com,477-344-5641,35,Female,58719,9505 Pine Ave,San Antonio,TX,78201,USA,2025-04-12,Inactive,No,Yes,Organic Search,5,7
+CUST-001472,Elizabeth,Flores,elizabeth_flores@hotmail.com,891-251-2735,31,Male,139971,6384 Main St,Mesa,AZ,85201,USA,2023-12-14,Active,Yes,No,Referral,7,4131
+CUST-001473,Jason,Gomez,jason184@icloud.com,540-402-9740,56,Female,48034,1386 Lake Ln,Colorado Springs,CO,80901,USA,2023-02-12,Active,No,Yes,Organic Search,6,27
+CUST-001474,Thomas,Lopez,thomas833@outlook.com,927-984-8625,49,Male,193590,7809 Pine Ave,Milwaukee,WI,53201,USA,2025-11-22,Active,No,Yes,Paid Social,8,21
+CUST-001475,Charles,Ward,charles_ward@outlook.com,664-699-1495,30,Male,115660,1170 Lake St,Portland,OR,97201,USA,2025-05-30,Inactive,Yes,Yes,Direct,3,23
+CUST-001476,Brian,Morris,brianmorris@icloud.com,720-305-7646,60,Female,48259,1852 Elm Ln,Denver,CO,80201,USA,2022-02-18,Active,No,Yes,In-Store,9,5144
+CUST-001477,Katherine,Martinez,katherine_martinez@yahoo.com,835-449-9977,35,Female,65542,2705 Lake Dr,Mesa,AZ,85201,USA,2023-11-08,Active,Yes,Yes,Paid Social,8,43
+CUST-001478,William,Baker,william214@hotmail.com,757-910-4869,36,Female,112461,2935 Oak Rd,Long Beach,CA,90801,USA,2024-01-09,Inactive,No,No,Organic Search,4,5
+CUST-001479,Catherine,Kelly,ckelly@outlook.com,655-380-6046,44,Male,90988,6748 Oak Ln,San Diego,CA,92101,USA,2023-02-13,Active,No,Yes,Email Campaign,8,20
+CUST-001480,Susan,Mendoza,susanm@gmail.com,876-262-2483,55,Female,50558,3665 Maple Ln,Wichita,KS,67201,USA,2021-11-03,Active,Yes,No,Paid Social,8,12
+CUST-001481,Dennis,Brooks,dennis.brooks@outlook.com,599-830-8326,52,Female,104219,3305 Pine Rd,New Orleans,LA,70101,USA,2025-08-13,Active,Yes,No,Organic Search,6,4
+CUST-001482,Kenneth,Hill,kenneth584@outlook.com,208-826-9362,53,Male,145908,6722 Maple Blvd,Washington,DC,20001,USA,2024-01-01,Active,No,Yes,Organic Search,7,19
+CUST-001483,Linda,Mitchell,lindam@outlook.com,231-440-8073,58,Male,69547,9769 Washington Rd,Houston,TX,77001,USA,2026-06-08,Active,Yes,No,Email Campaign,7,20
+CUST-001484,Kenneth,Alvarez,kalvarez@gmail.com,342-392-7301,43,Female,216191,6002 Washington Ave,Oklahoma City,OK,73101,USA,2023-12-31,Active,No,No,Affiliate,6,25
+CUST-001485,Andrew,Bennett,andrewbennett@outlook.com,873-647-3224,59,Male,137918,1487 Maple Rd,New York,NY,10001,USA,2026-01-14,Inactive,No,Yes,Paid Social,3,140
+CUST-001486,Rebecca,Collins,rebecca916@aol.com,765-660-7303,56,Male,174830,5921 Pine Ave,Colorado Springs,CO,80901,USA,2024-01-20,Active,Yes,No,Paid Social,8,2435
+CUST-001487,Jason,Cox,jasonc@hotmail.com,620-759-7012,27,Male,60975,648 Main Ln,Tucson,AZ,85701,USA,2021-09-09,Active,No,No,Paid Social,6,270
+CUST-001488,Kathleen,Price,kathleen.price@yahoo.com,739-968-5578,45,Male,20341,7717 Oak Ln,Long Beach,CA,90801,USA,2023-09-27,Inactive,No,Yes,Email Campaign,1,15
+CUST-001489,Brandon,Lopez,blopez@gmail.com,793-519-1864,45,Female,52204,5728 Main Dr,Miami,FL,33101,USA,2022-04-13,Active,No,No,Organic Search,3,37
+CUST-001490,Ryan,Rogers,rrogers@hotmail.com,496-371-1578,28,Male,218897,9891 Cedar Rd,Atlanta,GA,30301,USA,2022-04-29,Active,Yes,No,Email Campaign,7,48
+CUST-001491,Larry,King,larry63@gmail.com,498-955-1447,53,Male,67966,4799 Lake St,Albuquerque,NM,87101,USA,2023-03-13,Active,Yes,Yes,Paid Social,6,45
+CUST-001492,Thomas,Cook,thomas_cook@gmail.com,214-959-2827,48,Male,109946,9993 Maple Ln,Indianapolis,IN,46201,USA,2025-09-11,Active,Yes,Yes,Direct,9,171
+CUST-001493,Jack,Martin,jmartin@icloud.com,441-696-3962,28,Female,65584,8740 Main Blvd,Detroit,MI,48201,USA,2021-11-28,Active,Yes,Yes,Referral,6,318
+CUST-001494,David,Jackson,davidjackson@outlook.com,876-650-3740,40,Female,55699,3554 Elm St,Tucson,AZ,85701,USA,2022-03-21,Active,Yes,Yes,Referral,8,49
+CUST-001495,Samuel,King,samuel.king@yahoo.com,687-964-9724,45,Female,72159,3928 Washington Rd,Houston,TX,77001,USA,2025-07-01,Active,No,No,Organic Search,8,353
+CUST-001496,Patrick,Roberts,patrick_roberts@yahoo.com,591-894-6172,46,Male,52176,8787 Main St,San Jose,CA,95101,USA,2023-06-19,Active,Yes,Yes,Organic Search,8,38
+CUST-001497,Jonathan,Brooks,jbrooks@hotmail.com,300-461-7408,56,Male,54255,7654 Pine Rd,Raleigh,NC,27601,USA,2022-10-13,Active,Yes,Yes,Organic Search,9,4797
+CUST-001498,Alexander,Ramos,alexanderramos@gmail.com,888-208-2113,45,Male,33008,295 Washington St,Sacramento,CA,95801,USA,2024-07-18,Inactive,No,Yes,Affiliate,2,14
+CUST-001499,Shirley,Wilson,swilson@icloud.com,224-834-2506,18,Male,69449,1031 Pine Ln,Nashville,TN,37201,USA,2025-03-17,Inactive,No,Yes,Paid Social,3,24
+CUST-001500,Samantha,Thomas,samantha.thomas@gmail.com,982-863-4027,29,Female,54421,1916 Maple Blvd,Philadelphia,PA,19101,USA,2021-08-21,Active,Yes,Yes,Organic Search,9,24
+CUST-001501,Donna,Reyes,donna.reyes@gmail.com,883-988-6298,44,Male,159846,4316 Maple St,Miami,FL,33101,USA,2023-11-24,Active,No,Yes,Affiliate,7,21
+CUST-001502,Emily,Jimenez,ejimenez@gmail.com,382-651-2137,63,Female,76204,8156 Pine Ln,Oklahoma City,OK,73101,USA,2024-07-28,Active,No,No,Affiliate,5,278
+CUST-001503,Ronald,Thompson,rthompson@gmail.com,308-652-5243,28,Male,39754,1792 Main St,San Antonio,TX,78201,USA,2025-08-19,Active,No,Yes,Referral,6,104
+CUST-001504,Elizabeth,Kelly,elizabeth_kelly@gmail.com,868-855-1014,42,Female,22446,719 Washington Blvd,Wichita,KS,67201,USA,2023-12-09,Active,No,Yes,Organic Search,5,34
+CUST-001505,Karen,Hughes,khughes@yahoo.com,689-646-7617,38,Male,46847,1248 Pine St,Atlanta,GA,30301,USA,2026-06-02,Active,Yes,Yes,In-Store,9,489
+CUST-001506,Deborah,Ruiz,druiz@protonmail.com,610-256-2485,36,Male,67898,6085 Elm St,San Diego,CA,92101,USA,2023-04-05,Active,No,Yes,Direct,5,35
+CUST-001507,Ryan,Ross,ryan_ross@gmail.com,876-395-5896,41,Female,81593,6491 Oak Rd,Virginia Beach,VA,23451,USA,2025-04-20,Active,No,Yes,Organic Search,4,40
+CUST-001508,Frank,Rivera,frank.rivera@icloud.com,225-937-4907,58,Male,97591,8115 Washington St,Miami,FL,33101,USA,2023-12-26,Inactive,Yes,Yes,Referral,2,22
+CUST-001509,Anna,Chavez,achavez@yahoo.com,237-547-1918,46,Female,38153,5633 Main Dr,Mesa,AZ,85201,USA,2021-10-05,Active,No,Yes,Organic Search,8,5
+CUST-001510,Jessica,Ramirez,jessica827@gmail.com,352-958-4817,55,Female,32111,1280 Main Rd,Omaha,NE,68101,USA,2023-07-04,Active,No,Yes,Affiliate,8,26
+CUST-001511,Charles,Morales,charles.morales@gmail.com,333-214-3822,61,Male,67033,918 Cedar St,Albuquerque,NM,87101,USA,2022-12-21,Active,Yes,No,Paid Social,5,173
+CUST-001512,Ryan,Ward,ryanw@outlook.com,830-425-2033,36,Female,66784,3420 Washington Blvd,Phoenix,AZ,85001,USA,2021-11-08,Inactive,Yes,Yes,Organic Search,1,17
+CUST-001513,Jack,Gray,jack_gray@gmail.com,982-246-3841,34,Female,62416,5596 Oak St,San Diego,CA,92101,USA,2022-08-08,Active,No,Yes,Paid Social,4,64
+CUST-001514,Emily,Jackson,ejackson@icloud.com,449-795-1666,51,Female,45058,2285 Oak Rd,Austin,TX,78701,USA,2022-07-14,Active,No,Yes,Email Campaign,9,2998
+CUST-001515,Brandon,Carter,brandoncarter@gmail.com,383-291-5648,26,Female,30147,6919 Lake Rd,Los Angeles,CA,90001,USA,2021-07-04,Active,Yes,No,Direct,10,2417
+CUST-001516,Thomas,Clark,thomas147@outlook.com,825-908-1616,38,Male,26851,9869 Maple Rd,Seattle,WA,98101,USA,2023-07-04,Active,No,No,Paid Social,8,577
+CUST-001517,Amy,Ward,amy.ward@gmail.com,771-441-4144,41,Female,100888,2025 Oak Ln,Miami,FL,33101,USA,2021-10-21,Active,No,Yes,Direct,5,54
+CUST-001518,George,Ross,georger@hotmail.com,315-352-8772,30,Female,23276,8251 Maple Ave,Charlotte,NC,28201,USA,2023-11-02,Inactive,No,No,TV/Print,2,28
+CUST-001519,Christine,Garcia,christine56@outlook.com,831-976-8424,52,Female,106182,809 Oak Rd,Detroit,MI,48201,USA,2024-11-03,Active,No,Yes,Paid Social,6,603
+CUST-001520,Michael,Morgan,michaelmorgan@outlook.com,440-938-8287,64,Male,60281,9810 Elm Dr,Cleveland,OH,44101,USA,2026-04-11,Active,No,Yes,Direct,8,22
+CUST-001521,Betty,Myers,betty_myers@yahoo.com,442-955-7759,32,Female,41839,3376 Washington Ave,Charlotte,NC,28201,USA,2022-01-26,Active,No,Yes,In-Store,5,229
+CUST-001522,Elizabeth,Stewart,estewart@outlook.com,665-382-7346,40,Male,101619,6219 Maple Dr,Houston,TX,77001,USA,2021-06-12,Inactive,No,Yes,Referral,4,25
+CUST-001523,Raymond,Harris,raymond_harris@gmail.com,782-261-5597,27,Male,66974,2336 Oak Dr,Seattle,WA,98101,USA,2025-04-21,Active,Yes,No,Organic Search,5,72
+CUST-001524,Ryan,Turner,ryan_turner@outlook.com,826-374-4763,44,Male,151597,1516 Washington Ln,Charlotte,NC,28201,USA,2021-06-20,Inactive,No,Yes,Direct,5,71
+CUST-001525,Gary,Ramirez,gramirez@protonmail.com,452-453-6362,18,Female,122828,7214 Pine Ln,Milwaukee,WI,53201,USA,2024-11-15,Active,Yes,No,Organic Search,5,25
+CUST-001526,Karen,Kelly,karen.kelly@gmail.com,987-716-1550,47,Male,152990,7074 Washington Dr,Las Vegas,NV,89101,USA,2026-03-11,Active,No,No,Paid Social,5,399
+CUST-001527,Rachel,Gonzalez,rgonzalez@aol.com,949-616-4571,43,Female,67065,2274 Elm Blvd,San Francisco,CA,94101,USA,2025-12-21,Active,Yes,Yes,Organic Search,9,404
+CUST-001528,Donald,Chavez,donald.chavez@outlook.com,784-965-1399,72,Male,102981,7552 Lake Ave,Albuquerque,NM,87101,USA,2022-09-08,Active,Yes,Yes,Paid Social,9,5536
+CUST-001529,Patrick,Phillips,patrick_phillips@outlook.com,594-907-6454,47,Male,124016,8798 Main Blvd,Miami,FL,33101,USA,2023-11-02,Inactive,No,No,Email Campaign,3,134
+CUST-001530,Jason,Long,jason277@gmail.com,835-543-1898,36,Female,47911,8533 Elm St,Raleigh,NC,27601,USA,2023-05-26,Active,No,Yes,Paid Social,4,75
+CUST-001531,Joseph,Roberts,jroberts@outlook.com,772-921-2097,43,Female,78782,9287 Pine Ave,Raleigh,NC,27601,USA,2026-03-18,Inactive,Yes,Yes,Referral,3,13
+CUST-001532,Kevin,Walker,kevin.walker@outlook.com,414-971-4693,75,Male,37268,5350 Elm Blvd,Virginia Beach,VA,23451,USA,2023-10-04,Inactive,No,Yes,Direct,5,29
+CUST-001533,Nicholas,Mendoza,nicholas_mendoza@gmail.com,713-739-3010,40,Female,44551,7803 Cedar Dr,Houston,TX,77001,USA,2026-01-31,Active,No,Yes,Email Campaign,7,47
+CUST-001534,Helen,Mitchell,helen820@gmail.com,289-282-7400,18,Female,74389,3029 Cedar St,Minneapolis,MN,55401,USA,2021-11-26,Active,Yes,Yes,Paid Social,5,24
+CUST-001535,Susan,Perez,susan.perez@icloud.com,733-842-1371,42,Female,62182,4903 Washington Rd,Minneapolis,MN,55401,USA,2025-08-10,Inactive,No,Yes,In-Store,4,2
+CUST-001536,Anna,Taylor,anna_taylor@yahoo.com,222-437-9513,22,Female,104353,5603 Washington Ln,Las Vegas,NV,89101,USA,2023-12-13,Active,Yes,Yes,Affiliate,3,27
+CUST-001537,Carol,Wood,carol_wood@gmail.com,668-511-3161,42,Female,31465,5121 Maple Blvd,Tucson,AZ,85701,USA,2023-02-10,Active,Yes,Yes,Organic Search,9,477
+CUST-001538,Sandra,Morris,sandra_morris@gmail.com,666-370-3634,58,Male,64373,8870 Cedar Ave,Wichita,KS,67201,USA,2021-09-12,Active,No,Yes,Paid Social,5,20
+CUST-001539,Daniel,Price,daniel710@outlook.com,524-788-3072,18,Male,117026,7323 Cedar Blvd,Cleveland,OH,44101,USA,2025-07-30,Active,Yes,Yes,Organic Search,8,3890
+CUST-001540,Lisa,Clark,lisa576@hotmail.com,581-659-9845,45,Female,134545,2763 Cedar St,Chicago,IL,60601,USA,2022-09-15,Inactive,Yes,Yes,Email Campaign,3,29
+CUST-001541,Patricia,Phillips,pphillips@yahoo.com,204-956-9948,30,Male,129835,8413 Elm Rd,Wichita,KS,67201,USA,2025-08-16,Active,No,Yes,Email Campaign,8,51
+CUST-001542,Patrick,Nguyen,patrick_nguyen@icloud.com,652-546-2840,54,Male,274453,7947 Main Ave,New Orleans,LA,70101,USA,2023-03-23,Active,Yes,No,Email Campaign,6,417
+CUST-001543,Alexander,Peterson,alexander_peterson@yahoo.com,565-294-6347,40,Female,92594,1001 Pine Ln,Los Angeles,CA,90001,USA,2024-03-09,Active,Yes,Yes,TV/Print,9,22
+CUST-001544,Shirley,Lewis,shirley_lewis@outlook.com,893-887-2431,45,Female,39889,8485 Washington Ave,Fort Worth,TX,76101,USA,2026-04-24,Active,No,No,Referral,5,7
+CUST-001545,Gary,Green,garyg@aol.com,637-578-7326,28,Male,88531,6208 Main Blvd,Fresno,CA,93701,USA,2026-02-15,Active,Yes,No,Direct,7,353
+CUST-001546,Brian,Hall,bhall@outlook.com,959-625-8249,29,Female,51763,4828 Maple Rd,Kansas City,MO,64101,USA,2025-12-12,Active,No,Yes,Referral,8,6788
+CUST-001547,Jason,Sanders,jsanders@gmail.com,412-510-8776,36,Male,21928,8706 Elm St,Dallas,TX,75201,USA,2021-10-02,Active,No,Yes,Organic Search,9,8
+CUST-001548,Emma,Long,emma.long@gmail.com,673-927-3243,36,Female,176810,3364 Maple Dr,New York,NY,10001,USA,2024-02-22,Active,Yes,Yes,Paid Social,7,42
+CUST-001549,Donna,Peterson,donna.peterson@hotmail.com,957-674-4678,54,Male,76717,539 Main Ave,Washington,DC,20001,USA,2021-10-04,Active,No,Yes,TV/Print,9,29
+CUST-001550,Kimberly,Hill,kimberly979@hotmail.com,627-383-9059,44,Male,93942,4109 Main St,Miami,FL,33101,USA,2023-10-16,Active,No,Yes,Paid Social,5,41
+CUST-001551,Ruth,Scott,ruth.scott@outlook.com,646-464-8799,50,Female,51331,2059 Elm Ln,Colorado Springs,CO,80901,USA,2022-04-05,Active,No,Yes,Paid Social,5,77
+CUST-001552,Carolyn,Kelly,carolyn_kelly@company.com,909-338-6855,60,Non-binary,124456,2775 Main Blvd,Austin,TX,78701,USA,2023-03-06,Active,No,No,Paid Social,5,26
+CUST-001553,George,Turner,george_turner@aol.com,726-398-4002,32,Female,37925,1648 Maple Ln,Houston,TX,77001,USA,2024-10-24,Active,No,Yes,Paid Social,7,7
+CUST-001554,Dorothy,Green,dorothy847@hotmail.com,560-347-1211,38,Male,23529,2343 Cedar Blvd,Washington,DC,20001,USA,2024-12-01,Active,No,Yes,Email Campaign,5,74
+CUST-001555,Maria,Morales,maria_morales@aol.com,392-772-9612,46,Female,37899,8817 Oak Dr,Austin,TX,78701,USA,2025-11-12,Active,No,Yes,Paid Social,6,401
+CUST-001556,Ryan,Martinez,ryanmartinez@yahoo.com,342-652-9570,38,Male,77582,5704 Maple Rd,Los Angeles,CA,90001,USA,2023-10-01,Active,No,Yes,Email Campaign,9,2358
+CUST-001557,Joshua,Brown,joshua.brown@icloud.com,328-414-3133,50,Female,195441,1387 Washington Rd,Charlotte,NC,28201,USA,2025-09-19,Active,No,Yes,Email Campaign,8,5438
+CUST-001558,Ruth,Anderson,ruth.anderson@yahoo.com,233-875-9412,31,Female,71631,9818 Main Dr,Wichita,KS,67201,USA,2023-09-22,Active,No,No,Organic Search,8,22
+CUST-001559,Jessica,Allen,jessica.allen@hotmail.com,816-410-4277,32,Non-binary,76918,3127 Elm St,Washington,DC,20001,USA,2022-09-11,Active,No,Yes,Email Campaign,5,47
+CUST-001560,Barbara,Jackson,barbara867@aol.com,999-946-4962,28,Male,50902,8372 Oak St,Seattle,WA,98101,USA,2023-03-10,Active,Yes,No,Email Campaign,7,22
+CUST-001561,Justin,Ross,justinr@gmail.com,972-750-1070,35,Female,40955,1716 Pine Ln,Columbus,OH,43201,USA,2022-06-05,Active,Yes,No,Email Campaign,6,451
+CUST-001562,Patrick,Stewart,patrick376@gmail.com,385-563-7219,40,Female,131321,7048 Pine Ln,Long Beach,CA,90801,USA,2025-05-26,Active,No,Yes,Organic Search,10,2745
+CUST-001563,Sandra,Evans,sandra_evans@outlook.com,980-569-5723,30,Male,51485,9228 Main St,San Diego,CA,92101,USA,2023-10-29,Active,Yes,No,Organic Search,7,4697
+CUST-001564,Dorothy,Murphy,dmurphy@yahoo.com,654-431-7672,23,Male,233428,4861 Washington Ave,Denver,CO,80201,USA,2023-11-17,Active,No,Yes,Direct,9,479
+CUST-001565,William,Stewart,william962@aol.com,888-307-7494,59,Male,17054,7277 Oak St,Detroit,MI,48201,USA,2025-06-07,Active,No,No,Affiliate,5,10
+CUST-001566,Charles,Gomez,charles411@gmail.com,546-405-7623,51,Non-binary,81594,2111 Pine Dr,Long Beach,CA,90801,USA,2025-11-13,Active,No,Yes,Paid Social,6,248
+CUST-001567,Raymond,Murphy,raymond286@protonmail.com,609-564-8795,45,Male,38020,9982 Washington Dr,Wichita,KS,67201,USA,2023-03-06,Active,Yes,Yes,In-Store,9,323
+CUST-001568,Angela,Scott,ascott@gmail.com,843-337-1486,30,Male,79986,1731 Main St,San Antonio,TX,78201,USA,2025-10-02,Active,No,Yes,Paid Social,5,45
+CUST-001569,Amy,Gray,amygray@gmail.com,838-298-2253,39,Female,94659,8618 Lake Dr,Oklahoma City,OK,73101,USA,2023-01-18,Active,No,Yes,Direct,7,150
+CUST-001570,Betty,Nguyen,bnguyen@icloud.com,759-218-1517,42,Male,102232,7151 Oak Dr,Tucson,AZ,85701,USA,2023-08-11,Active,Yes,Yes,Referral,7,52
+CUST-001571,Laura,Green,lgreen@hotmail.com,875-998-5965,69,Male,287304,2789 Lake Dr,Baltimore,MD,21201,USA,2023-11-11,Active,Yes,No,Affiliate,5,36
+CUST-001572,Sarah,Flores,sflores@yahoo.com,875-767-9837,22,Female,99901,9475 Lake Dr,Tucson,AZ,85701,USA,2022-02-26,Active,No,Yes,In-Store,5,467
+CUST-001573,Brenda,Lee,brenda.lee@outlook.com,831-892-6779,60,Male,50716,4760 Elm St,Portland,OR,97201,USA,2024-12-17,Active,No,Yes,Paid Social,8,40
+CUST-001574,Patricia,Ramos,patriciaramos@hotmail.com,549-589-2594,62,Female,69777,7114 Elm Blvd,Detroit,MI,48201,USA,2024-06-25,Active,No,Yes,Organic Search,3,74
+CUST-001575,Edward,Hall,edward58@yahoo.com,286-904-2073,44,Male,273138,5095 Oak Blvd,San Francisco,CA,94101,USA,2025-01-18,Inactive,No,Yes,Affiliate,2,19
+CUST-001576,Nancy,Williams,nancy_williams@gmail.com,473-220-8695,56,Female,82394,9733 Main Blvd,Chicago,IL,60601,USA,2023-11-09,Active,No,Yes,Organic Search,10,3855
+CUST-001577,Timothy,Kelly,timothy_kelly@yahoo.com,410-544-9138,55,Male,61569,8337 Elm Ave,Atlanta,GA,30301,USA,2025-11-21,Inactive,No,No,Organic Search,4,3
+CUST-001578,Brandon,Hill,bhill@gmail.com,419-494-5344,18,Female,51131,878 Cedar Ln,Fort Worth,TX,76101,USA,2023-08-27,Active,No,Yes,Direct,5,50
+CUST-001579,Stephanie,Lewis,stephanie640@gmail.com,479-268-9700,40,Male,53410,7886 Washington Ave,Philadelphia,PA,19101,USA,2022-06-01,Active,Yes,Yes,Paid Social,9,193
+CUST-001580,Brian,Martinez,brian_martinez@gmail.com,520-404-7788,23,Female,20451,6691 Cedar Ln,Fresno,CA,93701,USA,2021-12-06,Active,No,Yes,Referral,7,30
+CUST-001581,Angela,Collins,angelac@outlook.com,391-790-9178,31,Female,82614,3589 Lake Blvd,Jacksonville,FL,32201,USA,2021-07-01,Inactive,Yes,Yes,Direct,1,0
+CUST-001582,Samantha,Morgan,samantham@gmail.com,673-351-4938,40,Male,150701,2565 Cedar Dr,Wichita,KS,67201,USA,2024-01-03,Active,Yes,No,Organic Search,5,31
+CUST-001583,Edward,Green,edward.green@gmail.com,861-364-5201,58,Female,29251,9950 Pine Dr,Miami,FL,33101,USA,2025-04-19,Active,Yes,Yes,Organic Search,8,646
+CUST-001584,Donald,Anderson,donaldanderson@gmail.com,646-632-1606,65,Male,47520,3409 Maple Blvd,Los Angeles,CA,90001,USA,2025-01-23,Active,No,Yes,In-Store,7,10
+CUST-001585,Sarah,Brown,sarah_brown@protonmail.com,939-697-1326,33,Male,113456,1006 Oak Blvd,Omaha,NE,68101,USA,2023-05-09,Active,Yes,Yes,Email Campaign,6,170
+CUST-001586,Nicole,Hill,nicole.hill@hotmail.com,343-441-2833,43,Male,77916,9454 Oak Ln,Las Vegas,NV,89101,USA,2024-05-26,Active,No,Yes,Organic Search,7,2173
+CUST-001587,Christine,Howard,christineh@outlook.com,991-520-6395,41,Male,68572,9673 Washington Rd,Indianapolis,IN,46201,USA,2023-08-28,Active,No,No,Paid Social,7,3989
+CUST-001588,Janet,Walker,jwalker@hotmail.com,650-618-5166,35,Female,25013,9758 Main Dr,Columbus,OH,43201,USA,2025-08-18,Active,No,No,Organic Search,7,4940
+CUST-001589,Jonathan,Mitchell,jonathan.mitchell@outlook.com,484-348-6947,52,Male,82425,7886 Elm Blvd,Boston,MA,02101,USA,2023-05-19,Active,No,Yes,Paid Social,8,377
+CUST-001590,John,Chavez,johnc@yahoo.com,445-459-7302,54,Female,24776,5167 Elm Rd,Chicago,IL,60601,USA,2021-09-20,Active,No,Yes,Email Campaign,7,3223
+CUST-001591,Jessica,Morgan,jessicamorgan@gmail.com,461-508-2478,41,Male,28302,3957 Cedar Ave,Baltimore,MD,21201,USA,2024-04-05,Active,Yes,Yes,Paid Social,5,43
+CUST-001592,Christopher,Cruz,christopher_cruz@gmail.com,282-998-9055,26,Female,68542,7818 Washington Blvd,Wichita,KS,67201,USA,2022-10-29,Active,No,Yes,Organic Search,8,126
+CUST-001593,Catherine,Diaz,catherine.diaz@hotmail.com,630-816-9973,50,Male,109988,5453 Lake Rd,Austin,TX,78701,USA,2022-07-10,Active,No,No,Email Campaign,7,141
+CUST-001594,Patricia,Ross,patricia54@outlook.com,203-610-4278,66,Male,16392,5106 Elm Ln,Virginia Beach,VA,23451,USA,2025-05-29,Active,Yes,Yes,Paid Social,6,26
+CUST-001595,David,Anderson,davidanderson@yahoo.com,620-527-8397,47,Female,46026,7937 Maple Blvd,Sacramento,CA,95801,USA,2022-06-09,Active,Yes,Yes,Organic Search,6,53
+CUST-001596,Daniel,Mendoza,daniel_mendoza@aol.com,602-586-4677,18,Male,249008,439 Main Ln,Denver,CO,80201,USA,2025-04-29,Active,No,No,Affiliate,5,6
+CUST-001597,Samuel,Ward,samuelward@outlook.com,250-610-8027,36,Male,50508,9936 Cedar Ave,Philadelphia,PA,19101,USA,2023-11-05,Active,No,Yes,Affiliate,6,130
+CUST-001598,Barbara,Mitchell,barbaram@outlook.com,889-706-2941,46,Male,53122,3777 Pine Ave,San Diego,CA,92101,USA,2026-05-12,Active,No,Yes,In-Store,9,186
+CUST-001599,Paul,Torres,ptorres@gmail.com,420-489-4102,46,Male,66254,6953 Maple Dr,Oklahoma City,OK,73101,USA,2025-09-16,Active,No,Yes,Affiliate,10,2842
+CUST-001600,Charles,Brown,charles_brown@protonmail.com,796-900-8506,48,Female,139129,1504 Main Dr,San Francisco,CA,94101,USA,2022-12-22,Active,Yes,Yes,In-Store,8,365
+CUST-001601,Sarah,Adams,sarah998@icloud.com,633-953-5198,34,Male,70053,1296 Oak Ln,Portland,OR,97201,USA,2022-08-03,Active,No,Yes,Email Campaign,6,398
+CUST-001602,Linda,Miller,lindamiller@gmail.com,926-966-1745,27,Female,16336,187 Cedar Ln,Albuquerque,NM,87101,USA,2024-06-14,Active,No,Yes,Email Campaign,9,306
+CUST-001603,Helen,Carter,hcarter@gmail.com,242-794-3938,41,Male,83957,4364 Maple Ln,Omaha,NE,68101,USA,2024-05-11,Active,No,Yes,Referral,8,1744
+CUST-001604,Amy,Baker,abaker@outlook.com,345-466-2914,29,Male,37061,5232 Main Ave,Dallas,TX,75201,USA,2025-12-08,Active,No,Yes,Email Campaign,9,3619
+CUST-001605,Amy,Scott,amy_scott@aol.com,729-520-8139,40,Male,130664,2803 Elm Rd,Louisville,KY,40201,USA,2024-11-07,Active,Yes,Yes,Affiliate,7,35
+CUST-001606,Gary,Ross,garyross@gmail.com,255-435-4000,58,Female,62098,687 Lake Blvd,Kansas City,MO,64101,USA,2021-08-27,Active,Yes,Yes,Organic Search,8,369
+CUST-001607,Christopher,Price,cprice@gmail.com,774-696-8499,39,Male,148355,8177 Oak Rd,San Diego,CA,92101,USA,2023-08-31,Active,No,Yes,Direct,5,197
+CUST-001608,Charles,Thomas,charles.thomas@outlook.com,967-720-5469,35,Male,54255,9328 Pine Ln,Columbus,OH,43201,USA,2021-07-27,Active,Yes,Yes,Affiliate,7,51
+CUST-001609,James,Ortiz,jameso@gmail.com,893-296-6384,43,Female,51226,525 Cedar Rd,Jacksonville,FL,32201,USA,2024-02-08,Active,Yes,Yes,Email Campaign,5,20
+CUST-001610,Debra,Thomas,debra_thomas@gmail.com,671-924-8861,58,Female,221819,7539 Cedar Ln,Long Beach,CA,90801,USA,2025-11-04,Active,No,Yes,Paid Social,9,2320
+CUST-001611,Gregory,Smith,gregory.smith@gmail.com,951-782-3118,47,Female,45122,3563 Main Rd,Virginia Beach,VA,23451,USA,2022-12-13,Active,No,Yes,Organic Search,8,12
+CUST-001612,Andrew,Adams,andrew.adams@gmail.com,382-445-7535,46,Female,157990,1561 Main Ave,Tampa,FL,33601,USA,2026-01-16,Active,No,Yes,Affiliate,8,10
+CUST-001613,Christopher,Roberts,croberts@gmail.com,642-953-6080,50,Male,95792,9987 Maple Blvd,Denver,CO,80201,USA,2022-10-23,Active,No,Yes,In-Store,8,5094
+CUST-001614,Christine,Gonzalez,christine_gonzalez@gmail.com,687-474-7931,25,Female,86810,1578 Washington Blvd,Fresno,CA,93701,USA,2025-04-26,Active,Yes,Yes,TV/Print,6,41
+CUST-001615,Brandon,White,brandon445@gmail.com,892-429-3540,47,Female,51701,8215 Oak Blvd,Louisville,KY,40201,USA,2025-12-01,Inactive,No,Yes,Referral,1,5
+CUST-001616,Cynthia,Parker,cparker@gmail.com,454-735-8007,48,Female,43054,4941 Main Ln,Washington,DC,20001,USA,2025-08-09,Active,No,Yes,Paid Social,8,4590
+CUST-001617,Elizabeth,Garcia,elizabeth.garcia@yahoo.com,937-782-5151,28,Female,32483,5923 Cedar Ln,Fresno,CA,93701,USA,2024-01-21,Active,Yes,No,Paid Social,8,514
+CUST-001618,David,Foster,david.foster@aol.com,602-246-2364,46,Female,46832,6919 Cedar Blvd,San Diego,CA,92101,USA,2022-04-15,Active,No,Yes,TV/Print,6,123
+CUST-001619,Emma,Castillo,emma466@outlook.com,416-389-2281,29,Male,51307,9996 Cedar Rd,Baltimore,MD,21201,USA,2022-12-10,Active,Yes,Yes,Organic Search,7,32
+CUST-001620,Susan,Parker,susan.parker@yahoo.com,688-671-7637,36,Male,89898,9961 Lake Blvd,New York,NY,10001,USA,2024-03-23,Active,No,Yes,Organic Search,5,173
+CUST-001621,Helen,Ward,helen370@gmail.com,328-338-1227,60,Female,34312,3226 Oak St,Oakland,CA,94601,USA,2022-07-27,Active,No,Yes,Referral,8,304
+CUST-001622,Rachel,Harris,rachel.harris@gmail.com,841-751-4127,41,Female,52544,1510 Cedar Dr,Columbus,OH,43201,USA,2023-09-28,Active,No,No,In-Store,6,84
+CUST-001623,Charles,Stewart,charles.stewart@gmail.com,696-682-1321,57,Non-binary,150230,7464 Pine Ave,San Diego,CA,92101,USA,2025-07-04,Active,No,Yes,Organic Search,6,8
+CUST-001624,Donna,Reed,dreed@hotmail.com,642-625-9121,45,Female,60961,9580 Cedar St,Houston,TX,77001,USA,2024-07-26,Active,No,Yes,Paid Social,5,14
+CUST-001625,Gary,Phillips,garyp@yahoo.com,437-931-1994,56,Female,45978,8755 Main Dr,Long Beach,CA,90801,USA,2022-05-17,Active,No,Yes,Affiliate,9,135
+CUST-001626,Pamela,Green,pamela.green@hotmail.com,706-837-6681,40,Male,70655,7445 Washington St,Seattle,WA,98101,USA,2022-10-21,Active,No,Yes,Direct,8,20
+CUST-001627,Christopher,Torres,christophertorres@gmail.com,801-901-6556,62,Male,31080,9964 Lake Ave,Albuquerque,NM,87101,USA,2024-07-05,Active,No,Yes,Referral,8,11
+CUST-001628,Donna,Castillo,dcastillo@yahoo.com,836-412-5627,29,Male,83414,1512 Lake Ave,Las Vegas,NV,89101,USA,2021-10-07,Active,No,Yes,Direct,9,2397
+CUST-001629,Daniel,Sanchez,daniels@company.com,510-440-4431,32,Female,44088,9223 Main St,Tucson,AZ,85701,USA,2025-11-15,Active,No,No,Email Campaign,8,138
+CUST-001630,Amanda,King,amanda366@hotmail.com,545-640-2867,33,Male,61113,3814 Oak Ln,Austin,TX,78701,USA,2025-06-17,Active,No,Yes,Organic Search,9,14
+CUST-001631,Mark,Morales,mark_morales@gmail.com,473-354-9444,42,Male,77849,1806 Main Dr,Cleveland,OH,44101,USA,2024-06-12,Active,No,No,Paid Social,3,58
+CUST-001632,Ryan,Long,ryan.long@gmail.com,719-307-3736,52,Female,79380,2034 Pine Blvd,Cleveland,OH,44101,USA,2023-01-06,Active,No,Yes,Referral,5,35
+CUST-001633,Christopher,Sanders,christopher300@hotmail.com,357-862-6959,35,Female,38257,5582 Maple St,Baltimore,MD,21201,USA,2022-03-02,Active,Yes,Yes,Email Campaign,8,43
+CUST-001634,Betty,Cruz,bcruz@company.com,549-493-9274,60,Male,68525,2905 Oak Blvd,Wichita,KS,67201,USA,2022-02-16,Active,No,Yes,Affiliate,7,5194
+CUST-001635,Melissa,Alvarez,malvarez@yahoo.com,742-631-4738,64,Male,160655,2360 Washington Dr,Detroit,MI,48201,USA,2022-11-28,Active,Yes,Yes,Organic Search,6,88
+CUST-001636,Edward,Collins,edwardc@aol.com,349-988-1162,31,Female,48928,8576 Oak St,Cleveland,OH,44101,USA,2022-08-12,Active,Yes,Yes,Organic Search,7,14
+CUST-001637,Carol,Green,carolgreen@protonmail.com,856-354-1947,62,Male,53775,8616 Cedar Dr,Louisville,KY,40201,USA,2026-02-04,Active,Yes,Yes,Email Campaign,8,323
+CUST-001638,Stephanie,Mendoza,stephaniem@yahoo.com,486-740-3406,38,Male,73515,6718 Lake Rd,Washington,DC,20001,USA,2022-05-24,Active,No,Yes,Direct,7,232
+CUST-001639,Anthony,Cooper,anthonyc@gmail.com,614-994-4232,46,Male,155890,5040 Oak St,Virginia Beach,VA,23451,USA,2023-12-17,Active,Yes,Yes,Affiliate,7,419
+CUST-001640,Jonathan,Nelson,jonathan400@yahoo.com,490-418-2520,50,Female,57691,8483 Cedar Ln,Arlington,TX,76001,USA,2022-04-16,Active,No,Yes,Organic Search,8,6621
+CUST-001641,Carol,Long,carollong@outlook.com,992-511-7926,18,Female,15000,8378 Oak Rd,Los Angeles,CA,90001,USA,2026-04-13,Active,No,No,Email Campaign,9,502
+CUST-001642,Linda,Mitchell,linda266@outlook.com,327-659-5881,38,Male,350000,9478 Main Dr,Fresno,CA,93701,USA,2024-06-14,Active,No,Yes,TV/Print,5,79
+CUST-001643,Carol,Walker,carol825@gmail.com,558-506-5661,42,Female,106302,9484 Maple Rd,Long Beach,CA,90801,USA,2023-04-08,Active,No,Yes,Paid Social,9,506
+CUST-001644,Timothy,Gutierrez,timothygutierrez@gmail.com,665-300-3401,29,Female,258919,7074 Washington St,San Antonio,TX,78201,USA,2024-08-07,Active,Yes,Yes,Paid Social,8,1904
+CUST-001645,Barbara,Davis,barbaradavis@icloud.com,738-612-9502,33,Female,198632,6568 Cedar Ln,Albuquerque,NM,87101,USA,2025-03-27,Active,No,Yes,Paid Social,6,44
+CUST-001646,Amy,Brooks,abrooks@outlook.com,717-330-8942,48,Male,38829,7599 Maple Rd,Minneapolis,MN,55401,USA,2023-09-11,Active,No,No,Referral,8,14
+CUST-001647,Angela,Ortiz,angela121@outlook.com,772-578-2945,25,Prefer not to say,45560,9956 Washington St,Columbus,OH,43201,USA,2023-11-20,Active,No,Yes,Referral,8,11
+CUST-001648,Jessica,Mitchell,jessica_mitchell@gmail.com,583-510-5816,30,Male,41355,8061 Main Ave,Chicago,IL,60601,USA,2023-07-05,Active,Yes,Yes,Affiliate,6,19
+CUST-001649,Charles,Ramos,charles.ramos@protonmail.com,700-202-3004,24,Male,34600,9070 Elm St,Washington,DC,20001,USA,2021-06-15,Active,No,No,Organic Search,7,51
+CUST-001650,Jennifer,Turner,jennifert@gmail.com,686-937-3175,49,Male,156927,2369 Lake Dr,Washington,DC,20001,USA,2023-04-08,Active,No,Yes,Paid Social,10,1933
+CUST-001651,Christine,Edwards,christine153@hotmail.com,547-753-1750,36,Female,154197,7359 Cedar Rd,Boston,MA,02101,USA,2025-12-09,Active,No,No,Email Campaign,8,23
+CUST-001652,Barbara,Perez,barbara.perez@aol.com,859-772-2395,33,Female,104351,3252 Main Ln,Atlanta,GA,30301,USA,2022-11-27,Active,No,Yes,In-Store,7,24
+CUST-001653,Eric,Harris,eharris@gmail.com,384-219-5504,43,Female,36077,3471 Pine Rd,Fresno,CA,93701,USA,2026-05-02,Active,No,Yes,In-Store,5,15
+CUST-001654,Justin,Cruz,justinc@gmail.com,223-548-8160,52,Female,78204,3057 Washington St,Colorado Springs,CO,80901,USA,2024-08-22,Active,No,Yes,Email Campaign,8,267
+CUST-001655,Shirley,Green,shirley_green@yahoo.com,347-387-5187,30,Female,73046,1568 Maple Blvd,Philadelphia,PA,19101,USA,2025-10-18,Active,No,No,Email Campaign,7,1805
+CUST-001656,Edward,Gray,edward.gray@gmail.com,505-599-2617,27,Female,97153,5343 Maple Dr,Raleigh,NC,27601,USA,2024-08-12,Active,No,Yes,In-Store,6,363
+CUST-001657,Dorothy,King,dorothy.king@yahoo.com,442-704-9333,44,Male,49480,8364 Washington St,Houston,TX,77001,USA,2025-04-21,Active,No,No,In-Store,6,75
+CUST-001658,Paul,Davis,pdavis@yahoo.com,848-439-1305,64,Male,61632,4509 Oak Ave,Kansas City,MO,64101,USA,2024-02-27,Active,No,Yes,Organic Search,5,16
+CUST-001659,Ruth,Bailey,ruthbailey@yahoo.com,712-408-3332,50,Male,58563,6216 Maple Ave,Washington,DC,20001,USA,2023-04-03,Active,No,Yes,Referral,8,40
+CUST-001660,Jonathan,Diaz,jonathand@yahoo.com,496-868-3742,32,Female,112774,108 Main Dr,Baltimore,MD,21201,USA,2026-03-16,Active,Yes,Yes,Affiliate,5,374
+CUST-001661,Paul,Kim,paul257@gmail.com,488-246-3644,45,Male,135120,8850 Oak Blvd,Oklahoma City,OK,73101,USA,2024-06-20,Inactive,No,Yes,Referral,2,27
+CUST-001662,Barbara,Gomez,barbara.gomez@hotmail.com,825-716-6215,42,Female,40746,5713 Cedar Rd,Dallas,TX,75201,USA,2022-05-17,Active,No,Yes,In-Store,7,30
+CUST-001663,Laura,Wright,laura252@yahoo.com,536-216-3190,57,Female,60075,133 Lake St,Boston,MA,02101,USA,2024-07-10,Active,No,Yes,Affiliate,6,305
+CUST-001664,Mary,Gray,mgray@hotmail.com,283-864-2270,18,Female,40655,8925 Main Rd,Kansas City,MO,64101,USA,2022-07-14,Active,No,Yes,Direct,10,2684
+CUST-001665,Jeffrey,Gray,jeffrey_gray@yahoo.com,986-913-1138,31,Male,60736,2144 Lake Blvd,Oklahoma City,OK,73101,USA,2021-10-19,Active,No,Yes,Organic Search,9,270
+CUST-001666,Matthew,Cruz,matthewcruz@yahoo.com,566-396-2474,48,Female,22705,5067 Pine Ave,Tampa,FL,33601,USA,2026-04-30,Active,No,Yes,In-Store,7,283
+CUST-001667,Amy,Campbell,amy_campbell@yahoo.com,853-605-2817,29,Male,44954,4644 Lake Ave,Tucson,AZ,85701,USA,2022-06-29,Active,No,Yes,Referral,9,255
+CUST-001668,Stephen,Harris,stephen676@gmail.com,802-331-2065,61,Male,56859,2187 Cedar Ln,Atlanta,GA,30301,USA,2022-09-02,Active,No,Yes,Direct,9,178
+CUST-001669,Sandra,Gutierrez,sandra_gutierrez@gmail.com,894-745-5143,37,Female,93797,9276 Lake St,Fort Worth,TX,76101,USA,2021-09-07,Active,No,Yes,Paid Social,5,121
+CUST-001670,Jason,Chavez,jason690@icloud.com,480-324-9491,39,Female,65492,7744 Lake Blvd,Houston,TX,77001,USA,2021-08-26,Active,Yes,Yes,TV/Print,7,182
+CUST-001671,Eric,Ross,eric45@protonmail.com,659-523-1084,51,Female,64905,6520 Pine Blvd,Charlotte,NC,28201,USA,2026-03-05,Active,No,Yes,In-Store,5,79
+CUST-001672,David,Kelly,david.kelly@gmail.com,401-368-6394,36,Male,79792,5192 Oak Rd,Tampa,FL,33601,USA,2025-03-04,Active,Yes,No,Direct,10,5257
+CUST-001673,Benjamin,Gonzalez,bgonzalez@hotmail.com,542-456-5049,18,Male,77326,1866 Lake Ave,Louisville,KY,40201,USA,2021-11-28,Active,Yes,Yes,Direct,5,19
+CUST-001674,Carol,Miller,carol_miller@yahoo.com,834-649-2567,39,Female,43082,7414 Oak St,Sacramento,CA,95801,USA,2021-12-26,Active,No,No,Email Campaign,6,214
+CUST-001675,Linda,Jones,linda_jones@yahoo.com,256-508-8075,34,Female,97500,1177 Oak Rd,Minneapolis,MN,55401,USA,2026-01-27,Inactive,No,Yes,TV/Print,2,30
+CUST-001676,Linda,Bailey,linda_bailey@outlook.com,438-813-1173,33,Male,75671,7528 Washington Dr,Oklahoma City,OK,73101,USA,2024-03-09,Active,Yes,Yes,Direct,7,1289
+CUST-001677,Jason,Richardson,jason.richardson@outlook.com,801-397-2769,43,Male,67176,1782 Main Ln,El Paso,TX,79901,USA,2022-10-15,Active,Yes,Yes,Paid Social,5,202
+CUST-001678,Catherine,Rodriguez,catherinerodriguez@gmail.com,692-942-8284,18,Prefer not to say,60824,3146 Pine Ave,Atlanta,GA,30301,USA,2025-09-24,Inactive,Yes,Yes,Organic Search,5,6
+CUST-001679,Jennifer,Davis,jennifer_davis@outlook.com,994-349-3415,75,Female,165391,7792 Cedar Ln,Long Beach,CA,90801,USA,2023-12-30,Active,Yes,Yes,Email Campaign,5,94
+CUST-001680,Carol,Nguyen,carol.nguyen@gmail.com,772-255-7915,32,Male,130704,5733 Pine Ave,Sacramento,CA,95801,USA,2023-02-24,Active,No,Yes,Direct,4,145
+CUST-001681,Samantha,Sanchez,samantha.sanchez@icloud.com,814-909-6425,30,Male,97267,9576 Elm Ln,El Paso,TX,79901,USA,2025-05-18,Active,No,Yes,Organic Search,8,661
+CUST-001682,Joshua,Turner,joshuaturner@outlook.com,854-428-4772,52,Female,65882,7743 Pine Ave,San Antonio,TX,78201,USA,2023-11-22,Active,Yes,No,Paid Social,5,278
+CUST-001683,Kathleen,Patel,kathleen_patel@gmail.com,571-210-2208,34,Female,67886,5963 Main Ln,Tampa,FL,33601,USA,2024-05-01,Active,Yes,Yes,Paid Social,6,6
+CUST-001684,Joseph,Jackson,jjackson@hotmail.com,244-230-4262,35,Male,91741,3341 Cedar Ave,Fort Worth,TX,76101,USA,2022-11-25,Inactive,No,Yes,Direct,5,17
+CUST-001685,Mark,King,markking@outlook.com,380-468-2657,35,Male,36603,443 Maple Dr,El Paso,TX,79901,USA,2021-09-08,Active,No,Yes,In-Store,6,34
+CUST-001686,Katherine,Anderson,katherineanderson@hotmail.com,876-375-9633,60,Female,23941,7206 Oak St,Washington,DC,20001,USA,2023-11-18,Active,No,Yes,Paid Social,6,18
+CUST-001687,Charles,Taylor,charlestaylor@hotmail.com,813-639-5006,60,Female,158839,856 Pine Ln,Fort Worth,TX,76101,USA,2023-06-15,Active,No,No,Organic Search,8,112
+CUST-001688,Donna,Martin,donnamartin@yahoo.com,798-700-4428,54,Female,118892,1433 Lake Rd,Houston,TX,77001,USA,2022-11-28,Active,Yes,No,Direct,7,16
+CUST-001689,Brandon,Rodriguez,brandonr@gmail.com,675-383-6272,23,Male,67107,6225 Lake Rd,Oklahoma City,OK,73101,USA,2022-03-24,Active,Yes,Yes,Email Campaign,9,188
+CUST-001690,Amy,Stewart,amys@outlook.com,424-407-8406,55,Male,97033,3940 Washington Ave,Portland,OR,97201,USA,2022-11-11,Active,Yes,No,Organic Search,9,384
+CUST-001691,Michelle,Diaz,mdiaz@protonmail.com,337-969-2376,42,Prefer not to say,152969,4934 Lake Ln,Atlanta,GA,30301,USA,2025-07-23,Active,Yes,Yes,Referral,7,307
+CUST-001692,Amanda,Robinson,amanda.robinson@yahoo.com,642-618-7021,72,Female,150181,8251 Elm Blvd,Milwaukee,WI,53201,USA,2023-07-26,Active,Yes,Yes,Affiliate,7,59
+CUST-001693,Timothy,Brown,tbrown@gmail.com,501-713-9401,45,Female,155108,9056 Oak Blvd,Charlotte,NC,28201,USA,2024-12-13,Active,No,Yes,Email Campaign,5,244
+CUST-001694,Sandra,Gonzalez,sandra.gonzalez@aol.com,537-456-5959,48,Male,70132,4596 Pine Rd,Detroit,MI,48201,USA,2026-03-23,Active,Yes,Yes,In-Store,8,4495
+CUST-001695,Nicole,Moore,nicole876@gmail.com,488-554-7616,32,Female,63485,6747 Main Dr,Tampa,FL,33601,USA,2023-05-24,Active,Yes,No,Paid Social,7,6
+CUST-001696,Katherine,Rogers,katherinerogers@yahoo.com,685-439-9451,34,Male,160368,9717 Lake Rd,Portland,OR,97201,USA,2025-02-28,Active,No,Yes,Email Campaign,6,462
+CUST-001697,Cynthia,Baker,cynthia.baker@hotmail.com,627-414-8187,47,Female,19297,7472 Main Blvd,Boston,MA,02101,USA,2021-09-11,Active,Yes,Yes,TV/Print,6,32
+CUST-001698,Sarah,Kelly,sarahkelly@outlook.com,563-547-4694,68,Male,130938,6967 Washington Rd,Washington,DC,20001,USA,2022-04-20,Active,No,Yes,Email Campaign,5,163
+CUST-001699,Dennis,Phillips,dennis782@yahoo.com,232-342-3518,40,Male,102750,5510 Washington Dr,Mesa,AZ,85201,USA,2024-10-04,Active,Yes,Yes,Referral,7,49
+CUST-001700,Anthony,Gomez,anthonyg@yahoo.com,662-854-5991,19,Female,75595,1627 Maple St,Oklahoma City,OK,73101,USA,2025-05-20,Active,Yes,Yes,Email Campaign,8,8
+CUST-001701,Alexander,Peterson,alexander.peterson@gmail.com,271-595-5650,52,Female,34045,3473 Pine Blvd,Minneapolis,MN,55401,USA,2023-01-21,Active,No,Yes,Organic Search,10,6115
+CUST-001702,Gregory,Ortiz,gortiz@gmail.com,620-600-3572,42,Female,86759,1914 Maple Ln,Houston,TX,77001,USA,2024-05-16,Active,Yes,Yes,Organic Search,9,584
+CUST-001703,Rebecca,Morris,rebecca.morris@outlook.com,517-642-8778,18,Female,249024,2701 Cedar Ln,Oklahoma City,OK,73101,USA,2021-08-02,Active,No,Yes,Email Campaign,8,6108
+CUST-001704,Betty,Cook,betty734@gmail.com,656-265-7541,18,Female,26756,4144 Elm Ln,Milwaukee,WI,53201,USA,2024-11-22,Active,No,Yes,Email Campaign,8,3830
+CUST-001705,Gary,Collins,garyc@hotmail.com,555-917-5873,24,Female,155220,6507 Maple Dr,Chicago,IL,60601,USA,2022-04-22,Inactive,No,Yes,Organic Search,1,15
+CUST-001706,Ashley,Thompson,ashleyt@hotmail.com,387-915-2565,45,Female,125605,6547 Main Ave,Arlington,TX,76001,USA,2024-01-07,Active,Yes,Yes,Email Campaign,8,107
+CUST-001707,Christopher,Scott,christopher904@outlook.com,422-705-7738,64,Male,92032,9157 Oak Blvd,Mesa,AZ,85201,USA,2024-10-20,Active,Yes,Yes,Direct,3,118
+CUST-001708,Elizabeth,Long,elizabethl@outlook.com,458-412-9291,18,Male,72169,831 Lake St,Wichita,KS,67201,USA,2022-01-25,Active,No,Yes,Affiliate,7,89
+CUST-001709,Elizabeth,Brooks,elizabeth712@gmail.com,399-606-1618,37,Male,114042,275 Cedar St,Tampa,FL,33601,USA,2023-11-07,Active,No,No,Organic Search,8,17
+CUST-001710,Patrick,Moore,patrick335@yahoo.com,761-872-4969,37,Male,137056,7271 Maple Dr,Tampa,FL,33601,USA,2023-11-02,Active,No,Yes,TV/Print,8,8
+CUST-001711,Emily,Lee,emily.lee@hotmail.com,959-600-3759,46,Male,73271,1371 Main Rd,Colorado Springs,CO,80901,USA,2025-11-16,Active,Yes,Yes,Paid Social,6,37
+CUST-001712,Paul,Martin,paul_martin@gmail.com,421-652-1782,50,Female,28761,8666 Oak Dr,Jacksonville,FL,32201,USA,2025-03-23,Active,No,No,Email Campaign,5,44
+CUST-001713,Frank,Flores,frank.flores@hotmail.com,455-583-4908,66,Male,250870,3376 Oak St,Colorado Springs,CO,80901,USA,2026-05-31,Active,Yes,Yes,Paid Social,5,318
+CUST-001714,Rebecca,Brown,rebecca_brown@gmail.com,880-371-3736,55,Non-binary,295021,821 Washington Ln,Fort Worth,TX,76101,USA,2022-08-17,Active,No,Yes,Email Campaign,5,138
+CUST-001715,Susan,Adams,susana@hotmail.com,604-638-2979,50,Male,61930,3907 Pine St,Miami,FL,33101,USA,2025-05-17,Inactive,No,Yes,Organic Search,5,6
+CUST-001716,Amanda,Adams,amanda.adams@gmail.com,669-425-2081,54,Female,37307,4662 Elm St,Portland,OR,97201,USA,2022-10-09,Active,No,Yes,Email Campaign,5,121
+CUST-001717,William,Ramirez,william_ramirez@gmail.com,929-749-3809,56,Female,98815,4227 Oak Ln,Wichita,KS,67201,USA,2023-01-30,Inactive,No,Yes,TV/Print,4,16
+CUST-001718,Dorothy,Watson,dwatson@yahoo.com,979-904-6209,43,Male,39539,7999 Oak Blvd,Oakland,CA,94601,USA,2022-02-11,Active,No,Yes,Referral,8,8301
+CUST-001719,John,Cox,johnc@gmail.com,715-801-1217,41,Female,31490,3911 Main Ln,Baltimore,MD,21201,USA,2024-04-17,Active,No,Yes,Referral,9,5
+CUST-001720,Ruth,Thomas,ruththomas@outlook.com,340-583-9171,31,Male,27064,4959 Pine Ave,Tampa,FL,33601,USA,2024-01-14,Inactive,No,Yes,Paid Social,2,13
+CUST-001721,Timothy,Clark,timothy.clark@gmail.com,956-536-3199,51,Male,48524,4656 Elm Rd,San Francisco,CA,94101,USA,2022-05-16,Active,Yes,Yes,Organic Search,9,382
+CUST-001722,Ruth,Garcia,rgarcia@gmail.com,950-539-6615,50,Female,109111,4069 Pine Ln,Virginia Beach,VA,23451,USA,2021-11-18,Active,No,Yes,Organic Search,9,3998
+CUST-001723,Michael,Bennett,michael255@hotmail.com,733-529-4007,47,Female,96004,7347 Main St,Minneapolis,MN,55401,USA,2022-05-28,Active,Yes,No,Direct,6,12
+CUST-001724,Gary,Rodriguez,garyrodriguez@company.com,293-377-9992,35,Male,52320,3448 Pine Ln,Houston,TX,77001,USA,2022-11-18,Active,No,Yes,Organic Search,6,63
+CUST-001725,David,Diaz,ddiaz@company.com,820-454-5966,56,Female,57269,4775 Lake Rd,Washington,DC,20001,USA,2025-07-08,Inactive,No,Yes,Organic Search,4,30
+CUST-001726,Betty,Wright,bwright@gmail.com,651-632-9278,52,Male,88907,7201 Maple Dr,Philadelphia,PA,19101,USA,2024-06-03,Active,No,Yes,Direct,10,2654
+CUST-001727,John,Ross,jross@protonmail.com,766-944-3878,41,Male,25517,4315 Washington Dr,Philadelphia,PA,19101,USA,2022-03-08,Active,No,Yes,Organic Search,7,22
+CUST-001728,Michelle,Collins,mcollins@yahoo.com,932-680-4206,45,Female,21061,2635 Pine St,Kansas City,MO,64101,USA,2023-01-15,Active,Yes,No,Referral,8,411
+CUST-001729,Mary,Cook,mary748@yahoo.com,960-582-7292,28,Female,52458,8120 Cedar Rd,Detroit,MI,48201,USA,2023-09-07,Active,Yes,Yes,Referral,8,268
+CUST-001730,Emma,Martinez,emma.martinez@outlook.com,461-989-6711,23,Female,24057,8449 Lake Rd,San Diego,CA,92101,USA,2024-04-12,Active,Yes,Yes,Affiliate,9,116
+CUST-001731,Frank,Mitchell,frank.mitchell@gmail.com,689-235-6921,48,Male,83776,562 Maple Blvd,Virginia Beach,VA,23451,USA,2024-04-11,Active,No,No,TV/Print,6,44
+CUST-001732,Nicole,Collins,nicole967@hotmail.com,365-212-2912,45,Male,50359,1612 Washington Dr,San Jose,CA,95101,USA,2025-01-05,Active,No,Yes,Organic Search,6,11
+CUST-001733,Patrick,Ramos,patrick.ramos@hotmail.com,458-908-5951,18,Male,56545,8302 Washington Ln,Sacramento,CA,95801,USA,2025-05-19,Active,No,Yes,Paid Social,8,33
+CUST-001734,Michelle,Sanders,michelle422@gmail.com,346-475-4432,45,Female,66614,6620 Cedar St,Philadelphia,PA,19101,USA,2025-10-29,Active,No,Yes,Paid Social,9,318
+CUST-001735,Nancy,Morales,nancy.morales@hotmail.com,495-950-8060,27,Male,75917,2895 Maple Blvd,Phoenix,AZ,85001,USA,2022-02-06,Active,No,Yes,Affiliate,6,44
+CUST-001736,Lisa,Price,lisaprice@hotmail.com,780-417-4041,46,Male,53949,3392 Main Rd,Tucson,AZ,85701,USA,2025-06-02,Active,No,Yes,Direct,9,505
+CUST-001737,Lisa,Ross,lisa_ross@gmail.com,281-500-2404,36,Female,15866,6288 Oak Blvd,Las Vegas,NV,89101,USA,2023-12-20,Inactive,Yes,No,Referral,3,58
+CUST-001738,William,Baker,williamb@outlook.com,209-262-5359,31,Male,198830,218 Main St,San Francisco,CA,94101,USA,2023-10-05,Active,No,Yes,Referral,8,231
+CUST-001739,Margaret,Gutierrez,margaret.gutierrez@gmail.com,697-684-6521,44,Male,120897,7136 Elm Blvd,Oklahoma City,OK,73101,USA,2023-01-22,Active,No,No,Direct,9,579
+CUST-001740,Debra,Baker,debrabaker@yahoo.com,564-538-2641,37,Male,99326,150 Lake Rd,Detroit,MI,48201,USA,2022-09-16,Active,No,No,Referral,8,21
+CUST-001741,Stephanie,Castillo,stephaniecastillo@aol.com,916-969-5072,28,Male,52936,6136 Lake Ln,Los Angeles,CA,90001,USA,2023-01-24,Active,No,Yes,Paid Social,5,103
+CUST-001742,Debra,James,djames@gmail.com,529-217-6901,50,Male,25967,849 Elm Rd,Fresno,CA,93701,USA,2024-02-14,Active,Yes,Yes,Affiliate,6,8
+CUST-001743,Jeffrey,Robinson,jrobinson@hotmail.com,874-916-2645,58,Male,44749,6405 Cedar Ln,Portland,OR,97201,USA,2022-04-18,Active,Yes,Yes,Direct,5,35
+CUST-001744,Matthew,Alvarez,matthewa@gmail.com,289-508-9990,47,Male,130726,7748 Maple Dr,Atlanta,GA,30301,USA,2022-01-14,Active,No,Yes,Referral,9,126
+CUST-001745,Joseph,Morris,josephm@gmail.com,916-291-2728,36,Female,117010,7225 Main Ave,San Francisco,CA,94101,USA,2025-01-27,Active,No,Yes,Email Campaign,4,59
+CUST-001746,Dorothy,Roberts,dorothy_roberts@gmail.com,326-881-3224,33,Female,108600,8857 Lake St,Charlotte,NC,28201,USA,2022-05-29,Active,No,Yes,Direct,7,600
+CUST-001747,Frank,Nelson,franknelson@outlook.com,934-960-7252,57,Male,53392,9306 Washington Ave,Atlanta,GA,30301,USA,2022-02-21,Active,No,Yes,Paid Social,5,33
+CUST-001748,Mark,King,mark_king@gmail.com,392-962-2902,60,Female,66073,9485 Elm Ave,Philadelphia,PA,19101,USA,2025-10-24,Active,No,No,Organic Search,3,101
+CUST-001749,Kenneth,Carter,kenneth591@gmail.com,597-633-6237,54,Female,101940,6080 Maple Ln,New York,NY,10001,USA,2024-09-11,Active,No,Yes,Paid Social,5,9
+CUST-001750,Gregory,Cox,gregorycox@gmail.com,523-348-5863,55,Male,46718,3686 Lake Rd,San Antonio,TX,78201,USA,2024-03-22,Active,No,Yes,Email Campaign,7,1841
+CUST-001751,Ryan,Jackson,ryan_jackson@gmail.com,714-905-3022,32,Non-binary,62555,4580 Lake Rd,San Jose,CA,95101,USA,2022-04-02,Inactive,No,Yes,Organic Search,1,14
+CUST-001752,Margaret,Murphy,margaret299@icloud.com,415-950-4687,28,Female,55783,961 Maple Dr,Oklahoma City,OK,73101,USA,2026-02-09,Active,No,Yes,Organic Search,7,20
+CUST-001753,Carolyn,Gomez,carolyn307@icloud.com,894-684-6706,57,Male,82965,6512 Washington St,Austin,TX,78701,USA,2026-04-26,Active,No,Yes,Organic Search,9,267
+CUST-001754,Shirley,Sanders,shirley_sanders@company.com,970-794-1886,19,Female,48127,5081 Lake Rd,Minneapolis,MN,55401,USA,2025-05-06,Active,Yes,Yes,Organic Search,10,7675
+CUST-001755,Christopher,Kelly,ckelly@yahoo.com,423-966-4205,45,Prefer not to say,149639,249 Elm Rd,Minneapolis,MN,55401,USA,2023-09-25,Active,Yes,Yes,Organic Search,7,20
+CUST-001756,Pamela,Wilson,pamelawilson@gmail.com,564-685-3943,54,Female,48955,959 Oak Ln,Oklahoma City,OK,73101,USA,2024-01-17,Active,No,Yes,Affiliate,6,25
+CUST-001757,Katherine,Baker,kbaker@gmail.com,446-606-9005,27,Male,94531,5059 Maple Rd,San Jose,CA,95101,USA,2022-12-03,Active,Yes,Yes,Email Campaign,8,7
+CUST-001758,Janet,Carter,janet795@company.com,591-481-8292,39,Female,54601,6118 Main St,Cleveland,OH,44101,USA,2022-09-05,Active,Yes,Yes,Affiliate,3,108
+CUST-001759,Joseph,Hernandez,jhernandez@icloud.com,786-786-8856,47,Female,90491,4584 Oak Ln,Virginia Beach,VA,23451,USA,2022-09-09,Active,No,Yes,Paid Social,9,3
+CUST-001760,Lisa,Roberts,lisa496@gmail.com,533-265-9806,18,Non-binary,62012,3129 Washington Rd,Minneapolis,MN,55401,USA,2024-01-03,Active,Yes,Yes,Email Campaign,7,114
+CUST-001761,John,Gomez,johng@gmail.com,798-751-3033,38,Male,60077,3499 Oak Ave,Cleveland,OH,44101,USA,2021-11-19,Active,No,No,Direct,9,444
+CUST-001762,Scott,Ruiz,scott.ruiz@yahoo.com,788-411-3641,24,Female,37221,1538 Cedar St,Kansas City,MO,64101,USA,2023-12-07,Active,Yes,Yes,Direct,7,80
+CUST-001763,David,Thomas,david_thomas@yahoo.com,200-454-5925,36,Female,54023,856 Cedar Rd,Detroit,MI,48201,USA,2023-05-22,Active,No,Yes,Email Campaign,6,4
+CUST-001764,Jonathan,Cruz,jonathanc@yahoo.com,820-751-9365,50,Male,52350,3538 Oak Rd,Tucson,AZ,85701,USA,2022-07-17,Active,Yes,Yes,Paid Social,9,6702
+CUST-001765,Jennifer,Walker,jenniferwalker@icloud.com,765-421-6882,42,Female,43020,4644 Maple Rd,San Jose,CA,95101,USA,2024-10-04,Active,No,Yes,Paid Social,6,22
+CUST-001766,Helen,Diaz,helend@outlook.com,609-667-2364,23,Female,19795,4264 Washington Rd,Indianapolis,IN,46201,USA,2024-12-23,Active,Yes,Yes,TV/Print,8,20
+CUST-001767,Charles,Morgan,charles.morgan@icloud.com,861-397-7097,57,Male,30155,9334 Maple Dr,Miami,FL,33101,USA,2022-05-01,Inactive,No,Yes,TV/Print,5,61
+CUST-001768,Karen,Green,kgreen@protonmail.com,327-744-2802,42,Male,44914,9084 Washington St,Oklahoma City,OK,73101,USA,2026-04-17,Active,No,Yes,Email Campaign,9,214
+CUST-001769,Kevin,Brooks,kevin_brooks@protonmail.com,480-210-2604,30,Female,73406,6279 Pine Dr,El Paso,TX,79901,USA,2022-01-28,Active,No,Yes,Organic Search,5,32
+CUST-001770,Susan,Thomas,susant@gmail.com,297-741-6716,31,Female,123711,9474 Cedar Ln,Arlington,TX,76001,USA,2021-07-12,Active,Yes,Yes,Email Campaign,9,3597
+CUST-001771,Paul,Cox,paul.cox@icloud.com,894-744-7597,28,Female,57657,7912 Maple Blvd,Austin,TX,78701,USA,2024-08-27,Active,No,No,Paid Social,6,65
+CUST-001772,Mary,Mendoza,mary526@yahoo.com,953-473-1866,21,Male,56785,6164 Pine Rd,San Jose,CA,95101,USA,2022-10-02,Active,Yes,Yes,Paid Social,8,3398
+CUST-001773,Nicole,Turner,nturner@gmail.com,493-482-8008,51,Female,50625,8629 Pine Blvd,Jacksonville,FL,32201,USA,2023-12-24,Active,No,Yes,In-Store,7,455
+CUST-001774,Samantha,Lopez,samantha_lopez@gmail.com,281-278-4932,32,Male,41256,1634 Maple Ln,Las Vegas,NV,89101,USA,2022-02-12,Active,No,No,Referral,7,21
+CUST-001775,Linda,Hernandez,linda_hernandez@yahoo.com,893-720-3235,46,Female,31439,7958 Lake Ln,Kansas City,MO,64101,USA,2023-09-04,Active,Yes,Yes,Referral,7,1605
+CUST-001776,Debra,Gray,debrag@outlook.com,963-207-7962,22,Male,140293,8854 Elm Ave,Minneapolis,MN,55401,USA,2025-09-27,Active,No,Yes,TV/Print,8,217
+CUST-001777,Jack,James,jackj@yahoo.com,890-982-9577,57,Female,46683,3787 Maple St,Oakland,CA,94601,USA,2023-01-09,Active,Yes,No,Affiliate,5,4
+CUST-001778,George,Moore,george_moore@outlook.com,315-546-5092,43,Female,51416,8932 Oak Blvd,Houston,TX,77001,USA,2024-01-26,Active,Yes,Yes,Affiliate,8,13
+CUST-001779,Joshua,Morris,joshua_morris@gmail.com,858-727-1580,39,Male,195251,7686 Lake St,Columbus,OH,43201,USA,2026-06-05,Active,Yes,No,Paid Social,8,28
+CUST-001780,Amanda,Smith,asmith@yahoo.com,939-390-7587,58,Female,136174,5908 Main St,El Paso,TX,79901,USA,2024-10-06,Active,No,Yes,In-Store,7,36
+CUST-001781,Sharon,Morales,sharon.morales@outlook.com,207-359-5098,32,Female,58065,3804 Lake Dr,Sacramento,CA,95801,USA,2023-07-22,Active,No,Yes,Email Campaign,6,14
+CUST-001782,Melissa,Hill,mhill@gmail.com,872-649-3651,33,Male,79775,2391 Elm Rd,Jacksonville,FL,32201,USA,2023-06-07,Active,No,Yes,Direct,7,429
+CUST-001783,Sharon,Smith,sharon368@hotmail.com,604-631-6426,44,Female,31913,617 Maple Rd,Fort Worth,TX,76101,USA,2025-10-26,Active,No,No,Paid Social,6,108
+CUST-001784,Betty,Morris,betty983@yahoo.com,898-931-3087,24,Male,68696,5422 Washington Ln,Seattle,WA,98101,USA,2025-10-09,Active,No,Yes,Organic Search,8,424
+CUST-001785,Raymond,Patel,rpatel@gmail.com,359-552-9192,43,Female,113222,323 Pine St,Dallas,TX,75201,USA,2025-10-28,Inactive,Yes,Yes,Organic Search,3,115
+CUST-001786,Alexander,Baker,alexanderb@gmail.com,697-284-8027,49,Male,106502,4159 Maple Rd,Tampa,FL,33601,USA,2026-05-24,Active,No,Yes,Organic Search,8,19
+CUST-001787,Angela,White,angela_white@gmail.com,882-639-4250,32,Female,45763,7864 Oak Rd,Wichita,KS,67201,USA,2025-10-17,Active,Yes,Yes,Email Campaign,7,560
+CUST-001788,Carolyn,Cook,carolyncook@aol.com,610-239-5486,39,Male,68459,3248 Maple Dr,Fort Worth,TX,76101,USA,2021-08-24,Active,No,Yes,Direct,6,13
+CUST-001789,John,Ward,john.ward@protonmail.com,848-436-4633,48,Female,159622,5607 Washington Dr,Houston,TX,77001,USA,2024-04-22,Inactive,Yes,No,Paid Social,4,10
+CUST-001790,Linda,Rogers,linda438@gmail.com,559-928-7849,24,Female,129505,4146 Elm St,Houston,TX,77001,USA,2024-09-24,Active,No,Yes,Affiliate,5,407
+CUST-001791,Lisa,Garcia,lisa.garcia@gmail.com,486-821-2650,65,Female,18239,7159 Maple Blvd,Omaha,NE,68101,USA,2022-04-06,Active,No,Yes,Referral,7,55
+CUST-001792,Gary,Campbell,gary_campbell@gmail.com,539-569-6920,39,Female,107280,9748 Elm Ave,San Diego,CA,92101,USA,2025-11-23,Active,Yes,Yes,Email Campaign,5,29
+CUST-001793,Katherine,Scott,katherines@aol.com,816-323-1672,52,Female,75306,9710 Pine Ave,Oklahoma City,OK,73101,USA,2025-12-13,Active,No,Yes,Direct,5,4
+CUST-001794,Patrick,Edwards,patrick.edwards@gmail.com,979-406-9741,42,Female,110640,2617 Main Ave,Phoenix,AZ,85001,USA,2023-05-17,Active,No,Yes,Referral,9,2167
+CUST-001795,Matthew,Turner,matthew564@gmail.com,844-934-2923,24,Male,72754,7245 Oak Dr,Indianapolis,IN,46201,USA,2021-07-09,Active,No,Yes,Organic Search,5,121
+CUST-001796,Rebecca,Ortiz,rebeccao@yahoo.com,332-496-1744,46,Female,34042,9376 Main Rd,Cleveland,OH,44101,USA,2026-04-26,Inactive,No,Yes,Paid Social,2,13
+CUST-001797,Matthew,Patel,mpatel@hotmail.com,721-593-7393,32,Female,15000,6667 Cedar Ave,Tucson,AZ,85701,USA,2022-08-07,Active,Yes,Yes,Referral,5,39
+CUST-001798,Lisa,Smith,lisas@gmail.com,666-715-9602,45,Male,98821,4340 Cedar Ave,Columbus,OH,43201,USA,2023-02-13,Active,No,Yes,Affiliate,5,24
+CUST-001799,Donna,Price,donnap@gmail.com,498-240-3427,47,Male,61944,4650 Maple Blvd,San Diego,CA,92101,USA,2025-06-24,Inactive,Yes,No,Referral,2,20
+CUST-001800,Michael,Chavez,michaelchavez@gmail.com,819-577-6317,48,Male,60163,1463 Cedar Rd,Mesa,AZ,85201,USA,2025-10-15,Active,No,No,Paid Social,5,8
+CUST-001801,Sarah,Evans,sarahe@gmail.com,564-424-5582,54,Female,74803,2995 Cedar St,Denver,CO,80201,USA,2024-08-14,Active,Yes,Yes,Email Campaign,5,295
+CUST-001802,Jonathan,James,jonathanj@icloud.com,841-849-4377,43,Female,38989,7344 Pine Blvd,San Antonio,TX,78201,USA,2022-05-22,Active,No,Yes,Organic Search,8,49
+CUST-001803,Paul,Clark,paul596@gmail.com,943-644-7039,47,Male,66679,2530 Lake St,New Orleans,LA,70101,USA,2024-03-22,Active,No,Yes,Organic Search,6,15
+CUST-001804,Amy,White,amywhite@yahoo.com,384-863-5621,50,Female,92860,444 Cedar Ave,Jacksonville,FL,32201,USA,2025-05-19,Active,No,Yes,TV/Print,9,260
+CUST-001805,Daniel,Gomez,danielg@gmail.com,665-860-7594,31,Female,122871,1742 Maple Rd,Fort Worth,TX,76101,USA,2026-01-18,Active,No,No,Organic Search,6,18
+CUST-001806,Dennis,Johnson,dennis.johnson@yahoo.com,981-859-1716,60,Male,103686,2265 Pine St,Oklahoma City,OK,73101,USA,2024-04-14,Inactive,No,No,Paid Social,1,7
+CUST-001807,Paul,Jackson,paul962@hotmail.com,755-953-6544,18,Male,165299,1492 Pine Ave,Colorado Springs,CO,80901,USA,2026-05-13,Inactive,No,Yes,Paid Social,1,20
+CUST-001808,Kathleen,Ross,kross@outlook.com,257-756-5382,57,Male,134233,9006 Oak St,Austin,TX,78701,USA,2024-09-18,Active,No,Yes,Paid Social,7,52
+CUST-001809,Jennifer,Wilson,jennifer_wilson@gmail.com,224-432-7998,56,Male,71209,6414 Maple Blvd,San Antonio,TX,78201,USA,2023-07-28,Active,No,Yes,Email Campaign,10,4995
+CUST-001810,Katherine,Torres,katherine232@company.com,429-304-5617,32,Female,108584,5954 Oak Ln,Oklahoma City,OK,73101,USA,2022-08-03,Inactive,Yes,Yes,Direct,1,4
+CUST-001811,Kevin,Thomas,kevin.thomas@hotmail.com,542-814-3971,18,Female,162808,7067 Maple Rd,Chicago,IL,60601,USA,2023-01-18,Active,No,Yes,Email Campaign,4,78
+CUST-001812,Debra,Hill,debra_hill@gmail.com,877-577-5348,44,Male,163912,1351 Main Ave,Nashville,TN,37201,USA,2021-07-13,Active,No,No,TV/Print,7,6230
+CUST-001813,Maria,Wood,maria_wood@yahoo.com,268-315-8003,42,Male,37328,4662 Maple St,San Jose,CA,95101,USA,2024-04-01,Inactive,No,Yes,Paid Social,4,3
+CUST-001814,Dorothy,Taylor,dtaylor@yahoo.com,623-816-6463,59,Male,54252,2364 Pine Dr,Nashville,TN,37201,USA,2024-08-25,Active,Yes,Yes,Organic Search,6,132
+CUST-001815,Rebecca,Peterson,rebeccap@outlook.com,932-631-9633,65,Female,100145,9567 Pine Rd,Mesa,AZ,85201,USA,2023-09-05,Active,No,No,Organic Search,6,37
+CUST-001816,Barbara,Walker,barbara.walker@gmail.com,336-312-1976,50,Non-binary,60540,5823 Elm Ave,Columbus,OH,43201,USA,2021-09-01,Active,No,Yes,TV/Print,5,12
+CUST-001817,Donna,Collins,donnac@yahoo.com,964-341-2920,41,Male,64196,2444 Washington Rd,Las Vegas,NV,89101,USA,2025-01-29,Active,No,Yes,Email Campaign,6,106
+CUST-001818,Patricia,Hughes,phughes@outlook.com,688-808-3591,47,Male,121898,594 Maple Blvd,Detroit,MI,48201,USA,2026-02-19,Active,No,No,Organic Search,7,5025
+CUST-001819,Charles,Hernandez,charles.hernandez@yahoo.com,681-961-3295,53,Male,92858,8741 Cedar Dr,New York,NY,10001,USA,2023-04-01,Active,No,No,TV/Print,8,201
+CUST-001820,Edward,Castillo,ecastillo@gmail.com,261-857-1526,38,Female,107496,9998 Maple Ln,Cleveland,OH,44101,USA,2022-10-28,Active,Yes,Yes,Paid Social,3,23
+CUST-001821,Christopher,Johnson,cjohnson@gmail.com,785-713-6014,49,Male,39330,3824 Washington Ave,Oakland,CA,94601,USA,2021-07-12,Active,No,Yes,Organic Search,10,7403
+CUST-001822,Paul,Lopez,plopez@yahoo.com,424-601-4009,18,Male,63681,9263 Oak Rd,Dallas,TX,75201,USA,2022-04-10,Active,No,Yes,Organic Search,6,315
+CUST-001823,Cynthia,Morris,cynthia321@yahoo.com,862-634-4190,36,Male,112378,4522 Oak St,Virginia Beach,VA,23451,USA,2024-03-02,Active,No,Yes,Email Campaign,8,367
+CUST-001824,Elizabeth,Campbell,elizabeth_campbell@gmail.com,266-416-1179,46,Male,40313,5164 Pine Ln,Los Angeles,CA,90001,USA,2025-02-04,Active,No,Yes,Paid Social,7,10
+CUST-001825,Betty,Brooks,betty.brooks@icloud.com,245-777-8926,48,Male,115028,848 Main Blvd,San Francisco,CA,94101,USA,2024-12-05,Active,No,Yes,In-Store,3,68
+CUST-001826,Barbara,Flores,barbara_flores@gmail.com,969-600-6830,18,Female,64499,2222 Oak Blvd,New Orleans,LA,70101,USA,2024-11-08,Active,Yes,Yes,Paid Social,8,144
+CUST-001827,Edward,Patel,edward.patel@aol.com,688-800-1612,34,Female,122017,4853 Maple Ave,Fresno,CA,93701,USA,2021-11-29,Active,Yes,No,Email Campaign,6,81
+CUST-001828,Debra,Reyes,debra81@gmail.com,869-344-3638,33,Prefer not to say,65412,8318 Elm Dr,Philadelphia,PA,19101,USA,2022-05-30,Active,Yes,Yes,Paid Social,6,25
+CUST-001829,Thomas,Baker,thomas_baker@icloud.com,992-899-7350,44,Female,27611,4017 Pine Ln,Raleigh,NC,27601,USA,2021-08-22,Active,No,Yes,Organic Search,8,44
+CUST-001830,Nicole,Martinez,nicolemartinez@gmail.com,346-984-6071,31,Female,104899,9064 Oak Dr,Atlanta,GA,30301,USA,2022-12-02,Active,Yes,No,TV/Print,8,287
+CUST-001831,Richard,Collins,richardcollins@yahoo.com,561-291-2165,24,Male,48499,3035 Lake Blvd,Denver,CO,80201,USA,2025-07-14,Active,Yes,Yes,Email Campaign,5,7
+CUST-001832,Jacob,Allen,jallen@icloud.com,240-572-5696,64,Female,43777,6668 Washington Ln,Virginia Beach,VA,23451,USA,2025-08-26,Active,No,Yes,Email Campaign,7,4489
+CUST-001833,Debra,Taylor,debra_taylor@yahoo.com,285-898-7769,46,Male,79514,8389 Lake Blvd,Fresno,CA,93701,USA,2021-09-13,Active,Yes,Yes,Email Campaign,9,164
+CUST-001834,Debra,Garcia,debra636@gmail.com,208-358-2725,47,Male,110993,4862 Washington Ave,Houston,TX,77001,USA,2022-04-14,Active,No,No,Email Campaign,6,10
+CUST-001835,Larry,Phillips,larry.phillips@yahoo.com,677-679-9767,75,Male,63678,7716 Oak St,Charlotte,NC,28201,USA,2024-04-05,Active,No,Yes,Referral,8,481
+CUST-001836,Lisa,Sanders,lsanders@gmail.com,524-550-8967,28,Male,85474,3583 Lake St,Wichita,KS,67201,USA,2024-01-04,Active,No,Yes,Organic Search,4,94
+CUST-001837,Emily,Collins,emilyc@yahoo.com,781-232-7230,67,Male,104719,1122 Elm Dr,San Jose,CA,95101,USA,2023-10-21,Active,Yes,No,Paid Social,6,293
+CUST-001838,Jacob,Ramirez,jacobramirez@yahoo.com,380-285-3322,40,Female,74654,1234 Cedar Dr,Los Angeles,CA,90001,USA,2022-03-09,Active,No,Yes,Organic Search,8,37
+CUST-001839,David,Hill,david895@gmail.com,465-388-1880,46,Male,109056,1614 Washington Blvd,Baltimore,MD,21201,USA,2021-07-21,Active,Yes,Yes,Email Campaign,8,7
+CUST-001840,Dennis,Hill,dennishill@yahoo.com,364-913-8156,24,Female,51289,5911 Washington St,Nashville,TN,37201,USA,2024-02-02,Active,No,Yes,Email Campaign,10,2000
+CUST-001841,Brenda,Kim,brenda.kim@yahoo.com,880-951-6185,19,Female,59233,332 Maple Dr,Arlington,TX,76001,USA,2022-09-11,Active,No,Yes,Paid Social,9,21
+CUST-001842,Charles,Murphy,charles_murphy@gmail.com,203-661-3059,45,Male,55153,7461 Oak St,San Diego,CA,92101,USA,2021-12-30,Active,No,Yes,Paid Social,8,514
+CUST-001843,Margaret,Myers,mmyers@yahoo.com,556-414-4131,30,Male,62518,9550 Main Blvd,Minneapolis,MN,55401,USA,2023-05-18,Inactive,No,Yes,Paid Social,2,18
+CUST-001844,George,Williams,george_williams@yahoo.com,666-623-7723,34,Male,51026,5862 Elm Ln,Fresno,CA,93701,USA,2021-11-05,Active,No,Yes,Organic Search,7,9951
+CUST-001845,Jason,Gutierrez,jason_gutierrez@gmail.com,766-809-3664,46,Male,42719,8992 Washington Dr,San Diego,CA,92101,USA,2025-06-14,Active,Yes,Yes,Paid Social,8,336
+CUST-001846,Andrew,James,andrew706@outlook.com,289-306-2468,19,Female,91900,369 Washington St,Louisville,KY,40201,USA,2022-11-19,Active,Yes,Yes,Paid Social,9,3629
+CUST-001847,Amy,Myers,amym@gmail.com,883-496-7891,55,Prefer not to say,86245,3571 Pine Dr,Mesa,AZ,85201,USA,2025-11-17,Inactive,No,Yes,Organic Search,4,15
+CUST-001848,Stephen,Carter,stephencarter@gmail.com,622-860-7484,18,Female,59250,224 Elm Ave,Albuquerque,NM,87101,USA,2025-09-28,Active,No,Yes,Paid Social,7,42
+CUST-001849,Nicholas,Torres,nicholas275@hotmail.com,624-233-1254,58,Male,187830,530 Maple Blvd,Indianapolis,IN,46201,USA,2024-09-18,Active,No,Yes,Affiliate,8,34
+CUST-001850,Eric,Patel,eric_patel@yahoo.com,397-831-7444,41,Female,16100,945 Washington Ave,El Paso,TX,79901,USA,2025-06-25,Active,Yes,No,Paid Social,10,3340
+CUST-001851,Samantha,Roberts,samantharoberts@gmail.com,301-927-3069,39,Female,37843,8361 Oak Rd,Portland,OR,97201,USA,2024-08-27,Active,No,Yes,Paid Social,9,5
+CUST-001852,Pamela,Gomez,pamela864@protonmail.com,408-295-2528,59,Male,93305,520 Washington St,Indianapolis,IN,46201,USA,2021-09-29,Active,No,Yes,Email Campaign,9,474
+CUST-001853,Benjamin,Foster,benjaminfoster@aol.com,960-951-3138,36,Female,97900,7533 Elm Ave,Los Angeles,CA,90001,USA,2022-12-22,Active,No,Yes,Organic Search,3,23
+CUST-001854,Donald,Wood,donaldwood@outlook.com,998-587-5267,40,Male,105296,947 Cedar St,Washington,DC,20001,USA,2025-05-09,Active,No,No,Affiliate,9,295
+CUST-001855,Charles,Watson,charles24@company.com,325-309-3323,58,Male,93149,4727 Cedar Ave,Long Beach,CA,90801,USA,2021-07-30,Active,Yes,No,Organic Search,5,224
+CUST-001856,Barbara,Martinez,barbara_martinez@yahoo.com,623-275-8971,75,Female,86423,1350 Pine Rd,Columbus,OH,43201,USA,2024-03-31,Active,No,Yes,Email Campaign,7,1737
+CUST-001857,Rebecca,Carter,rebecca_carter@yahoo.com,382-875-1515,23,Male,116173,2020 Elm Blvd,Miami,FL,33101,USA,2023-11-29,Active,Yes,Yes,Email Campaign,6,39
+CUST-001858,Kathleen,Ward,kathleenw@hotmail.com,820-230-9781,55,Male,109744,477 Maple Ave,New York,NY,10001,USA,2025-07-20,Active,No,Yes,Organic Search,7,13
+CUST-001859,George,Anderson,georgeanderson@gmail.com,908-329-5384,43,Male,74252,4583 Lake Ave,Los Angeles,CA,90001,USA,2024-08-08,Active,Yes,No,Paid Social,8,5235
+CUST-001860,Barbara,Hall,barbarah@hotmail.com,646-724-7552,45,Male,78476,3263 Cedar Ave,Virginia Beach,VA,23451,USA,2024-10-15,Active,No,Yes,Referral,8,4
+CUST-001861,Betty,Mendoza,betty867@yahoo.com,519-369-4372,42,Female,32038,8092 Washington Dr,Seattle,WA,98101,USA,2024-03-27,Active,No,Yes,Referral,5,21
+CUST-001862,Jason,Kim,jason_kim@gmail.com,404-780-6782,42,Female,216520,6226 Oak Dr,Boston,MA,02101,USA,2022-12-12,Active,No,Yes,Affiliate,5,18
+CUST-001863,Nancy,Jones,nancyj@gmail.com,743-560-7525,51,Male,20085,590 Oak Ave,Indianapolis,IN,46201,USA,2023-02-24,Active,No,Yes,Organic Search,8,224
+CUST-001864,Dorothy,Diaz,dorothydiaz@outlook.com,580-348-6151,48,Female,84112,2103 Main Blvd,Nashville,TN,37201,USA,2025-01-23,Active,No,Yes,Organic Search,5,174
+CUST-001865,Frank,Johnson,frank_johnson@gmail.com,267-594-5646,69,Male,92572,9959 Pine Ln,Columbus,OH,43201,USA,2023-10-30,Active,No,Yes,Organic Search,7,47
+CUST-001866,Margaret,Wilson,margaret_wilson@gmail.com,631-898-8130,48,Female,114948,5306 Elm Ave,Tulsa,OK,74101,USA,2023-01-12,Active,Yes,No,Organic Search,5,180
+CUST-001867,Betty,Miller,bmiller@gmail.com,663-375-6355,28,Female,99835,9785 Washington Ave,Tucson,AZ,85701,USA,2026-03-06,Active,No,Yes,Referral,7,190
+CUST-001868,Pamela,Williams,pamela.williams@gmail.com,334-612-1606,21,Male,145218,8840 Main Blvd,Virginia Beach,VA,23451,USA,2022-01-17,Active,Yes,No,Paid Social,3,39
+CUST-001869,Samuel,Williams,swilliams@gmail.com,524-971-6665,18,Female,52625,6659 Oak Ln,San Antonio,TX,78201,USA,2021-10-14,Inactive,No,Yes,Affiliate,4,23
+CUST-001870,Maria,Green,mariag@outlook.com,705-856-2989,48,Female,43617,6226 Oak St,Houston,TX,77001,USA,2024-03-26,Active,No,No,Paid Social,7,227
+CUST-001871,Mark,Miller,mark.miller@icloud.com,646-431-3788,40,Female,197869,1542 Pine Rd,Dallas,TX,75201,USA,2025-11-06,Active,Yes,No,Referral,7,552
+CUST-001872,Melissa,Morgan,melissa6@gmail.com,276-470-6395,57,Male,29616,6318 Cedar Rd,Houston,TX,77001,USA,2024-12-25,Active,Yes,Yes,Paid Social,5,39
+CUST-001873,Nancy,Moore,nmoore@yahoo.com,798-623-8320,31,Female,53778,2104 Pine Ln,San Diego,CA,92101,USA,2025-09-24,Active,No,Yes,Paid Social,7,274
+CUST-001874,Kathleen,James,kathleen_james@outlook.com,984-503-2356,53,Female,119417,5883 Pine Rd,Boston,MA,02101,USA,2022-02-08,Active,No,Yes,Referral,10,9347
+CUST-001875,Samuel,Patel,samuelpatel@gmail.com,417-213-4541,60,Female,102729,7770 Washington Ave,Minneapolis,MN,55401,USA,2026-01-01,Active,No,Yes,Referral,5,284
+CUST-001876,Gary,Wilson,garywilson@outlook.com,978-519-8438,36,Female,122105,2623 Oak Ave,Long Beach,CA,90801,USA,2022-03-03,Active,No,No,Email Campaign,9,30
+CUST-001877,Mark,Campbell,mcampbell@yahoo.com,270-484-7931,63,Non-binary,97568,2790 Cedar Ln,Raleigh,NC,27601,USA,2023-07-24,Active,Yes,Yes,TV/Print,6,7
+CUST-001878,Samuel,Wilson,swilson@yahoo.com,391-473-1468,36,Male,306441,7902 Lake Blvd,San Antonio,TX,78201,USA,2022-04-06,Active,No,Yes,Paid Social,7,3423
+CUST-001879,Kimberly,Thomas,kimberlyt@gmail.com,714-641-9321,37,Female,100783,5567 Main Dr,Philadelphia,PA,19101,USA,2024-06-14,Active,No,Yes,Paid Social,8,136
+CUST-001880,Paul,Mitchell,paul.mitchell@outlook.com,612-380-5520,24,Prefer not to say,42733,8776 Lake Ln,Virginia Beach,VA,23451,USA,2024-04-17,Active,No,Yes,Paid Social,8,482
+CUST-001881,Sharon,Wilson,sharon.wilson@gmail.com,236-789-5361,42,Female,54949,4011 Oak Ln,Virginia Beach,VA,23451,USA,2025-01-16,Active,No,No,Organic Search,5,20
+CUST-001882,Richard,Scott,richards@yahoo.com,425-951-5395,37,Male,28891,8212 Pine Ave,Minneapolis,MN,55401,USA,2022-06-04,Active,No,Yes,TV/Print,10,8189
+CUST-001883,Anthony,Hall,anthony_hall@yahoo.com,389-715-8811,42,Female,87704,5102 Pine Ave,Tulsa,OK,74101,USA,2023-02-04,Active,Yes,Yes,TV/Print,9,3255
+CUST-001884,Kenneth,Mendoza,kennethmendoza@gmail.com,882-685-8011,39,Female,43359,5573 Main Ave,Jacksonville,FL,32201,USA,2024-07-29,Active,No,Yes,Organic Search,8,14
+CUST-001885,Kimberly,Martinez,kimberly175@gmail.com,797-201-9000,51,Male,83850,4155 Lake St,New Orleans,LA,70101,USA,2021-08-27,Active,No,Yes,Referral,5,91
+CUST-001886,Jennifer,Williams,jennifer581@gmail.com,973-350-2538,29,Male,138373,1738 Cedar Rd,Denver,CO,80201,USA,2021-10-03,Active,No,Yes,Direct,6,17
+CUST-001887,Kevin,Edwards,kevin503@gmail.com,573-669-1222,28,Female,95985,5877 Cedar Rd,Nashville,TN,37201,USA,2023-05-19,Active,Yes,Yes,Organic Search,7,155
+CUST-001888,Kevin,Gutierrez,kevin794@hotmail.com,945-855-1339,49,Female,59488,2523 Washington Ave,Colorado Springs,CO,80901,USA,2023-09-22,Active,Yes,Yes,Organic Search,7,6374
+CUST-001889,Gregory,Jackson,gjackson@yahoo.com,568-411-2462,55,Female,156829,3275 Washington Rd,Los Angeles,CA,90001,USA,2025-01-25,Active,Yes,Yes,Organic Search,9,260
+CUST-001890,Susan,Scott,susan899@outlook.com,379-471-6715,68,Male,74673,5526 Washington Ln,Oakland,CA,94601,USA,2023-05-21,Active,Yes,Yes,Organic Search,8,17
+CUST-001891,Rebecca,Scott,rebeccascott@gmail.com,643-665-6685,42,Female,74090,4825 Oak St,Chicago,IL,60601,USA,2023-03-11,Active,Yes,No,Organic Search,5,46
+CUST-001892,Amy,Mendoza,amendoza@icloud.com,366-510-8976,18,Female,66999,4822 Oak Blvd,Oakland,CA,94601,USA,2025-08-06,Active,No,Yes,Organic Search,5,41
+CUST-001893,Mary,Collins,marycollins@yahoo.com,513-205-8050,60,Male,122896,5871 Main St,Denver,CO,80201,USA,2021-10-23,Active,No,Yes,Organic Search,9,356
+CUST-001894,Steven,Moore,steven_moore@gmail.com,358-288-5434,52,Male,95711,2437 Pine Dr,Cleveland,OH,44101,USA,2021-08-15,Active,Yes,Yes,Organic Search,9,4
+CUST-001895,Justin,Hernandez,justinhernandez@gmail.com,852-595-7923,21,Female,58363,6639 Oak Blvd,Chicago,IL,60601,USA,2023-10-14,Active,Yes,No,TV/Print,7,185
+CUST-001896,Joshua,Kim,joshuakim@outlook.com,899-986-4268,24,Male,29158,4196 Maple Dr,Atlanta,GA,30301,USA,2023-12-30,Active,No,Yes,Affiliate,7,284
+CUST-001897,Stephen,Sanchez,stephen_sanchez@icloud.com,647-298-3270,51,Male,23077,8727 Lake Rd,Philadelphia,PA,19101,USA,2024-10-09,Active,No,Yes,Affiliate,6,52
+CUST-001898,Kenneth,Cook,kenneth958@gmail.com,630-620-8557,73,Female,41632,553 Main Dr,Tulsa,OK,74101,USA,2024-06-07,Active,No,No,Email Campaign,10,4040
+CUST-001899,Barbara,Long,barbaral@yahoo.com,330-835-9900,41,Female,46663,9366 Cedar St,Washington,DC,20001,USA,2022-01-10,Active,No,No,Email Campaign,8,6137
+CUST-001900,Dennis,Gomez,dgomez@gmail.com,671-255-2387,55,Male,109277,996 Cedar Rd,Omaha,NE,68101,USA,2026-05-28,Active,No,Yes,Paid Social,8,254
+CUST-001901,Susan,Nelson,susan.nelson@gmail.com,324-958-9369,37,Male,58985,968 Pine Ln,Denver,CO,80201,USA,2023-04-08,Active,Yes,Yes,Referral,10,7230
+CUST-001902,Charles,Bailey,cbailey@gmail.com,936-206-8945,24,Male,32133,3388 Oak St,Dallas,TX,75201,USA,2025-03-09,Active,No,Yes,TV/Print,6,317
+CUST-001903,James,Martin,james.martin@aol.com,225-717-8271,74,Female,224241,6501 Main St,Sacramento,CA,95801,USA,2025-11-23,Active,No,Yes,Organic Search,6,16
+CUST-001904,Joshua,Phillips,joshuaphillips@gmail.com,897-649-3018,72,Female,23935,7183 Maple Rd,San Francisco,CA,94101,USA,2021-09-20,Active,Yes,No,Organic Search,9,325
+CUST-001905,John,White,john146@yahoo.com,759-405-8801,29,Male,27314,7971 Cedar Blvd,Omaha,NE,68101,USA,2025-02-02,Active,No,Yes,Email Campaign,4,103
+CUST-001906,Christine,Gonzalez,christineg@hotmail.com,309-675-7830,40,Male,225917,7060 Maple St,Tucson,AZ,85701,USA,2024-05-18,Inactive,No,Yes,Paid Social,5,49
+CUST-001907,Andrew,Collins,andrewc@hotmail.com,866-872-8282,46,Male,58797,798 Elm Ave,Oklahoma City,OK,73101,USA,2026-05-18,Active,No,No,Paid Social,9,519
+CUST-001908,Cynthia,Castillo,cynthia_castillo@yahoo.com,415-557-9602,53,Male,37374,6499 Oak Ave,New York,NY,10001,USA,2025-07-20,Active,Yes,Yes,Referral,7,217
+CUST-001909,Katherine,Martin,katherine361@outlook.com,485-980-5963,33,Female,98584,6554 Oak Rd,Arlington,TX,76001,USA,2023-04-13,Active,No,Yes,Paid Social,7,384
+CUST-001910,Kathleen,Carter,kcarter@gmail.com,994-874-9608,42,Female,38803,4347 Maple Rd,Colorado Springs,CO,80901,USA,2022-09-29,Active,No,Yes,Paid Social,6,28
+CUST-001911,Dorothy,Ramos,dorothyr@outlook.com,246-230-3607,27,Female,59945,3896 Oak Rd,Nashville,TN,37201,USA,2023-02-28,Active,No,No,Paid Social,9,544
+CUST-001912,Susan,Murphy,susan957@protonmail.com,442-307-3850,44,Male,49801,6392 Washington St,Albuquerque,NM,87101,USA,2024-08-16,Active,No,Yes,Referral,6,28
+CUST-001913,Linda,Ward,linda.ward@hotmail.com,821-846-1482,36,Male,114129,2951 Elm St,Chicago,IL,60601,USA,2021-09-09,Active,No,Yes,Organic Search,5,278
+CUST-001914,Rachel,Edwards,racheledwards@gmail.com,648-895-5687,40,Female,55622,3794 Pine Rd,Miami,FL,33101,USA,2023-03-22,Active,No,Yes,Organic Search,6,27
+CUST-001915,Christopher,Parker,christopherp@icloud.com,884-298-4334,25,Female,75663,644 Maple St,Cleveland,OH,44101,USA,2025-05-12,Active,No,Yes,Referral,5,279
+CUST-001916,George,Jimenez,georgej@gmail.com,947-945-9653,51,Male,39630,8229 Pine Ave,Mesa,AZ,85201,USA,2021-08-04,Active,No,No,Direct,5,90
+CUST-001917,Pamela,Stewart,pamela_stewart@yahoo.com,649-637-7162,49,Female,95010,1261 Oak Ave,Nashville,TN,37201,USA,2022-12-21,Inactive,Yes,Yes,Paid Social,5,10
+CUST-001918,Eric,Hill,eric.hill@gmail.com,223-429-5749,29,Male,48635,4218 Washington Rd,Tucson,AZ,85701,USA,2025-02-22,Active,No,Yes,Direct,5,17
+CUST-001919,Amanda,Rodriguez,amandarodriguez@outlook.com,712-519-7540,18,Female,131541,1028 Oak Ln,Denver,CO,80201,USA,2026-01-07,Active,Yes,Yes,Organic Search,8,3511
+CUST-001920,Jacob,King,jacob.king@hotmail.com,983-260-3282,71,Male,45625,3446 Elm Rd,Chicago,IL,60601,USA,2024-07-17,Active,No,Yes,Referral,6,55
+CUST-001921,Linda,Walker,linda.walker@yahoo.com,626-812-2320,41,Female,131324,9134 Lake Ave,Atlanta,GA,30301,USA,2023-01-07,Active,No,Yes,Organic Search,5,19
+CUST-001922,Paul,Castillo,paul.castillo@yahoo.com,689-510-4731,34,Female,106023,451 Main St,Chicago,IL,60601,USA,2023-08-27,Inactive,No,Yes,Organic Search,4,62
+CUST-001923,Maria,Sanchez,marias@gmail.com,596-984-7180,40,Male,76915,2151 Washington Rd,Oklahoma City,OK,73101,USA,2022-08-13,Active,No,Yes,In-Store,5,18
+CUST-001924,Jason,Peterson,jason.peterson@protonmail.com,560-398-6621,35,Male,216328,7252 Main Ave,Baltimore,MD,21201,USA,2025-10-11,Active,No,Yes,Affiliate,9,250
+CUST-001925,Sandra,Lopez,sandra.lopez@gmail.com,937-455-1931,39,Non-binary,66234,1355 Main Ave,Charlotte,NC,28201,USA,2024-02-15,Active,No,No,Paid Social,7,5564
+CUST-001926,Jeffrey,White,jeffrey.white@gmail.com,499-332-7517,40,Female,28277,7943 Oak Rd,Boston,MA,02101,USA,2024-06-23,Active,No,Yes,TV/Print,9,520
+CUST-001927,Elizabeth,Martinez,elizabethm@gmail.com,654-930-5959,18,Male,63502,6111 Cedar Rd,Columbus,OH,43201,USA,2023-08-31,Active,No,Yes,Paid Social,7,38
+CUST-001928,Ashley,Ortiz,ashley_ortiz@hotmail.com,922-836-8966,54,Male,99096,4683 Oak Ave,Boston,MA,02101,USA,2022-07-11,Active,No,Yes,Paid Social,5,28
+CUST-001929,Sarah,Gutierrez,sarah_gutierrez@yahoo.com,345-236-4851,30,Male,56608,7313 Lake St,Tampa,FL,33601,USA,2023-05-04,Active,Yes,Yes,Referral,6,76
+CUST-001930,John,Murphy,john.murphy@protonmail.com,261-485-7290,71,Non-binary,31848,8215 Main Dr,Seattle,WA,98101,USA,2024-11-17,Active,No,No,Organic Search,10,2263
+CUST-001931,Deborah,Cruz,deborahcruz@gmail.com,253-876-5999,70,Female,30851,612 Elm St,Columbus,OH,43201,USA,2024-04-24,Inactive,No,Yes,Direct,4,72
+CUST-001932,Nicole,Long,nicole_long@outlook.com,549-943-8111,41,Female,31152,7104 Main St,Indianapolis,IN,46201,USA,2021-11-23,Inactive,No,Yes,Paid Social,5,16
+CUST-001933,Stephen,Roberts,stephen976@protonmail.com,781-987-9501,28,Male,206185,4361 Maple Dr,Oakland,CA,94601,USA,2024-10-29,Active,No,Yes,Organic Search,8,8
+CUST-001934,Cynthia,Myers,cynthiamyers@yahoo.com,287-455-9893,54,Male,30937,4946 Elm Ln,Dallas,TX,75201,USA,2026-05-09,Active,No,Yes,Organic Search,7,370
+CUST-001935,Ronald,Jones,ronald_jones@gmail.com,212-327-6028,52,Female,47880,9413 Elm Blvd,Detroit,MI,48201,USA,2024-12-06,Active,No,Yes,Referral,7,252
+CUST-001936,Daniel,Cruz,daniel.cruz@gmail.com,691-853-4569,48,Female,68941,6794 Main Ln,Baltimore,MD,21201,USA,2026-05-22,Active,Yes,Yes,Referral,10,5935
+CUST-001937,David,Scott,davids@outlook.com,984-482-5252,48,Male,67320,8208 Maple Ave,Kansas City,MO,64101,USA,2024-09-04,Active,No,Yes,Paid Social,3,28
+CUST-001938,Benjamin,Thompson,benjamint@yahoo.com,388-900-9302,50,Male,43636,7314 Elm St,Virginia Beach,VA,23451,USA,2026-02-28,Active,No,No,In-Store,8,4818
+CUST-001939,Stephen,Alvarez,stephen.alvarez@gmail.com,753-935-1732,33,Male,15201,9939 Pine Blvd,Tulsa,OK,74101,USA,2024-12-26,Active,No,Yes,Referral,7,8
+CUST-001940,Susan,Martinez,smartinez@yahoo.com,784-580-7815,49,Female,54188,1269 Washington Blvd,San Diego,CA,92101,USA,2023-07-29,Active,No,Yes,Referral,5,408
+CUST-001941,Charles,Brown,charlesb@gmail.com,583-681-5817,52,Male,42667,610 Maple Blvd,Cleveland,OH,44101,USA,2024-06-02,Active,Yes,Yes,Organic Search,7,37
+CUST-001942,Jennifer,Nguyen,jennifernguyen@gmail.com,723-932-9326,35,Female,51161,9627 Elm Ave,Long Beach,CA,90801,USA,2026-04-18,Active,No,Yes,Affiliate,5,7
+CUST-001943,Timothy,Howard,timothy34@yahoo.com,280-279-4679,26,Male,50439,9363 Washington Ln,Arlington,TX,76001,USA,2025-08-06,Active,No,Yes,Email Campaign,6,26
+CUST-001944,Carolyn,Thomas,carolynt@gmail.com,651-524-5410,36,Female,34143,3295 Cedar Ave,Houston,TX,77001,USA,2023-01-13,Active,No,Yes,Paid Social,8,116
+CUST-001945,Kevin,Young,kevin_young@gmail.com,909-446-8291,39,Male,59421,6816 Elm St,Charlotte,NC,28201,USA,2023-11-19,Active,Yes,No,Organic Search,9,4387
+CUST-001946,Amanda,Bailey,amanda.bailey@outlook.com,628-435-3052,43,Female,17528,8908 Pine Dr,Detroit,MI,48201,USA,2022-10-10,Active,Yes,Yes,Direct,10,4715
+CUST-001947,Alexander,Howard,alexanderhoward@aol.com,283-618-7898,38,Female,114925,8374 Maple Ln,Colorado Springs,CO,80901,USA,2024-12-23,Active,Yes,Yes,Email Campaign,5,65
+CUST-001948,Amy,Watson,amywatson@gmail.com,628-469-8698,61,Female,63776,1754 Maple St,Jacksonville,FL,32201,USA,2021-07-11,Active,No,Yes,Direct,6,100
+CUST-001949,Sharon,Brown,sharonbrown@outlook.com,330-611-4955,48,Female,45771,4906 Oak Blvd,Phoenix,AZ,85001,USA,2025-09-11,Active,Yes,Yes,Paid Social,8,25
+CUST-001950,Carol,Ramos,carolr@outlook.com,659-618-8368,48,Female,32144,7238 Cedar Dr,San Antonio,TX,78201,USA,2022-05-22,Active,No,No,In-Store,5,70
+CUST-001951,Rachel,Moore,rachelmoore@gmail.com,285-355-1127,24,Female,213620,9824 Elm Rd,Arlington,TX,76001,USA,2022-02-22,Active,Yes,No,Referral,9,24
+CUST-001952,Katherine,Collins,katherine_collins@hotmail.com,991-299-4805,24,Female,171918,4971 Lake Blvd,Baltimore,MD,21201,USA,2025-06-13,Active,No,Yes,Organic Search,9,320
+CUST-001953,Michael,Reed,michaelr@gmail.com,526-975-3923,50,Female,335787,2446 Main Rd,Long Beach,CA,90801,USA,2023-08-04,Active,No,Yes,Organic Search,6,138
+CUST-001954,Carolyn,Clark,carolync@gmail.com,491-369-2942,54,Female,25739,4816 Cedar Dr,Seattle,WA,98101,USA,2023-03-20,Active,No,Yes,Organic Search,9,483
+CUST-001955,Jeffrey,Lewis,jeffreylewis@yahoo.com,882-485-3310,50,Female,96377,1672 Pine Ln,Denver,CO,80201,USA,2024-12-25,Active,No,Yes,Affiliate,9,213
+CUST-001956,Angela,Long,angela.long@hotmail.com,578-408-5617,54,Male,39790,9457 Washington Rd,Colorado Springs,CO,80901,USA,2026-03-20,Active,Yes,Yes,Organic Search,6,40
+CUST-001957,Jeffrey,Gutierrez,jgutierrez@gmail.com,705-469-2423,45,Male,15000,2341 Cedar Rd,Denver,CO,80201,USA,2025-10-28,Active,Yes,Yes,Referral,7,5831
+CUST-001958,Christine,Anderson,christine_anderson@yahoo.com,360-719-6494,52,Female,57330,4623 Lake Rd,Philadelphia,PA,19101,USA,2022-04-07,Active,No,Yes,Organic Search,6,283
+CUST-001959,Jack,Rogers,jack.rogers@outlook.com,643-302-9540,38,Male,31516,5302 Pine Ln,Tulsa,OK,74101,USA,2022-08-01,Active,No,Yes,TV/Print,7,33
+CUST-001960,Gregory,Watson,gregory37@aol.com,425-889-4205,65,Female,63286,4446 Lake Ave,Miami,FL,33101,USA,2026-05-24,Active,No,Yes,Direct,8,4247
+CUST-001961,Gary,White,gwhite@yahoo.com,728-940-4509,41,Male,111785,152 Washington St,Denver,CO,80201,USA,2025-09-13,Active,No,No,Email Campaign,6,42
+CUST-001962,Gary,Bailey,garybailey@gmail.com,828-589-4845,49,Female,71625,5813 Lake Ln,Tulsa,OK,74101,USA,2025-06-10,Active,No,Yes,Email Campaign,5,104
+CUST-001963,Gregory,White,gregory_white@outlook.com,845-601-6851,44,Male,146327,9003 Lake Blvd,Charlotte,NC,28201,USA,2021-07-13,Active,Yes,Yes,Email Campaign,7,145
+CUST-001964,Richard,Lewis,richard_lewis@gmail.com,318-380-8614,47,Male,57218,5324 Oak Blvd,Las Vegas,NV,89101,USA,2023-12-07,Active,Yes,Yes,Email Campaign,7,323
+CUST-001965,Rachel,Gomez,rachelgomez@hotmail.com,815-621-4847,62,Female,62566,574 Cedar Blvd,Wichita,KS,67201,USA,2021-06-29,Active,Yes,Yes,Paid Social,8,384
+CUST-001966,Nicholas,Ramirez,nramirez@yahoo.com,621-600-8240,49,Male,185419,7066 Washington Blvd,Houston,TX,77001,USA,2023-04-15,Active,Yes,Yes,Email Campaign,7,25
+CUST-001967,Michael,Wright,michael498@yahoo.com,426-786-3728,23,Female,75740,8882 Pine Rd,Charlotte,NC,28201,USA,2024-07-14,Active,No,Yes,Email Campaign,5,104
+CUST-001968,Joseph,Ward,joseph_ward@protonmail.com,588-292-6460,55,Male,26367,5878 Oak Rd,Dallas,TX,75201,USA,2023-01-18,Active,No,Yes,In-Store,5,35
+CUST-001969,Michael,Gutierrez,michael_gutierrez@outlook.com,935-434-5754,51,Female,130287,2744 Elm Blvd,Mesa,AZ,85201,USA,2025-04-29,Active,No,No,In-Store,6,8
+CUST-001970,Edward,Ramirez,edward567@yahoo.com,739-304-9216,43,Female,111647,6619 Lake St,San Francisco,CA,94101,USA,2026-05-13,Active,No,Yes,Organic Search,5,22
+CUST-001971,Christopher,Torres,christopher.torres@gmail.com,326-586-7565,18,Male,82091,2249 Cedar St,Charlotte,NC,28201,USA,2022-11-24,Inactive,No,Yes,Email Campaign,2,13
+CUST-001972,Elizabeth,Martinez,elizabeth517@gmail.com,754-819-3487,63,Male,93564,1665 Washington Ave,Tulsa,OK,74101,USA,2022-03-01,Active,No,Yes,Organic Search,8,20
+CUST-001973,Nicole,Flores,nicole_flores@gmail.com,407-302-5329,36,Male,46283,9540 Lake Dr,Louisville,KY,40201,USA,2023-07-26,Active,No,Yes,Organic Search,5,273
+CUST-001974,Donna,Diaz,donnadiaz@gmail.com,746-718-5007,32,Female,79303,6365 Main Dr,Las Vegas,NV,89101,USA,2023-04-18,Active,No,Yes,Email Campaign,9,5596
+CUST-001975,Carolyn,Gomez,carolyn_gomez@gmail.com,225-606-4802,26,Male,214915,7425 Elm Dr,New Orleans,LA,70101,USA,2023-05-17,Active,Yes,Yes,Paid Social,5,429
+CUST-001976,Larry,Wilson,larry_wilson@gmail.com,412-701-5095,50,Female,216684,1474 Maple Dr,El Paso,TX,79901,USA,2025-08-19,Active,Yes,No,Referral,5,32
+CUST-001977,Brandon,Stewart,brandon536@gmail.com,458-621-6102,34,Female,217521,5635 Maple St,Atlanta,GA,30301,USA,2022-03-05,Active,Yes,Yes,Paid Social,8,5504
+CUST-001978,Dorothy,Ruiz,dorothyr@protonmail.com,973-775-9007,45,Female,69491,9038 Lake Blvd,Las Vegas,NV,89101,USA,2021-07-21,Active,Yes,No,In-Store,5,4
+CUST-001979,Katherine,Walker,kwalker@gmail.com,916-279-7155,54,Male,15000,2185 Main Ave,Tulsa,OK,74101,USA,2023-09-24,Active,Yes,Yes,Paid Social,5,58
+CUST-001980,Eric,Myers,ericmyers@yahoo.com,707-374-9594,43,Female,69125,8082 Maple Rd,Fort Worth,TX,76101,USA,2023-12-26,Active,Yes,Yes,Referral,5,163
+CUST-001981,Stephen,Turner,stephen.turner@protonmail.com,892-477-9560,55,Male,116560,5381 Elm Ln,Denver,CO,80201,USA,2025-10-12,Active,No,Yes,Organic Search,8,5
+CUST-001982,Katherine,Perez,katherine_perez@hotmail.com,580-731-5116,40,Female,37537,7835 Lake Ave,Sacramento,CA,95801,USA,2022-08-07,Active,Yes,No,In-Store,8,6588
+CUST-001983,Kevin,Myers,kevinmyers@outlook.com,383-353-8708,34,Male,41972,1198 Main Blvd,Austin,TX,78701,USA,2023-07-02,Active,Yes,Yes,In-Store,10,2896
+CUST-001984,Rachel,Harris,rachel205@gmail.com,839-679-3563,52,Male,81427,1193 Elm Rd,San Antonio,TX,78201,USA,2023-06-04,Active,Yes,Yes,Referral,8,8
+CUST-001985,Brenda,Lewis,brenda354@outlook.com,798-946-6009,26,Female,44609,6117 Washington Blvd,New York,NY,10001,USA,2025-05-11,Active,No,Yes,Affiliate,7,10
+CUST-001986,Brenda,Cooper,brenda657@yahoo.com,421-486-3921,25,Male,62738,4407 Oak Ave,Fort Worth,TX,76101,USA,2026-01-02,Active,No,Yes,Paid Social,9,11
+CUST-001987,Eric,Ramos,eramos@hotmail.com,830-884-8756,57,Female,172345,3529 Maple St,El Paso,TX,79901,USA,2023-03-19,Active,Yes,Yes,Direct,9,256
+CUST-001988,Sandra,Ramirez,sandrar@yahoo.com,531-279-1855,30,Female,57454,2344 Lake Dr,San Jose,CA,95101,USA,2025-08-20,Active,No,No,Email Campaign,6,343
+CUST-001989,Christine,Stewart,christine_stewart@outlook.com,586-992-7316,49,Male,140340,7873 Elm Blvd,Fresno,CA,93701,USA,2022-03-06,Active,No,Yes,Paid Social,3,110
+CUST-001990,Eric,Green,eric.green@gmail.com,484-928-3341,27,Male,213278,7263 Lake Dr,Colorado Springs,CO,80901,USA,2021-09-19,Active,No,Yes,Email Campaign,6,22
+CUST-001991,Frank,Allen,frank.allen@hotmail.com,677-989-6668,36,Female,91855,7048 Pine Ln,Kansas City,MO,64101,USA,2023-12-31,Active,No,No,Email Campaign,7,6
+CUST-001992,Brenda,Harris,brenda_harris@yahoo.com,738-399-1091,18,Male,57765,9704 Cedar Blvd,Jacksonville,FL,32201,USA,2022-03-31,Active,No,Yes,Paid Social,5,228
+CUST-001993,Richard,Mitchell,richard_mitchell@aol.com,857-690-7525,44,Male,54329,819 Cedar Blvd,Fresno,CA,93701,USA,2026-05-14,Active,Yes,Yes,Paid Social,7,37
+CUST-001994,Benjamin,Davis,benjamind@hotmail.com,665-702-3847,38,Male,91076,7856 Oak St,Los Angeles,CA,90001,USA,2021-08-07,Active,No,No,Direct,8,331
+CUST-001995,Melissa,Brown,melissa628@yahoo.com,284-629-2956,54,Male,95594,1018 Lake Rd,San Jose,CA,95101,USA,2022-06-25,Active,No,No,Direct,8,3626
+CUST-001996,Patrick,Davis,patrick.davis@yahoo.com,217-540-6185,18,Female,93729,2872 Elm Ln,Mesa,AZ,85201,USA,2024-11-18,Active,No,Yes,Affiliate,4,28
+CUST-001997,Mary,Bennett,mbennett@gmail.com,351-946-5368,18,Female,36282,1475 Maple Dr,Omaha,NE,68101,USA,2022-09-07,Active,Yes,Yes,Affiliate,7,4138
+CUST-001998,Jennifer,Scott,jenniferscott@yahoo.com,203-518-5485,38,Female,58625,9284 Elm St,Minneapolis,MN,55401,USA,2023-08-09,Inactive,No,Yes,Organic Search,4,7
+CUST-001999,Carol,Reyes,carol582@gmail.com,386-947-2415,58,Male,73517,3141 Elm Ln,Philadelphia,PA,19101,USA,2023-04-07,Active,No,Yes,Affiliate,8,345
